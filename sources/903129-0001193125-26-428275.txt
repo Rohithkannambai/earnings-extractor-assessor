@@ -1,0 +1,373 @@
+Company: Gentherm Inc (CIK 903129)
+Accession: 0001193125-26-428275
+Results released: 2026-10-22
+Press release: https://www.sec.gov/Archives/edgar/data/903129/000119312526428275/thrm-ex99_1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/903129/000119312526428275/0001193125-26-428275-index.htm
+Saved: 2026-10-25T22:22:01+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 thrm-ex99_1.htm EX-99.1
+Exhibit 99.1
+Gentherm Reports 2026 Third Quarter Results
+Delivered Revenue of $405 Million, up 4.4% (ex-FX) Year-over-Year
+2026 Full Year Guidance Updated to Include Modine Performance Technologies
+Repurchased $60 Million of Common Stock in October
+NOVI, Michigan, October 22, 2026 -- Gentherm (NASDAQ:THRM), a global leader of innovative thermal and precision flow management technologies, today announced its financial results for the third quarter ended September 30, 2026.
+“Our third quarter results were in line with expectations as we made continued progress on growth and operational excellence initiatives, while completing the Modine Performance Technologies combination on October 1,” said Bill Presley, the Company's President and CEO. “With the completion of the transaction, we are fundamentally a different company. We are entering an exciting new phase for Gentherm with industry leading platforms and I am increasingly confident in the significant value creation opportunities ahead.”
+Third Quarter Highlights
+•
+Secured Automotive New Business Awards totaling $555 million in the quarter.
+•
+Expanded portfolio of differentiated technologies with launch of ThermAffyx™ Patient Safety System and Puls.A™.
+•
+Product revenues of $405.1 million increased 4.7% from $386.9 million in the prior year. Excluding the impact of foreign currency translation, product revenues increased 4.4%.
+•
+Automotive Climate and Comfort Solutions revenue increased 8.8% year over year, or 8.5% excluding the impact of foreign currency translation, outperforming S&P Global’s mid-October light vehicle production report in our relevant markets by 12 percentage points.
+•
+Gross margin was 23.3%, compared to 24.6% in the prior year. The decrease was primarily driven by foreign exchange, higher net material costs and inflation, partially offset by strong operating leverage.
+•
+Net (loss) income was $(2.6) million, compared to $14.9 million in the prior year.
+•
+Adjusted EBITDA was $45.0 million, or 11.1% of revenue, compared to $49.0 million, or 12.7% of revenue, in the prior year.
+•
+GAAP diluted (loss) earnings per share was $(0.08), compared to $0.49 in the prior year.
+•
+Adjusted diluted earnings per share was $0.33,compared to $0.73 in the prior year.
+•
+Cash flow from operations was $36.0 million, compared to $87.8 million in the prior year.
+•
+Adjusted free cash flow was $59.5 million, compared to $72.3 million in the prior year.
+The Company provides various non-GAAP financial measures in this release. See “Use of Non-GAAP Measures” below for additional information, including definitions, usefulness for investors and limitations, as well as reconciliations below to the most directly comparable GAAP financial measures.
+Guidance
+The Company updated its full year 2026 guidance to reflect the expected contribution from Modine Performance Technologies in the fourth quarter¹.
+As of July 2026 | As of October 2026
+Product Revenues | $1.55B – $1.65B | $1.825B – $1.925B
+Adjusted EBITDA | $185M – $200M | $210M – $230M
+Adjusted Free Cash Flow | $85M – $100M | $100M – $120M
+¹2026 guidance based on tariffs currently in effect as of today, our current forecast of customer demand and expectations of near-term conditions, light vehicle production in our relevant markets decreasing at a low single digit rate for full year 2026 versus 2025, and a EUR to USD exchange rate of $1.15/Euro.
+Capital Allocation Update
+•
+On July 1, acquired Innovative Medical Equipment, LLC, provider of the ThermaZone® thermal therapy device, expanding thermal management product portfolio and providing strong cross-selling opportunities by leveraging complementary customer bases across additional healthcare channels.
+•
+On October 1, completed combination with Modine’s Performance Technologies business.
+•
+On October 7, returned $63.5 million to shareholders through a special cash dividend of $2.07 per share as part of the Modine transaction.
+•
+In July, the Board of Directors authorized a new stock repurchase program of up to $400 million of the Company’s issued and outstanding common stock. Following the closing of the transaction with Modine in October, the Company repurchased $60 million of common stock. As of today, the program has approximately $340 million of stock repurchase authorization remaining.
+•
+Third quarter ended with net leverage of ~0.4x and liquidity of $494.2 million.
+“As expected, following the combination with Modine Performance Technologies, we remain in a strong financial position and continue to have confidence in the ability to generate significant cash moving forward,” said Jon Douyard, the Company’s Chief Financial Officer. “We believe the current share price does not reflect the value of the Company. We previously communicated our intention to repurchase shares following the Modine transaction. Since closing, we have repurchased $60 million and we remain committed to returning capital to shareholders, particularly in times of value dislocation.”
+Conference Call
+As previously announced, Gentherm will conduct a conference call today at 8:00 am Eastern Time to review these results. The dial-in number for the call is 1-877-407-4018 (callers in the U.S.) or +1-201-689-8471 (callers outside the U.S.). The passcode for the live call is 13763267.
+A live webcast and one-year archived replay of the call, as well as a copy of the supplemental materials that will be used during the conference call, can be accessed on the Events page of the Investor section of Gentherm's website at www.gentherm.com.
+A telephonic replay will be available approximately two hours after the call until 11:59 pm Eastern Time on November 5, 2026. The replay can be accessed by dialing 1-844-512-2921 (callers in the U.S.), or +1-412-317-6671 (callers outside the U.S.). The passcode for the replay is 13763267.
+Investor Contact
+Gregory Blanchette
+investors@gentherm.com
+248.308.1702
+Media Contact
+Haley Baur
+media@gentherm.com
+248.289.9711
+About Gentherm
+Gentherm (NASDAQ: THRM) is a global leader of innovative thermal and precision flow management technologies. The Company brings together industry leading products from Gentherm’s climate, comfort and valves businesses serving the light vehicle, medical, and home and office markets, with Modine’s highly engineered, mission-critical thermal solutions serving commercial vehicle, off-highway equipment, light vehicle and power generation markets. Gentherm has more than 18,000 employees in facilities across 17 countries. For more information, go to www.gentherm.com.
+Forward-Looking Statements
+Except for historical information contained herein, statements in this release are forward-looking statements that are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements represent Gentherm Incorporated's goals, beliefs, plans and expectations about its prospects for the future and other future events. The forward-looking statements included in this release are made as of the date hereof or as of the date specified herein and are based on management's reasonable expectations and beliefs. In making these statements we rely on assumptions and analysis based on our experience and perception of historical trends, current conditions and expected future developments, third party information and projections from sources that management believes to be reputable, as well as other factors we consider appropriate under the circumstances. Such statements are subject to a number of important assumptions, significant risks and uncertainties (some of which are beyond our control) and other factors that may cause actual results or performance to differ materially from that described in or indicated by the forward-looking statements, including but not limited to:
+-
+macroeconomic, geopolitical and similar global factors in the cyclical Automotive industry;
+-
+the impact of, and our ability to mitigate the effects of, global economic and trade policies, including increases in duties, tariffs and taxation on the import or export of our products related to U.S. trade disputes;
+-
+increasing U.S. and global competition, including with non-traditional entrants;
+-
+our ability to effectively manage new product launches and research and development, and the market acceptance of such products and technologies;
+-
+the evolution and challenges of the automotive industry towards electric vehicles, autonomous vehicles and mobility on demand services, and related consumer behaviors and preferences;
+-
+our ability to convert automotive new business awards into product revenues;
+-
+the constraints in the supply chain environment, and inflationary and other cost pressures;
+-
+the production levels of our major customers and OEMs in our relevant markets and sudden fluctuations in such production levels;
+-
+our business in China, which is subject to unique operational, competitive, geopolitical, regulatory and economic risks;
+-
+the impact of our global operations, including our cost structure and global manufacturing footprint, operations within Ukraine, and foreign currency and exchange risk;
+-
+our product quality and safety and impact of product safety recalls and alleged defects in products;
+-
+our ability to attract and retain highly skilled employees and wage inflation;
+-
+a tightening labor market, labor shortages or work stoppages impacting us, our customers or our suppliers, such as recent labor strikes among certain OEMs and suppliers;
+-
+our achievement of product cost reductions to offset customer-imposed price reductions or other pricing pressures;
+-
+our ability to execute efforts to optimize our global supply chain and manufacturing footprint, including opening new facilities and transferring production;
+-
+our ability to source, consummate, integrate and achieve planned benefits of strategic acquisitions, investments and, as applicable, exits;
+-
+any security breaches and other disruptions to our information technology networks and systems, as well as privacy, data security and data protection risks, including risks associated with use of artificial intelligence capabilities in our business operations;
+-
+any loss or insolvency of our key customers and OEMs, or key suppliers;
+-
+our ability to project future sales volume based on third-party information, based on which we manage our business;
+-
+the protection of our intellectual property in certain jurisdictions;
+-
+our compliance with global anti-corruption laws and regulations;
+-
+legal and regulatory proceedings and claims involving us or one of our major customers;
+-
+the extensive regulation of our patient temperature management business;
+-
+risks associated with our manufacturing processes;
+-
+the effects of climate change and regulatory and stakeholder-imposed requirements to address climate change and other sustainability issues;
+-
+our product quality and safety;
+-
+our borrowing availability under our revolving credit facility, as well as the ability to access the capital markets, to support our planned growth; and
+-
+our indebtedness and compliance with our debt covenants.
+Furthermore, important factors related to the combination with Modine Performance Technologies (the “Transaction”) could cause actual results to differ materially from those currently anticipated, including:
+-
+uncertainty of the expected financial performance of the combined company following completion of the Transaction;
+-
+failure to realize the anticipated benefits of the Transaction;
+-
+the ability of the combined company to implement its business strategy;
+-
+difficulties and delays in the combined company achieving revenue and cost synergies;
+-
+inability of the combined company to retain and hire key personnel;
+-
+evolving legal, regulatory and tax regimes;
+-
+changes in general economic and/or industry specific conditions or any volatility resulting from the imposition of and changing policies, including those policies with respect to tariffs; and
+-
+actions by third parties, including government agencies.
+The foregoing risks should be read in conjunction with the Company's reports filed with or furnished to the Securities and Exchange Commission (the “SEC”), including “Risk Factors,” in its most recent Annual Report on Form 10-K and subsequent SEC filings, for a discussion of these and other risks and uncertainties. In addition, with reasonable frequency, we have entered into business combinations, acquisitions, divestitures, strategic investments and other significant transactions. Such forward-looking statements do not include the potential impact of any such transactions that may be completed after the date hereof, each of which may present material risks to the Company’s future business and financial results. Moreover, we operate in a very competitive and rapidly changing environment and new risks emerge from time to time.
+Except as required by law, the Company expressly disclaims any obligation or undertaking to update any forward-looking statements to reflect any change in its strategies or expectations with regard thereto or any change in events, conditions or circumstances on which any such statement is based.
+Use of Non-GAAP Financial Measures
+In addition to the results reported in accordance with GAAP throughout this release, the Company has provided here or elsewhere information regarding: adjusted earnings before interest, taxes, depreciation and amortization (“Adjusted EBITDA”); Adjusted EBITDA margin; Adjusted net income; Adjusted earnings per share (“Adjusted earnings per share” or “Adjusted EPS”); Quarter-to-date Operating Cash Flow; Free Cash Flow; Adjusted Free Cash Flow; Adjusted Free Cash Flow Conversion rate; net capital expenditures (“net CAPEX”); Net Debt; Liquidity; Net Leverage Ratio (“Net Leverage”); revenue, segment revenue and product revenue excluding foreign currency translation and other specified gains and losses; Adjusted operating expenses; Pro Forma Revenue; Pro Forma Adjusted EBITDA; and Pro Forma Adjusted EBITDA Margin, each a non-GAAP financial measure. The Company defines Adjusted EBITDA as earnings before interest, taxes, depreciation and amortization, deferred financing cost amortization, non-cash stock based compensation expenses, restructuring expenses, net, unrealized currency gain or loss and other gains and losses not reflective of the Company’s ongoing operations and related tax effects. The Company defines Adjusted EBITDA margin as Adjusted EBITDA divided by product revenues. The Company defines Adjusted net income as earnings adjusted by restructuring expenses, net, unrealized currency gain or loss and other gains and losses not reflective of the Company’s ongoing operations and related tax effects. The Company defines Adjusted EPS as Adjusted net income divided by the Company’s weighted average shares outstanding. The Company defines Quarter-to-date Operating Cash Flow as Net cash provided by/(used in) operating activities for the current period, less that of the immediately preceding period. The Company defines Free Cash Flow as Net cash provided by/(used in) operating activities plus Proceeds from the sale of property and equipment less Purchases of property and equipment. The Company defines net CAPEX as Purchases of property and equipment less Proceeds from the sale of property and
+equipment. The Company defines Adjusted Free Cash Flow as Net cash provided by/(used in) operating activities, excluding cash restructuring expenses, net and other gains and losses not reflective of the Company’s ongoing operations, less net CAPEX. The Company defines Adjusted Free Cash Flow Conversion rate as Adjusted Free Cash Flow divided by Adjusted EBITDA. The Company defines Net Debt as the principal amount of all Consolidated Funded Indebtedness (as defined in the Credit Agreement) less cash and cash equivalents. The Company defines Liquidity as the sum of cash and cash equivalents and availability under the Company’s revolving line of credit. The Company defines Net Leverage as Net Debt divided by Adjusted EBITDA for the trailing four fiscal quarters. The Company defines revenue, segment revenue or product revenue excluding foreign currency translation and other specified gains and losses as such revenue, excluding the estimated effects of foreign currency exchange on revenue by translating actual revenue using the prior period foreign currency exchange rates and excluding the other items specified. The Company defines Adjusted operating expenses as operating expenses excluding related non-cash stock based compensation, restructuring expenses, net, and other gains and losses not reflective of the Company’s ongoing operations. The Company defines Pro Forma Revenue as Gentherm’s product revenues for the trailing four fiscal quarters (from the date specified), plus Modine Performance Technologies’ Net sales for the trailing four fiscal quarters (from the date specified), as reported by Modine Manufacturing Company, adjusted to reflect the latest business structure. The Company defines Pro Forma Adjusted EBITDA as Gentherm’s Adjusted EBITDA for the trailing four fiscal quarters (from the date specified), plus Modine Performance Technologies’ Adjusted EBITDA for the trailing four fiscal quarters (from the date specified), as reported by Modine Manufacturing Company, adjusted to reflect the latest business structure and go-forward operational alignment. The Company defines Pro Forma Adjusted EBITDA Margin as Pro Forma Adjusted EBITDA divided by Pro Forma Revenue.
+The Company’s reconciliations are included in this release or can be found in the supplemental materials for this reporting period on the Company’s website.
+In evaluating its business, the Company considers and uses Quarter-to-date Operating Cash Flow, Free Cash Flow, Adjusted Free Cash Flow, Adjusted Free Cash Flow Conversion rate, Net Debt, Net Leverage and Liquidity as supplemental measures of its liquidity and the other non-GAAP financial measures as supplemental measures of its operating performance. Management provides such non-GAAP financial measures so that investors will have the same financial information that management uses with the belief that it will assist investors in properly assessing the Company's performance on a period-over-period basis by excluding matters not indicative of the Company’s ongoing operating or liquidity results and therefore enhance the comparability of the Company's results and provide additional information for analyzing trends in the business. In evaluating our non-GAAP financial measures, you should be aware that in the future we may incur revenues, expenses, and cash and non-cash obligations that are the same as or similar to some of the adjustments in our presentation of non-GAAP financial measures. Our presentation of non-GAAP financial measures should not be construed as an inference that our future results will be unaffected by unusual or non-recurring items. There also can be no assurance that we will not modify the presentation of our non-GAAP financial measures in the future, and any such modification may be material. Other companies in our industry may define and calculate these non-GAAP financial measures differently than we do and those calculations may not be comparable to our metrics. These non-GAAP measures have limitations as analytical tools, and when assessing the Company's operating performance or liquidity, investors should not consider these non-GAAP measures in isolation, or as a substitute for net income/(loss), revenue or other consolidated income/(loss) statement or cash flow statement data prepared in accordance with GAAP.
+Non-GAAP measures referenced in this release and other public communications may include estimates of future Adjusted EBITDA, Adjusted EBITDA margin, Adjusted Free Cash Flow, Adjusted Free Cash Flow Conversion rate, Adjusted EPS, Pro Forma Revenue, Pro Forma Adjusted EBITDA and Pro Forma Adjusted EBITDA Margin. The Company has not reconciled the non-GAAP forward-looking guidance included in this release to the most directly comparable GAAP measures because this cannot be done without unreasonable effort due to the variability and low visibility with respect to taxes and non-recurring items, which are potential adjustments to future earnings. We expect the variability of these items to have a potentially unpredictable, and a potentially significant, impact on our future GAAP financial results.
+GENTHERM INCORPORATED
+CONSOLIDATED CONDENSED STATEMENTS OF (LOSS) INCOME
+(Dollars in thousands, except per share data)
+(Unaudited)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Product revenues | $ | 405,102 | $ | 386,870 | $ | 1,214,974 | $ | 1,115,814
+Cost of sales | 310,798 | 291,722 | 927,016 | 844,439
+Gross margin | 94,304 | 95,148 | 287,958 | 271,375
+Operating expenses:
+Net research and development expenses | 23,465 | 24,429 | 71,480 | 71,203
+Selling, general and administrative expenses | 51,638 | 42,875 | 162,648 | 122,440
+Restructuring expenses, net | 4,838 | 3,986 | 17,493 | 10,608
+Loss on sale of land and building, net | — | — | — | 2,196
+Total operating expenses | 79,941 | 71,290 | 251,621 | 206,447
+Operating income | 14,363 | 23,858 | 36,337 | 64,928
+Interest expense, net | (3,832 | ) | (3,313 | ) | (9,755 | ) | (10,911 | )
+Foreign currency gain (loss) | 193 | 339 | (1,104 | ) | (27,391 | )
+Other income (loss) | 116 | — | 300 | (1,124 | )
+Earnings before income tax | 10,840 | 20,884 | 25,778 | 25,502
+Income tax expense | 13,430 | 5,935 | 19,730 | 10,204
+Net (loss) income | $ | (2,590 | ) | $ | 14,949 | $ | 6,048 | $ | 15,298
+Basic (loss) earnings per share | $ | (0.08 | ) | $ | 0.49 | $ | 0.20 | $ | 0.50
+Diluted (loss) earnings per share | $ | (0.08 | ) | $ | 0.49 | $ | 0.19 | $ | 0.50
+Weighted average number of shares – basic | 30,672 | 30,480 | 30,613 | 30,619
+Weighted average number of shares – diluted | 30,672 | 30,748 | 31,078 | 30,802
+GENTHERM INCORPORATED
+REVENUE BY PRODUCT CATEGORY AND RECONCILIATION OF FOREIGN CURRENCY TRANSLATION IMPACT
+(Dollars in thousands)
+(Unaudited)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | % Change | 2026 | 2025 | % Change
+Climate Control Seats | $ | 215,603 | $ | 201,275 | 7.1 | % | $ | 639,656 | $ | 592,448 | 8.0 | %
+Lumbar and Massage Comfort Solutions | 70,923 | 55,799 | 27.1 | % | 205,772 | 153,642 | 33.9 | %
+Climate Control Interiors | 51,939 | 52,638 | (1.3 | )% | 155,241 | 147,564 | 5.2 | %
+Climate and Comfort Electronics | 7,925 | 8,599 | (7.8 | )% | 25,831 | 22,220 | 16.3 | %
+Automotive Climate and Comfort Solutions | 346,390 | 318,311 | 8.8 | % | 1,026,500 | 915,874 | 12.1 | %
+Valve Systems | 21,596 | 24,487 | (11.8 | )% | 73,271 | 72,803 | 0.6 | %
+Other Automotive | 22,611 | 31,413 | (28.0 | )% | 77,807 | 91,260 | (14.7 | )%
+Subtotal Automotive segment | 390,597 | 374,211 | 4.4 | % | 1,177,578 | 1,079,937 | 9.0 | %
+Medical segment | 14,505 | 12,659 | 14.6 | % | 37,396 | 35,877 | 4.2 | %
+Total Company | $ | 405,102 | $ | 386,870 | 4.7 | % | $ | 1,214,974 | $ | 1,115,814 | 8.9 | %
+Foreign currency translation impact (a) | 1,025 | — | 20,617 | —
+Total Company, excluding foreign currency translation impact | $ | 404,077 | $ | 386,870 | 4.4 | % | $ | 1,194,357 | $ | 1,115,814 | 7.0 | %
+(a) Foreign currency translation impacts for the Automotive segment and Medical segment were $967 and $58 respectively, for the three months ended September 30, 2026. Foreign currency translation impacts for Automotive Climate and Comfort Solutions was $1,102 for the three months ended September 30, 2026. Foreign currency translation impacts for the Automotive segment and Medical segment were $20,107 and $510 respectively, for the nine months ended September 30, 2026. Foreign currency translation impacts for Automotive Climate and Comfort Solutions was $16,320 for the nine months ended September 30, 2026.
+GENTHERM INCORPORATED
+RECONCILIATION OF NET (LOSS) INCOME TO ADJUSTED EBITDA
+AND ADJUSTED EBITDA MARGIN
+(Dollars in thousands)
+(Unaudited)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Net (loss) income | $ | (2,590 | ) | $ | 14,949 | $ | 6,048 | $ | 15,298
+Add back:
+Depreciation and amortization | 14,704 | 13,274 | 43,087 | 39,120
+Income tax expense | 13,430 | 5,935 | 19,730 | 10,204
+Interest expense, net | 3,832 | 3,313 | 9,755 | 10,911
+Adjustments:
+Non-cash stock based compensation | 2,925 | 3,980 | 10,371 | 10,569
+Restructuring expenses, net | 4,838 | 3,986 | 17,493 | 10,608
+Unrealized currency loss | 681 | 1,865 | 855 | 30,349
+Merger and acquisition expenses | 6,528 | — | 34,187 | —
+Leadership transition expenses | 328 | 777 | 1,738 | 2,935
+Loss on sale of land and building, net | — | — | — | 2,196
+Other (a) | 328 | 928 | (130 | ) | 2,055
+Adjusted EBITDA | $ | 45,004 | $ | 49,007 | $ | 143,134 | $ | 134,245
+Product revenues | $ | 405,102 | $ | 386,870 | $ | 1,214,974 | $ | 1,115,814
+Net (loss) income margin | (0.6 | )% | 3.9 | % | 0.5 | % | 1.4 | %
+Adjusted EBITDA margin | 11.1 | % | 12.7 | % | 11.8 | % | 12.0 | %
+(a) Includes a $1,294 decrease in fair value of an equity investment for the nine months ended September 30, 2025.
+GENTHERM INCORPORATED
+RECONCILIATION OF NET (LOSS) INCOME TO ADJUSTED NET INCOME
+AND ADJUSTED EARNINGS PER SHARE
+(Dollars in thousands, except per share data)
+(Unaudited)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Net (loss) income | $ | (2,590 | ) | $ | 14,949 | $ | 6,048 | $ | 15,298
+Amortization of acquisition related intangibles | 2,427 | 1,676 | 5,802 | 4,873
+Restructuring expenses, net | 4,838 | 3,986 | 17,493 | 10,608
+Unrealized currency loss | 681 | 1,865 | 855 | 30,349
+Merger and acquisition expenses | 6,528 | — | 34,187 | —
+Leadership transition expenses | 328 | 777 | 1,738 | 2,935
+Loss on sale of land and building, net | — | — | — | 2,196
+Other | (116 | ) | 928 | (574 | ) | 2,055
+Tax effect of above | (2,089 | ) | (1,582 | ) | (6,550 | ) | (13,422 | )
+Adjusted net income | $ | 10,007 | $ | 22,599 | $ | 58,999 | $ | 54,892
+Weighted average shares outstanding:
+Basic | 30,672 | 30,480 | 30,613 | 30,619
+Diluted | 30,672 | 30,748 | 31,078 | 30,802
+(Loss) Earnings per share, as reported:
+Basic | $ | (0.08 | ) | $ | 0.49 | $ | 0.20 | $ | 0.50
+Diluted | $ | (0.08 | ) | $ | 0.49 | $ | 0.19 | $ | 0.50
+Adjusted earnings per share:
+Basic | $ | 0.33 | $ | 0.74 | $ | 1.93 | $ | 1.79
+Diluted | $ | 0.33 | $ | 0.73 | $ | 1.90 | $ | 1.78
+GENTHERM INCORPORATED
+CONSOLIDATED CONDENSED BALANCE SHEETS
+(Dollars in thousands, except share data)
+(Unaudited)
+September 30, 2026 | December 31, 2025
+ASSETS
+Current Assets:
+Cash and cash equivalents | $ | 252,098 | $ | 160,833
+Accounts receivable, net | 326,217 | 281,083
+Inventory:
+Raw materials | 127,403 | 128,314
+Work in process | 44,437 | 35,429
+Finished goods | 91,647 | 88,959
+Inventory, net | 263,487 | 252,702
+Other current assets | 85,678 | 82,332
+Total current assets | 927,480 | 776,950
+Property and equipment, net | 263,561 | 270,614
+Goodwill | 122,258 | 108,918
+Other intangible assets, net | 63,858 | 52,796
+Operating lease right-of-use assets | 48,674 | 56,524
+Deferred income tax assets | 93,853 | 93,552
+Other non-current assets | 42,615 | 37,075
+Total assets | $ | 1,562,299 | $ | 1,396,429
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+Current Liabilities:
+Accounts payable | $ | 298,183 | $ | 260,487
+Current lease liabilities | 7,846 | 9,646
+Current maturities of long-term debt | 912 | 73
+Other current liabilities | 144,999 | 134,104
+Total current liabilities | 451,940 | 404,310
+Long-term debt, less current maturities | 319,531 | 189,000
+Non-current lease liabilities | 42,469 | 48,105
+Pension benefit obligation | 3,281 | 3,748
+Other non-current liabilities | 23,760 | 30,943
+Total liabilities | $ | 840,981 | $ | 676,106
+Shareholders’ Equity:
+Common Stock:
+No par value; 110,000,000 shares authorized 30,710,902 and 30,526,231 issued and outstanding at September 30, 2026 and December 31, 2025, respectively | 13,442 | 5,611
+Paid-in capital | 1,590 | 1,590
+Accumulated other comprehensive loss | (13,848 | ) | (964 | )
+Accumulated earnings | 720,134 | 714,086
+Total shareholders’ equity | 721,318 | 720,323
+Total liabilities and shareholders’ equity | $ | 1,562,299 | $ | 1,396,429
+GENTHERM INCORPORATED
+CONSOLIDATED CONDENSED STATEMENTS OF CASH FLOWS
+(Dollars in thousands)
+(Unaudited)
+Nine Months Ended September 30,
+2026 | 2025
+Operating Activities:
+Net income | $ | 6,048 | $ | 15,298
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization | 44,201 | 39,478
+Deferred income taxes | (9,548 | ) | (12,836 | )
+Stock based compensation | 10,371 | 10,573
+Loss on disposition of property and equipment | 121 | 2,671
+Provisions for inventory | 4,086 | 5,234
+Other non-cash items, including unrealized foreign currency (gain) loss | (1,018 | ) | 30,957
+Changes in assets and liabilities:
+Accounts receivable, net | (43,474 | ) | (20,543 | )
+Inventory | (22,133 | ) | (20,136 | )
+Other assets | (1,403 | ) | (22,325 | )
+Accounts payable | 43,305 | 33,514
+Other liabilities | 5,451 | 25,935
+Net cash provided by operating activities | 36,007 | 87,820
+Investing Activities:
+Purchases of property and equipment | (22,558 | ) | (33,378 | )
+Proceeds from the sale of property and equipment | 83 | 3,770
+Acquisition of business, net of cash acquired | (34,152 | ) | —
+Cost of technology investments | (121 | ) | (915 | )
+Proceeds from deferred purchase price of factored receivables | — | 744
+Net cash used in investing activities | (56,748 | ) | (29,779 | )
+Financing Activities: | — | —
+Borrowings on debt | 204,000 | 72,000
+Repayments of debt | (85,887 | ) | (103,112 | )
+Cash paid for financing new loans | (2,761 | ) | —
+Taxes withheld and paid on employees' stock based compensation | (2,540 | ) | (1,306 | )
+Cash paid for the repurchase of Common Stock | — | (10,015 | )
+Net cash provided by (used in) financing activities | 112,812 | (42,433 | )
+Foreign currency effect | (806 | ) | 4,508
+Net increase in cash and cash equivalents | 91,265 | 20,116
+Cash and cash equivalents at beginning of period | 160,833 | 134,134
+Cash and cash equivalents at end of period | $ | 252,098 | $ | 154,250
+GENTHERM INCORPORATED
+OTHER NON-GAAP RECONCILIATIONS
+(Dollars in thousands)
+(Unaudited)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Total operating expenses | $ | 79,941 | $ | 71,290 | $ | 251,621 | $ | 206,447
+Restructuring expense, net | (4,838 | ) | (3,986 | ) | (17,493 | ) | (10,608 | )
+Non-cash stock based compensation | (2,889 | ) | (3,979 | ) | (9,843 | ) | (10,211 | )
+Merger and acquisition expenses | (6,528 | ) | — | (34,187 | ) | —
+Leadership transition expenses | (328 | ) | (777 | ) | (1,738 | ) | (2,935 | )
+Loss on sale of land and building, net | — | — | — | (2,196 | )
+Other | — | (927 | ) | — | (927 | )
+Adjusted operating expenses | $ | 65,358 | $ | 61,621 | $ | 188,360 | $ | 179,570
+September 30, 2026 | September 30, 2025
+Cash and cash equivalents | $ | 252,098 | $ | 154,250
+Revolving line of credit availability | 242,141 | 307,938
+Total liquidity | $ | 494,239 | $ | 462,188
+September 30, 2026 | September 30, 2025
+Current maturities of long-term debt | $ | 912 | $ | 109
+Long-term debt, less current maturities | 319,531 | 189,000
+Total Debt | 320,443 | 189,109
+Cash and cash equivalents | 252,098 | 154,250
+Net Debt | $ | 68,345 | $ | 34,859
+Adjusted EBITDA for the trailing four fiscal quarters | $ | 181,034 | $ | 175,620
+Net Leverage | 0.4 | 0.2
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Net cash provided by operating activities | $ | 33,735 | $ | 56,119 | $ | 36,007 | $ | 87,820
+Purchases of property and equipment | (8,355 | ) | (9,650 | ) | (22,558 | ) | (33,378 | )
+Proceeds from the sale of property and equipment | 13 | 25 | 83 | 3,770
+Free Cash Flow | 25,393 | 46,494 | 13,532 | 58,212
+Cash effect of adjustments:
+Restructuring expenses, net | 5,352 | 2,308 | 11,970 | 6,648
+Merger and acquisition expenses | 11,915 | 15 | 32,967 | 15
+Leadership transition expenses | 989 | 650 | 1,015 | 6,711
+Other | — | 2,103 | — | 704
+Adjusted Free Cash Flow | $ | 43,649 | $ | 51,570 | $ | 59,484 | $ | 72,290

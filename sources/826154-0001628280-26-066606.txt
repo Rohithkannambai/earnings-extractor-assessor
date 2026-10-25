@@ -1,0 +1,562 @@
+Company: ORRSTOWN FINANCIAL SERVICES INC (CIK 826154)
+Accession: 0001628280-26-066606
+Results released: 2026-10-21
+Press release: https://www.sec.gov/Archives/edgar/data/826154/000162828026066606/ex9912026-q3earningsrelease.htm
+Filing: https://www.sec.gov/Archives/edgar/data/826154/000162828026066606/0001628280-26-066606-index.htm
+Saved: 2026-10-25T22:22:01+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex9912026-q3earningsrelease.htm EX-99.1
+Exhibit 99.1
+FOR IMMEDIATE RELEASE:
+Orrstown Financial Services, Inc. Reports Third Quarter 2026 Results
+•Net income of $22.8 million, or $1.17 per diluted share, for the three months ended September 30, 2026 compared to net income of $21.2 million, or $1.09 per diluted share, for the three months ended June 30, 2026;
+•Net interest margin, on a tax equivalent basis, increased by 25 basis points to 4.12% in the third quarter of 2026 compared to 3.87% in the second quarter of 2026; excluding the amortization of the fair value mark on the redeemed subordinated notes, net interest margin was 4.00% (1) in the second quarter of 2026;
+•Return on average assets was 1.60% and return on average equity was 14.62% for the three months ended September 30, 2026, compared to 1.53% and 13.96%, respectively, for the three months ended June 30, 2026;
+•Total loans increased by $95.3 million, or 9% annualized, from June 30, 2026 to September 30, 2026; classified loans decreased by 8% during the third quarter of 2026; nonaccrual loans to total loans decreased to 0.54% at September 30, 2026 from 0.58% at June 30, 2026;
+•Total deposits decreased by $38.1 million, or 3% annualized, from June 30, 2026 to September 30, 2026;
+•Efficiency ratio was 56.0% for the three months ended September 30, 2026 compared to 60.1% for the three months ended June 30, 2026;
+•Federal income tax credits purchased resulted in a $0.4 million income tax benefit for the third quarter of 2026 compared to an income tax benefit of $1.6 million from tax credit purchases during the second quarter of 2026;
+•The Board of Directors declared a cash dividend of $0.30 per common share, payable November 10, 2026, to shareholders of record as of November 3, 2026.
+HARRISBURG, PA (October 20, 2026) -- Orrstown Financial Services, Inc. (the "Company") (NASDAQ: ORRF), the parent company of Orrstown Bank (the “Bank”), announced earnings for the three and nine months ended September 30, 2026. Net income totaled $22.8 million for the three months ended September 30, 2026, compared to net income of $21.2 million and $21.9 million for the three months ended June 30, 2026 and September 30, 2025, respectively. Diluted earnings per share was $1.17 for the three months ended September 30, 2026, compared to $1.09 and $1.13 for the three months ended June 30, 2026 and September 30, 2025, respectively.
+Adam L. Metz, President and Chief Executive Officer, said, “Orrstown delivered strong third quarter results, with diluted earnings per common share of $1.17 and a return on average assets of 1.60%. The quarter demonstrated solid execution across the franchise, including a 25 basis point increase in net interest margin to 4.12%, a 56.0% efficiency ratio and 9% annualized loan growth. We also continued to see favorable trends in credit quality, with both classified loans and nonaccrual loans declining during the quarter. Our results reflect the progress we are making in growing core net interest income while actively managing funding costs and the declining benefit of purchase accounting accretion from our previous merger. Although the economic, interest rate and competitive environments remain dynamic, we enter the remainder of the year from a position of strength and are confident in our ability to execute across a range of economic conditions.”
+(1) Non-GAAP measure. See Appendix A for additional information.
+1
+DISCUSSION OF RESULTS
+Balance Sheet
+Loans
+Loans held for investment increased by $95.3 million, or approximately 9% annualized, from $4.1 billion at June 30, 2026 to $4.2 billion at September 30, 2026. Commercial loans increased by $45.4 million, or approximately 6% annualized, from June 30, 2026 to September 30, 2026, with particularly strong growth in the commercial and industrial segment. Home equity lines of credit increased by $31.6 million, or approximately 36% annualized, which included purchases with a principal balance totaling $15.5 million. The retail teams have been successful in recent efforts over the past several quarters to drive growth in this category. First lien residential mortgages increased by $17.0 million, or approximately 13% annualized.
+Investment Securities
+Investment securities, all of which are classified as available-for-sale, decreased by $29.9 million to $919.4 million at September 30, 2026 from $949.3 million at June 30, 2026. During the three months ended September 30, 2026, net unrealized losses on investment securities increased by $41.6 million as a result of widening spreads and a rise in interest rates. The Bank purchased $34.9 million of investment securities, consisting of $24.9 million of agency mortgage backed securities and collateralized mortgage obligations and $10.0 million of non-agency collateralized mortgage obligations during the third quarter of 2026. The remaining change in investment securities during the quarter was due primarily to paydowns of $24.2 million, partially offset by net accretion of $1.4 million. The overall duration of the Company's investment securities portfolio was 4.2 years at September 30, 2026 compared to 4.5 years at June 30, 2026. See Appendix B for a summary of the Bank's investment securities at September 30, 2026, highlighting their concentrations and credit ratings.
+Deposits
+During the third quarter of 2026, deposits decreased by $38.1 million, or 3% annualized, and totaled $4.6 billion at both September 30, 2026 and June 30, 2026. Time deposits, interest-bearing demand deposits, non-interest bearing deposits and savings deposits decreased by $28.1 million, $25.1 million, $24.8 million and $8.7 million, respectively. The decreases were primarily due to normal seasonal activity as well as time deposit maturities. These decreases were partially offset by a $48.6 million increase in money market deposits resulting from both promotional activities and the purchase of $25.1 million of brokered deposits. The Bank's loan-to-deposit ratio was 92% at September 30, 2026 compared to 89% at June 30, 2026.
+Borrowings
+The Company actively manages its liquidity position through its various sources of funding to meet the needs of its clients. FHLB advances and other borrowings were $417.3 million at September 30, 2026 compared to $274.8 million at June 30, 2026. The higher utilization of borrowings during the third quarter of 2026 was primarily to fund loan growth. The Bank seeks to maintain sufficient liquidity to ensure that client needs can be addressed in a timely basis. The Bank had available alternative funding sources, such as FHLB advances and other wholesale options, of $1.7 billion at September 30, 2026.
+2
+Income Statement
+Net Interest Income and Margin
+Net interest income increased by $4.5 million to $53.3 million for the three months ended September 30, 2026 compared to $48.8 million for the three months ended June 30, 2026. The net interest margin, on a tax equivalent basis, increased by 25 basis points to 4.12% in the third quarter of 2026 from 3.87% in the second quarter of 2026. The yield on interest-earning assets increased by eight basis points and the cost of deposits decreased by five basis points during the three months ended September 30, 2026 compared to the three months ended June 30, 2026. In addition, the net interest margin in the second quarter of 2026 includes the $1.6 million accelerated amortization expense of the subordinated notes' fair value mark. Excluding the amortization of the fair value mark on the redeemed subordinated notes, net interest margin was 4.00%(1) in the second quarter of 2026.
+Interest income on loans, on a tax equivalent basis, increased by $3.2 million to $66.7 million for the three months ended September 30, 2026 compared to $63.5 million for the three months ended June 30, 2026. Average loans increased by $92.6 million during the three months ended September 30, 2026 compared to the three months ended June 30, 2026. Interest income on loans includes accretion on purchase accounting marks of $3.9 million for the three months ended September 30, 2026 compared to $4.3 million for the three months ended June 30, 2026. Prepayment fee income on loans increased by $335 thousand during the third quarter of 2026 compared to the second quarter of 2026.
+Interest expense, on a tax equivalent basis, decreased by $1.5 million to $24.4 million for the three months ended September 30, 2026 compared to $25.9 million for the three months ended June 30, 2026. Borrowing costs decreased by $1.1 million during the three months ended September 30, 2026 compared to the three months ended June 30, 2026 primarily due to the accelerated amortization of the remaining subordinated debt fair value mark of $1.6 million during the second quarter of 2026.
+The cost of deposits decreased by five basis points during the three months ended September 30, 2026 compared to the three months ended June 30, 2026. Average interest-bearing deposits decreased by $27.9 million during the three months ended September 30, 2026 compared to the three months ended June 30, 2026. Average FHLB advances and other borrowings increased by $130.6 million from the three months ended June 30, 2026 to the three months ended September 30, 2026 driven by loan growth in addition to maintaining sufficient liquidity due to seasonal deposit activity during the third quarter of 2026.
+Provision for Credit Losses on Loans
+The allowance for credit losses ("ACL") on loans increased to $46.8 million at September 30, 2026 from $46.6 million at June 30, 2026. The ACL to total loans was 1.11% at September 30, 2026 compared to 1.13% at June 30, 2026. The Company recorded provision expense on loans of $1.1 million for the three months ended September 30, 2026 compared to $0.4 million for the three months ended June 30, 2026. The increase in provision expense resulted from strong loan growth, net charge-offs and updates to our qualitative factors, partially offset by a favorable GDP forecast and macroeconomic conditions. Net charge-offs were $1.0 million during the three months ended September 30, 2026 compared to $1.2 million during the three months ended June 30, 2026.
+Classified loans decreased by $4.0 million to $45.2 million at September 30, 2026 from $49.2 million at June 30, 2026 due to repayments of $5.3 million and charge-offs of $1.0 million, partially offset by net downgrades of $2.3 million. Nonaccrual loans totaled $22.9 million at September 30, 2026 compared to $23.8 million at June 30, 2026. The decrease of $0.9 million in nonaccrual loans was due to repayments of $1.5 million and net charge offs totaling $1.0 million, partially offset by loans placed on nonaccrual status of $1.6 million. Nonaccrual loans to total loans decreased to 0.54% at September 30, 2026 from 0.58% at June 30, 2026. Management believes the ACL to be adequate based on current asset quality metrics and economic forecasts.
+(1) Non-GAAP measure. See Appendix A for additional information.
+3
+Noninterest Income
+Noninterest income decreased by $0.4 million to $13.4 million for the three months ended September 30, 2026 from $13.8 million for the three months ended June 30, 2026.
+Swap fee income decreased by $0.3 million to $0.4 million for the three months ended September 30, 2026 compared to $0.7 million for the three months ended June 30, 2026. Swap fee income will fluctuate based on market conditions and client demand.
+Mortgage banking income decreased by $0.2 million to $0.2 million for the three months ended September 30, 2026 from $0.4 million for the three months ended June 30, 2026. The decrease was due to a reduction in loan sale activity and a decrease in the fair value adjustment of loans held-for-sale and in the pipeline due to rising market interest rates.
+Wealth management income was $6.0 million for the three months ended September 30, 2026 compared to $5.9 million for the three months ended June 30, 2026.
+Noninterest Expenses
+Noninterest expenses decreased by $0.4 million to $37.3 million for the three months ended September 30, 2026 from $37.7 million in the three months ended June 30, 2026.
+Professional services expense decreased by $0.2 million to $1.0 million for the three months ended September 30, 2026 compared to $1.2 million for the three months ended June 30, 2026. The Company continues to focus on reducing third-party utilization.
+Other operating expenses decreased by $0.4 million to $3.9 million for the three months ended September 30, 2026 compared to $4.3 million for the three months ended June 30, 2026. This was due primarily to an increase of $0.5 million in mark-to-market gains on non-hedging derivatives from the second quarter of 2026 to the third quarter of 2026.
+Salaries and benefits expense increased by $0.2 million to $22.4 million for the three months ended September 30, 2026 compared to $22.2 million for the three months ended June 30, 2026. The third quarter of 2026 reflects a full quarter impact from the increase in merit-based salaries that went into effect in May 2026 and the impact of one extra day compared to the prior quarter.
+Advertising and bank promotions expense decreased by $0.7 million to $0.4 million in the three months ended September 30, 2026 from $1.1 million in the three months ended June 30, 2026 due to $0.7 million in contributions to tax credit programs during the second quarter of 2026. Taxes other than income increased by $0.6 million to $1.0 million in the three months ended September 30, 2026 compared to $0.4 million in the three months ended June 30, 2026. This increase reflects the tax credits recognized in the second quarter of 2026 as result of the charitable contributions.
+Income Taxes
+The Company's effective tax rate was 19.4% for the third quarter of 2026 compared to 14.2% for the second quarter of 2026. The Company's effective tax rate for the three months ended September 30, 2026 is less than the 21% federal statutory rate primarily due to the purchase of federal income tax credits, which reduced income tax expense by $0.4 million. During the three months ended June 30, 2026, the Company purchased federal income tax credits, which reduced income tax expense by $1.6 million. In addition, the effective tax rate for both periods was impacted by tax-exempt income, including interest earned on tax-exempt loans and securities and non-taxable income from life insurance policies and tax credits partially offset by the disallowed portion of interest expense against earnings in association with the Bank's tax-exempt investments under the Tax Equity and Fiscal Responsibility Act of 1982. The Company regularly analyzes its projected taxable income and makes adjustments to the provision for income taxes accordingly.
+Capital
+Shareholders’ equity totaled $605.2 million at September 30, 2026 compared to $621.7 million at June 30, 2026. The decrease of $16.5 million is primarily due to other comprehensive losses of $34.5 million and dividends of $5.9 million, partially offset by net income of $22.8 million and share-based compensation activity of $1.1 million. The change in other comprehensive losses is primarily due to the increase in net unrealized losses on investment securities caused by the widening of spreads and a rise in interest rates.
+Tangible book value per common share(1) was $25.96 at September 30, 2026 compared to $26.71 at June 30, 2026. The Company's tangible common equity ratio was 9.1% of total tangible assets at September 30, 2026 compared to 9.5% at June 30, 2026. Return on average tangible common equity per common share(1) was 17.52% for the three months ended
+4
+September 30, 2026 compared to 16.86% for the three months ended June 30, 2026. The decreases in tangible book value per common share and the tangible common equity ratio were primarily due to the decrease in shareholders' equity caused by the increase in net unrealized losses on investment securities.
+The Company's tier 1 common equity, tier 1 capital and total risk-based capital ratios were 12.1%, 12.3% and 13.3%, respectively, at September 30, 2026 compared to 12.0%, 12.2% and 13.2%, respectively, at June 30, 2026. The Company's Tier 1 leverage ratio increased to 10.2% at September 30, 2026 compared to 10.1% at June 30, 2026.
+At September 30, 2026, all four capital ratios applicable to the Company were above regulatory minimum levels to be deemed “well capitalized” under current bank regulatory guidelines. The Company continues to believe that capital is adequate to support the risks inherent in the balance sheet, as well as growth requirements.
+(1) Non-GAAP measure. See Appendix A for additional information.
+Investor Relations Contact:
+Neelesh Kalani
+Executive Vice President, Chief Financial Officer
+Phone (717) 510-7097
+5
+FINANCIAL HIGHLIGHTS (Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, | September 30, | September 30, | September 30,
+(In thousands) | 2026 | 2025 | 2026 | 2025
+Profitability for the period:
+Net interest income | $ | 53,320 | $ | 50,988 | $ | 151,156 | $ | 149,261
+Provision for credit losses - loans | 1,126 | 396 | 2,192 | 51
+Recovery of credit losses - unfunded loan commitments | (84) | — | (460) | (100)
+Noninterest income | 13,378 | 13,382 | 42,791 | 37,921
+Noninterest expenses | 37,334 | 36,297 | 111,728 | 112,087
+Income before income tax expense | 28,322 | 27,677 | 80,487 | 75,144
+Income tax expense | 5,507 | 5,812 | 14,705 | 15,780
+Net income available to common shareholders | $ | 22,815 | $ | 21,865 | $ | 65,782 | $ | 59,364
+Financial ratios:
+Return on average assets (1) | 1.60 | % | 1.60 | % | 1.58 | % | 1.47 | %
+Return on average assets, adjusted (1)(3)(4) | n/a | n/a | n/a | 1.52 | %
+Return on average equity (1) | 14.62 | % | 15.72 | % | 14.44 | % | 14.77 | %
+Return on average equity, adjusted (1)(3)(4) | n/a | n/a | n/a | 15.28 | %
+Net interest margin (1) | 4.12 | % | 4.11 | % | 3.97 | % | 4.06 | %
+Net interest margin, adjusted (1)(2)(4) | n/a | n/a | 4.01 | % | n/a
+Efficiency ratio | 56.0 | % | 56.4 | % | 57.6 | % | 59.9 | %
+Efficiency ratio, adjusted (2)(3)(4) | n/a | n/a | 57.1 | % | 58.5 | %
+Income per common share:
+Basic | $ | 1.18 | $ | 1.14 | $ | 3.40 | $ | 3.09
+Basic, adjusted (3)(4) | n/a | n/a | n/a | $ | 3.20
+Diluted | $ | 1.17 | $ | 1.13 | $ | 3.38 | $ | 3.07
+Diluted, adjusted (3)(4) | n/a | n/a | n/a | $ | 3.17
+Average equity to average assets | 10.98 | % | 10.18 | % | 10.92 | % | 9.94 | %
+(1) Annualized for the three and nine months ended September 30, 2026 and 2025.
+(2) Ratio has been adjusted for accelerated amortization of the remaining fair value mark of $1.6 million from the redemption of the subordinated notes during the nine months ended September 30, 2026.
+(3) Ratio has been adjusted for the merger-related expenses for the nine months ended September 30, 2025.
+(4) Non-GAAP based financial measure. Please refer to Appendix A - Supplemental Reporting of Non-GAAP Measures and GAAP to Non-GAAP Reconciliations for a discussion of our use of non-GAAP based financial measures, including tables reconciling GAAP and non-GAAP financial measures appearing herein.
+6
+FINANCIAL HIGHLIGHTS (Unaudited)
+(continued)
+September 30, | December 31,
+(Dollars in thousands, except per share amounts) | 2026 | 2025
+At period-end:
+Total assets | $ | 5,707,243 | $ | 5,542,255
+Loans, net of allowance for credit losses | 4,161,598 | 3,973,012
+Loans held-for-sale, at fair value | 3,924 | 6,090
+Securities available for sale, at fair value | 919,448 | 952,740
+Total deposits | 4,581,910 | 4,528,774
+FHLB advances and other borrowings and Securities sold under agreements to repurchase | 417,252 | 299,243
+Subordinated notes and trust preferred debt | 8,109 | 37,122
+Shareholders' equity | 605,200 | 591,535
+Credit quality and capital ratios (1):
+Allowance for credit losses to total loans | 1.11 | % | 1.19 | %
+Total nonaccrual loans to total loans | 0.54 | % | 0.70 | %
+Nonperforming assets to total assets | 0.40 | % | 0.51 | %
+Allowance for credit losses to nonaccrual loans | 204 | % | 170 | %
+Total risk-based capital:
+Orrstown Financial Services, Inc. | 13.3 | % | 13.3 | %
+Orrstown Bank | 13.2 | % | 13.3 | %
+Tier 1 risk-based capital:
+Orrstown Financial Services, Inc. | 12.3 | % | 11.7 | %
+Orrstown Bank | 12.2 | % | 12.2 | %
+Tier 1 common equity risk-based capital:
+Orrstown Financial Services, Inc. | 12.1 | % | 11.5 | %
+Orrstown Bank | 12.2 | % | 12.2 | %
+Tier 1 leverage capital:
+Orrstown Financial Services, Inc. | 10.2 | % | 9.5 | %
+Orrstown Bank | 10.1 | % | 9.9 | %
+Book value per common share | $ | 30.77 | $ | 30.32
+(1) Capital ratios are estimated for the current period, subject to regulatory filings. The Company elected the three-year phase in option for the day-one impact of ASU 2016-13 for current expected credit losses ("CECL") to regulatory capital. At December 31, 2025, the Company adjusted retained earnings, allowance for credit losses includable in tier 2 capital and the deferred tax assets from temporary differences in risk weighted assets by the permitted percentage of the day-one impact from adopting the CECL standard. At September 30, 2026, the day-one impact of ASU 2016-13 was fully applied to the capital ratios.
+7
+ORRSTOWN FINANCIAL SERVICES, INC.
+CONSOLIDATED BALANCE SHEETS (Unaudited)
+(Dollars in thousands, except per share amounts) | September 30, 2026 | December 31, 2025
+Assets
+Cash and due from banks | $ | 48,690 | $ | 42,083
+Interest-bearing deposits with banks | 76,956 | 107,691
+Cash and cash equivalents | 125,646 | 149,774
+Restricted investments in bank stocks | 32,514 | 26,717
+Securities available for sale (amortized cost of $985,444 and $972,138 at September 30, 2026 and December 31, 2025, respectively) | 919,448 | 952,740
+Loans held for sale, at fair value | 3,924 | 6,090
+Loans | 4,208,373 | 4,020,693
+Less: Allowance for credit losses | (46,775) | (47,681)
+Net loans | 4,161,598 | 3,973,012
+Premises and equipment, net | 49,948 | 51,029
+Cash surrender value of life insurance | 148,345 | 146,994
+Goodwill | 69,751 | 69,751
+Other intangible assets, net | 31,457 | 37,990
+Accrued interest receivable | 20,733 | 21,473
+Deferred tax assets, net | 43,126 | 33,931
+Other assets | 100,753 | 72,754
+Total assets | $ | 5,707,243 | $ | 5,542,255
+Liabilities
+Deposits:
+Noninterest-bearing | $ | 896,069 | $ | 870,906
+Interest-bearing | 3,685,841 | 3,657,868
+Total deposits | 4,581,910 | 4,528,774
+Securities sold under agreements to repurchase and federal funds purchased | — | 24,542
+FHLB advances and other borrowings | 417,252 | 274,701
+Subordinated notes and trust preferred debt | 8,109 | 37,122
+Other liabilities | 94,772 | 85,581
+Total liabilities | 5,102,043 | 4,950,720
+Shareholders’ Equity
+Preferred stock, $1.25 par value per share; 500,000 shares authorized; no shares issued or outstanding | — | —
+Common stock, no par value—$0.05205 stated value per share; 50,000,000 shares authorized; 19,706,971 shares issued and 19,670,559 outstanding at September 30, 2026; 19,711,628 shares issued and 19,507,208 outstanding at December 31, 2025 | 1,026 | 1,026
+Additional paid—in capital | 422,956 | 424,596
+Retained earnings | 234,886 | 186,752
+Accumulated other comprehensive loss | (52,318) | (15,201)
+Treasury stock— 36,412 and 204,420 shares, at cost at September 30, 2026 and December 31, 2025, respectively | (1,350) | (5,638)
+Total shareholders’ equity | 605,200 | 591,535
+Total liabilities and shareholders’ equity | $ | 5,707,243 | $ | 5,542,255
+8
+ORRSTOWN FINANCIAL SERVICES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME (Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, | September 30, | September 30, | September 30,
+(Dollars in thousands, except per share amounts) | 2026 | 2025 | 2026 | 2025
+Interest income
+Loans | $ | 66,454 | $ | 65,751 | $ | 192,764 | $ | 192,219
+Investment securities - taxable | 9,901 | 9,367 | 29,658 | 27,717
+Investment securities - tax-exempt | 814 | 881 | 2,537 | 2,634
+Short-term investments | 567 | 1,123 | 1,843 | 4,904
+Total interest income | 77,736 | 77,122 | 226,802 | 227,474
+Interest expense
+Deposits | 21,269 | 22,639 | 64,942 | 69,754
+Securities sold under agreements to repurchase and federal funds purchased | 6 | 107 | 132 | 297
+FHLB advances and other borrowings | 2,931 | 1,791 | 6,921 | 3,939
+Subordinated notes and trust preferred debt | 210 | 1,597 | 3,651 | 4,223
+Total interest expense | 24,416 | 26,134 | 75,646 | 78,213
+Net interest income | 53,320 | 50,988 | 151,156 | 149,261
+Provision for credit losses - loans | 1,126 | 396 | 2,192 | 51
+Recovery of credit losses - unfunded loan commitments | (84) | — | (460) | (100)
+Net interest income after net provision for (recovery of) credit losses | 52,278 | 50,592 | 149,424 | 149,310
+Noninterest income
+Service charges | 2,916 | 2,997 | 8,521 | 8,022
+Interchange income | 1,597 | 1,620 | 4,712 | 4,488
+Swap fee income | 436 | 816 | 2,426 | 1,879
+Wealth management income | 5,968 | 5,277 | 17,471 | 15,959
+Mortgage banking activities | 212 | 522 | 974 | 1,302
+Income from life insurance | 1,410 | 1,471 | 6,547 | 4,071
+Investment securities gains | 15 | 50 | 70 | 71
+Other income | 824 | 629 | 2,070 | 2,129
+Total noninterest income | 13,378 | 13,382 | 42,791 | 37,921
+Noninterest expenses
+Salaries and employee benefits | 22,400 | 21,439 | 65,786 | 63,191
+Occupancy, furniture and equipment | 4,109 | 4,075 | 12,217 | 12,961
+Data processing | 1,752 | 1,116 | 4,992 | 3,005
+Advertising and bank promotions | 423 | 154 | 2,232 | 1,730
+FDIC insurance | 627 | 652 | 1,810 | 2,150
+Professional services | 1,015 | 1,703 | 3,438 | 5,545
+Taxes other than income | 1,022 | 828 | 2,439 | 2,065
+Intangible asset amortization | 2,115 | 2,410 | 6,533 | 7,417
+Merger-related expenses | — | — | — | 2,617
+Restructuring expenses | — | — | — | 91
+Other operating expenses | 3,871 | 3,920 | 12,281 | 11,315
+Total noninterest expenses | 37,334 | 36,297 | 111,728 | 112,087
+Income before income tax expense | 28,322 | 27,677 | 80,487 | 75,144
+Income tax expense | 5,507 | 5,812 | 14,705 | 15,780
+Net income | $ | 22,815 | $ | 21,865 | $ | 65,782 | $ | 59,364
+continued
+9
+Three Months Ended | Nine Months Ended
+September 30, | September 30, | September 30, | September 30,
+2026 | 2025 | 2026 | 2025
+Share information:
+Basic earnings per share | $ | 1.18 | $ | 1.14 | $ | 3.40 | $ | 3.09
+Diluted earnings per share | $ | 1.17 | $ | 1.13 | $ | 3.38 | $ | 3.07
+Dividends paid per share | $ | 0.30 | $ | 0.27 | $ | 0.90 | $ | 0.79
+Weighted average shares - basic | 19,380 | 19,224 | 19,323 | 19,185
+Weighted average shares - diluted | 19,504 | 19,364 | 19,449 | 19,345
+10
+ANALYSIS OF NET INTEREST INCOME
+Average Balances and Interest Rates, Taxable-Equivalent Basis (Unaudited)
+Three Months Ended
+9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+Taxable- | Taxable- | Taxable- | Taxable- | Taxable- | Taxable- | Taxable- | Taxable- | Taxable- | Taxable-
+Average | Equivalent | Equivalent | Average | Equivalent | Equivalent | Average | Equivalent | Equivalent | Average | Equivalent | Equivalent | Average | Equivalent | Equivalent
+(In thousands) | Balance | Interest | Rate | Balance | Interest | Rate | Balance | Interest | Rate | Balance | Interest | Rate | Balance | Interest | Rate
+Assets
+Federal funds sold & interest-bearing bank balances | $ | 62,164 | $ | 567 | 3.62 | % | $ | 69,784 | $ | 639 | 3.67 | % | $ | 70,086 | $ | 637 | 3.69 | % | $ | 103,886 | $ | 1,017 | 3.88 | % | $ | 101,728 | $ | 1,123 | 4.38 | %
+Investment securities (1)(2) | 973,344 | 11,064 | 4.54 | 971,932 | 11,096 | 4.57 | 984,060 | 11,079 | 4.51 | 976,957 | 11,177 | 4.58 | 906,399 | 10,593 | 4.67
+Loans (1)(3)(4)(5) | 4,167,877 | 66,679 | 6.35 | 4,075,290 | 63,542 | 6.25 | 4,070,889 | 63,214 | 6.29 | 3,997,842 | 64,635 | 6.42 | 3,979,044 | 65,975 | 6.58
+Total interest-earning assets | 5,203,385 | 78,310 | 5.98 | 5,117,006 | 75,277 | 5.90 | 5,125,035 | 74,930 | 5.91 | 5,078,685 | 76,829 | 6.01 | 4,987,171 | 77,691 | 6.19
+Other assets | 436,997 | 425,913 | 423,779 | 426,626 | 433,659
+Total assets | $ | 5,640,382 | $ | 5,542,919 | $ | 5,548,814 | $ | 5,505,311 | $ | 5,420,830
+Liabilities and Shareholders' Equity
+Interest-bearing demand deposits | $ | 2,593,059 | 13,681 | 2.09 | $ | 2,577,915 | 13,629 | 2.12 | $ | 2,534,291 | 13,796 | 2.21 | $ | 2,471,895 | 14,078 | 2.26 | $ | 2,450,034 | 14,145 | 2.29
+Savings deposits | 254,541 | 126 | 0.20 | 260,712 | 128 | 0.20 | 259,585 | 143 | 0.22 | 262,240 | 164 | 0.25 | 264,761 | 164 | 0.25
+Time deposits | 863,559 | 7,462 | 3.43 | 900,412 | 7,930 | 3.53 | 906,875 | 8,047 | 3.60 | 912,611 | 8,342 | 3.63 | 897,416 | 8,330 | 3.68
+Total interest-bearing deposits | 3,711,159 | 21,269 | 2.27 | 3,739,039 | 21,687 | 2.33 | 3,700,751 | 21,986 | 2.41 | 3,646,746 | 22,584 | 2.46 | 3,612,211 | 22,639 | 2.49
+Securities sold under agreements to repurchase and federal funds purchased | 2,535 | 6 | 0.85 | 12,024 | 29 | 0.98 | 23,674 | 97 | 1.66 | 27,348 | 105 | 1.52 | 27,772 | 107 | 1.53
+FHLB advances and other borrowings | 306,346 | 2,931 | 3.80 | 175,734 | 1,635 | 3.73 | 248,357 | 2,355 | 3.85 | 238,806 | 2,371 | 3.94 | 168,939 | 1,791 | 4.21
+Subordinated notes and trust preferred debt (6) | 8,069 | 210 | 10.29 | 36,664 | 2,520 | 27.57 | 37,175 | 921 | 10.05 | 37,023 | 669 | 7.17 | 68,749 | 1,597 | 9.21
+Total interest-bearing liabilities | 4,028,109 | 24,416 | 2.40 | 3,963,461 | 25,871 | 2.62 | 4,009,957 | 25,359 | 2.56 | 3,949,923 | 25,729 | 2.58 | 3,877,671 | 26,134 | 2.67
+Noninterest-bearing demand deposits | 910,748 | 889,378 | 850,415 | 882,552 | 902,128
+Other liabilities | 82,378 | 81,981 | 89,112 | 93,977 | 89,086
+Total liabilities | 5,021,235 | 4,934,820 | 4,949,484 | 4,926,452 | 4,868,885
+Shareholders' equity | 619,147 | 608,099 | 599,330 | 578,859 | 551,945
+Total | $ | 5,640,382 | $ | 5,542,919 | $ | 5,548,814 | $ | 5,505,311 | $ | 5,420,830
+Taxable-equivalent net interest income / net interest spread | 53,894 | 3.58 | % | 49,406 | 3.28 | % | 49,571 | 3.35 | % | 51,100 | 3.43 | % | 51,557 | 3.52 | %
+Taxable-equivalent net interest margin | 4.12 | % | 3.87 | % | 3.90 | % | 4.00 | % | 4.11 | %
+Taxable-equivalent adjustment | (574) | (575) | (566) | (569) | (569)
+Net interest income | $ | 53,320 | $ | 48,831 | $ | 49,005 | $ | 50,531 | $ | 50,988
+Ratio of average interest-earning assets to average interest-bearing liabilities | 129 | % | 129 | % | 128 | % | 129 | % | 129 | %
+11
+NOTES:
+(1) Yields and interest income on tax-exempt assets have been computed on a taxable-equivalent basis assuming a 21% tax rate.
+(2) Average balance of investment securities is computed at fair value.
+(3) Average balances include nonaccrual loans.
+(4) Interest income on loans includes prepayment and late fees, where applicable.
+(5) Interest income on loans includes accretion on purchase accounting marks of $3.9 million, $4.3 million, $4.2 million, $4.7 million and $5.3 million for the three months ended September 30, 2026, June 30, 2026, March 31, 2026, December 31, 2025 and September 30, 2025, respectively.
+(6) Interest expense includes accelerated amortization of the of the fair value mark from the redeemed subordinated notes of $1.6 million for the three months ended June 30, 2026.
+12
+ANALYSIS OF NET INTEREST INCOME
+Average Balances and Interest Rates, Taxable-Equivalent Basis (Unaudited)
+(continued)
+Nine Months Ended
+September 30, 2026 | September 30, 2025
+Taxable- | Taxable- | Taxable- | Taxable-
+Average | Equivalent | Equivalent | Average | Equivalent | Equivalent
+(In thousands) | Balance | Interest | Rate | Balance | Interest | Rate
+Assets
+Federal funds sold & interest-bearing bank balances | $ | 67,316 | $ | 1,843 | 3.66 | % | $ | 146,688 | $ | 4,904 | 4.47 | %
+Investment securities (1)(2) | 976,406 | 33,238 | 4.54 | 892,033 | 31,379 | 4.69
+Loans (1)(3)(4)(5) | 4,105,041 | 193,435 | 6.30 | 3,928,159 | 192,858 | 6.56
+Total interest-earning assets | 5,148,763 | 228,516 | 5.93 | 4,966,880 | 229,141 | 6.17
+Other assets | 428,944 | 440,153
+Total assets | $ | 5,577,707 | $ | 5,407,033
+Liabilities and Shareholders' Equity
+Interest-bearing demand deposits | $ | 2,568,637 | 41,105 | 2.14 | $ | 2,462,336 | 42,181 | 2.29
+Savings deposits | 258,261 | 398 | 0.21 | 268,966 | 494 | 0.25
+Time deposits | 890,123 | 23,439 | 3.52 | 927,232 | 27,079 | 3.90
+Total interest-bearing deposits | 3,717,021 | 64,942 | 2.34 | 3,658,534 | 69,754 | 2.55
+Securities sold under agreements to repurchase and federal funds purchased | 12,667 | 132 | 1.39 | 26,623 | 297 | 1.49
+FHLB advances and other borrowings | 243,691 | 6,921 | 3.80 | 128,827 | 3,939 | 4.09
+Subordinated notes and trust preferred debt (6) | 27,196 | 3,651 | 17.95 | 68,799 | 4,223 | 8.21
+Total interest-bearing liabilities | 4,000,575 | 75,646 | 2.53 | 3,882,783 | 78,213 | 2.69
+Noninterest-bearing demand deposits | 883,735 | 898,015
+Other liabilities | 84,466 | 89,025
+Total liabilities | 4,968,776 | 4,869,823
+Shareholders' equity | 608,931 | 537,210
+Total liabilities and shareholders' equity | $ | 5,577,707 | $ | 5,407,033
+Taxable-equivalent net interest income / net interest spread | 152,870 | 3.40 | % | 150,928 | 3.47 | %
+Taxable-equivalent net interest margin | 3.97 | % | 4.06 | %
+Taxable-equivalent adjustment | (1,714) | (1,667)
+Net interest income | $ | 151,156 | $ | 149,261
+Ratio of average interest-earning assets to average interest-bearing liabilities | 129 | % | 128 | %
+13
+NOTES TO ANALYSIS OF NET INTEREST INCOME:
+(1) Yields and interest income on tax-exempt assets have been computed on a taxable-equivalent basis assuming a 21% tax rate.
+(2) Average balance of investment securities is computed at fair value.
+(3) Average balances include nonaccrual loans.
+(4) Interest income on loans includes prepayment and late fees, where applicable.
+(5) Interest income on loans includes accretion on purchase accounting marks of $12.4 million and $16.7 million for the nine months ended September 30, 2026 and 2025, respectively.
+(6) Interest expense includes accelerated amortization of the of the fair value mark from the redeemed subordinated notes of $1.6 million for the nine months ended September 30, 2026.
+14
+ORRSTOWN FINANCIAL SERVICES, INC.
+HISTORICAL TRENDS IN QUARTERLY FINANCIAL DATA (Unaudited)
+(In thousands) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Profitability for the quarter:
+Net interest income | $ | 53,320 | $ | 48,831 | $ | 49,005 | $ | 50,531 | $ | 50,988
+Net provision for credit losses on loans and unfunded loan commitments | 1,042 | 338 | 352 | 75 | 396
+Noninterest income | 13,378 | 13,836 | 15,577 | 14,392 | 13,382
+Noninterest expenses | 37,334 | 37,666 | 36,728 | 37,355 | 36,297
+Income before income taxes | 28,322 | 24,663 | 27,502 | 27,493 | 27,677
+Income tax expense | 5,507 | 3,505 | 5,693 | 6,002 | 5,812
+Net income | $ | 22,815 | $ | 21,158 | $ | 21,809 | $ | 21,491 | $ | 21,865
+Financial ratios:
+Return on average assets (1) | 1.60 | % | 1.53 | % | 1.59 | % | 1.55 | % | 1.60 | %
+Return on average equity (1) | 14.62 | % | 13.96 | % | 14.76 | % | 14.73 | % | 15.72 | %
+Net interest margin (1) | 4.12 | % | 3.87 | % | 3.90 | % | 4.00 | % | 4.11 | %
+Net interest margin, adjusted (1)(2)(3) | n/a | 4.00 | % | n/a | n/a | n/a
+Efficiency ratio | 56.0 | % | 60.1 | % | 56.9 | % | 57.5 | % | 56.4 | %
+Efficiency ratio, adjusted (2)(3) | n/a | 58.6 | % | n/a | n/a | n/a
+Per share information:
+Income per common share:
+Basic | $ | 1.18 | $ | 1.10 | $ | 1.13 | $ | 1.12 | $ | 1.14
+Diluted | 1.17 | 1.09 | 1.12 | 1.11 | 1.13
+Book value | 30.77 | 31.60 | 30.76 | 30.32 | 29.33
+Tangible book value(3) | 25.96 | 26.71 | 25.76 | 25.21 | 24.12
+Average tangible common equity(1)(3) | 17.52 | 16.86 | 17.96 | 18.15 | 19.70
+Cash dividends paid | 0.30 | 0.30 | 0.30 | 0.27 | 0.27
+Average basic shares | 19,380 | 19,313 | 19,274 | 19,251 | 19,224
+Average diluted shares | 19,504 | 19,432 | 19,410 | 19,384 | 19,364
+(1) Annualized.
+(2) Ratio has been adjusted for accelerated amortization of the remaining fair value mark of $1.6 million from the redemption of the subordinated notes during the three months ended June 30, 2026.
+(3) Non-GAAP based financial measure. Please refer to Appendix A - Supplemental Reporting of Non-GAAP Measures and GAAP to Non-GAAP Reconciliations for a discussion of our use of non-GAAP based financial measures, including tables reconciling GAAP and non-GAAP financial measures appearing herein.
+15
+ORRSTOWN FINANCIAL SERVICES, INC.
+HISTORICAL TRENDS IN QUARTERLY FINANCIAL DATA (Unaudited)
+(continued)
+(In thousands) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Noninterest income:
+Service charges | $ | 2,916 | $ | 2,734 | $ | 2,871 | $ | 3,225 | $ | 2,997
+Interchange income | 1,597 | 1,602 | 1,513 | 1,553 | 1,620
+Swap fee income | 436 | 651 | 1,339 | 1,112 | 816
+Wealth management income | 5,968 | 5,946 | 5,557 | 5,739 | 5,277
+Mortgage banking activities | 212 | 436 | 326 | 503 | 522
+Income from life insurance | 1,410 | 1,376 | 3,761 | 1,331 | 1,471
+Other income | 824 | 1,034 | 212 | 834 | 629
+Investment securities gains (losses) | 15 | 57 | (2) | 95 | 50
+Total noninterest income | $ | 13,378 | $ | 13,836 | $ | 15,577 | $ | 14,392 | $ | 13,382
+Noninterest expenses:
+Salaries and employee benefits | $ | 22,400 | $ | 22,229 | $ | 21,157 | $ | 21,980 | $ | 21,439
+Occupancy, furniture and equipment | 4,109 | 3,887 | 4,221 | 4,017 | 4,075
+Data processing | 1,752 | 1,703 | 1,537 | 1,292 | 1,116
+Advertising and bank promotions | 423 | 1,126 | 683 | 561 | 154
+FDIC insurance | 627 | 634 | 549 | 683 | 652
+Professional services | 1,015 | 1,202 | 1,221 | 1,947 | 1,703
+Taxes other than income | 1,022 | 392 | 1,025 | 574 | 828
+Intangible asset amortization | 2,115 | 2,179 | 2,239 | 2,348 | 2,410
+Other operating expenses | 3,871 | 4,314 | 4,096 | 3,953 | 3,920
+Total noninterest expenses | $ | 37,334 | $ | 37,666 | $ | 36,728 | $ | 37,355 | $ | 36,297
+16
+HISTORICAL TRENDS IN QUARTERLY FINANCIAL DATA (Unaudited)
+(continued)
+(In thousands) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Balance Sheet at quarter end:
+Cash and cash equivalents | $ | 125,646 | $ | 144,841 | $ | 161,136 | $ | 149,774 | $ | 184,146
+Restricted investments in bank stocks | 32,514 | 27,429 | 23,984 | 26,717 | 24,111
+Securities available for sale | 919,448 | 949,281 | 947,018 | 952,740 | 890,357
+Loans held for sale, at fair value | 3,924 | 3,639 | 3,366 | 6,090 | 6,026
+Loans:
+Commercial real estate:
+Owner occupied | 680,146 | 679,295 | 645,026 | 644,713 | 629,481
+Non-owner occupied | 1,306,387 | 1,305,379 | 1,322,251 | 1,260,198 | 1,254,959
+Multi-family | 246,026 | 229,425 | 216,658 | 236,703 | 234,782
+Non-owner occupied residential | 145,716 | 150,917 | 151,560 | 155,749 | 163,138
+Agricultural | 91,094 | 97,729 | 114,409 | 121,417 | 118,596
+Commercial and industrial | 532,125 | 489,247 | 481,815 | 489,371 | 479,929
+Acquisition and development:
+1-4 family residential construction | 54,370 | 39,344 | 46,355 | 41,489 | 41,141
+Commercial and land development | 178,823 | 198,399 | 198,957 | 198,234 | 195,158
+Municipal | 34,348 | 33,950 | 27,744 | 25,302 | 28,664
+Total commercial loans | 3,269,035 | 3,223,685 | 3,204,775 | 3,173,176 | 3,145,848
+Residential mortgage:
+First lien | 518,321 | 501,306 | 484,022 | 478,870 | 476,006
+Home equity – term | 5,298 | 5,401 | 5,685 | 5,972 | 5,800
+Home equity – lines of credit | 376,096 | 344,495 | 327,141 | 321,438 | 311,458
+Other - term(1) | 20,424 | 20,929 | 22,442 | 22,906 | 23,737
+Installment and other loans | 19,199 | 17,215 | 17,254 | 18,331 | 16,887
+Total loans | 4,208,373 | 4,113,031 | 4,061,319 | 4,020,693 | 3,979,736
+Allowance for credit losses | (46,775) | (46,632) | (47,463) | (47,681) | (48,105)
+Net loans held for investment | 4,161,598 | 4,066,399 | 4,013,856 | 3,973,012 | 3,931,631
+Goodwill | 69,751 | 69,751 | 69,751 | 69,751 | 69,751
+Other intangible assets, net | 31,457 | 33,572 | 35,751 | 37,990 | 40,338
+Total assets | 5,707,243 | 5,612,151 | 5,576,972 | 5,542,255 | 5,470,233
+Total deposits | 4,581,910 | 4,620,023 | 4,627,424 | 4,528,774 | 4,533,560
+FHLB advances and other borrowings and Securities sold under agreements to repurchase | 417,252 | 282,362 | 225,958 | 299,243 | 241,719
+Subordinated notes and trust preferred debt | 8,109 | 8,049 | 37,274 | 37,122 | 36,970
+Total shareholders' equity | 605,200 | 621,650 | 603,184 | 591,535 | 571,936
+(1) Other - term includes property assessed clean energy ("PACE") loans.
+17
+HISTORICAL TRENDS IN QUARTERLY FINANCIAL DATA (Unaudited)
+(continued)
+September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Capital and credit quality measures(1):
+Total risk-based capital:
+Orrstown Financial Services, Inc. | 13.3 | % | 13.2 | % | 13.5 | % | 13.3 | % | 13.1 | %
+Orrstown Bank | 13.2 | % | 13.1 | % | 13.6 | % | 13.3 | % | 12.9 | %
+Tier 1 risk-based capital:
+Orrstown Financial Services, Inc. | 12.3 | % | 12.2 | % | 12.0 | % | 11.7 | % | 11.3 | %
+Orrstown Bank | 12.2 | % | 12.1 | % | 12.5 | % | 12.2 | % | 11.8 | %
+Tier 1 common equity risk-based capital:
+Orrstown Financial Services, Inc. | 12.1 | % | 12.0 | % | 11.8 | % | 11.5 | % | 11.1 | %
+Orrstown Bank | 12.2 | % | 12.1 | % | 12.5 | % | 12.2 | % | 11.8 | %
+Tier 1 leverage capital:
+Orrstown Financial Services, Inc. | 10.2 | % | 10.1 | % | 9.7 | % | 9.5 | % | 9.3 | %
+Orrstown Bank | 10.1 | % | 10.0 | % | 10.2 | % | 9.9 | % | 9.6 | %
+Average equity to average assets | 10.98 | % | 10.97 | % | 10.80 | % | 10.51 | % | 10.18 | %
+Allowance for credit losses to total loans | 1.11 | % | 1.13 | % | 1.17 | % | 1.19 | % | 1.21 | %
+Total nonaccrual loans to total loans | 0.54 | % | 0.58 | % | 0.74 | % | 0.70 | % | 0.66 | %
+Nonperforming assets to total assets | 0.40 | % | 0.44 | % | 0.56 | % | 0.51 | % | 0.48 | %
+Allowance for credit losses to nonaccrual loans | 204 | % | 196 | % | 158 | % | 170 | % | 184 | %
+Other information:
+Net charge-offs | $ | 983 | $ | 1,169 | $ | 946 | $ | 499 | $ | 189
+Classified loans | 45,201 | 49,190 | 57,584 | 58,351 | 64,089
+Nonperforming and other risk assets:
+Nonaccrual loans | 22,919 | 23,751 | 30,025 | 28,031 | 26,191
+Other real estate owned | — | 1,055 | 1,055 | — | —
+Total nonperforming assets | 22,919 | 24,806 | 31,080 | 28,031 | 26,191
+Financial difficulty modifications still accruing | 1,629 | 1,794 | 949 | 1,253 | 1,245
+Loans past due 90 days or more and still accruing | 591 | 853 | 443 | 1,040 | 497
+Total nonperforming and other risk assets | $ | 25,139 | $ | 27,453 | $ | 32,472 | $ | 30,324 | $ | 27,933
+(1) Capital ratios are estimated for the current period, subject to regulatory filings. The Company elected the three-year phase in option for the day-one impact of ASU 2016-13 for current expected credit losses ("CECL") to regulatory capital. Beginning in 2023, the Company adjusted retained earnings, allowance for credit losses includable in tier 2 capital and the deferred tax assets from temporary differences in risk weighted assets by the permitted percentage of the day-one impact from adopting the new CECL standard, which concluded at December 31, 2025. Starting with periods in 2026, the day-one impact of ASU 2016-13 was fully applied to the capital ratios.
+18
+Appendix A- Supplemental Reporting of Non-GAAP Measures and GAAP to Non-GAAP Reconciliations
+Management believes providing certain other “non-GAAP” financial information will assist investors in their understanding of the effect on recent financial results from non-recurring charges.
+As a result of acquisitions, the Company has intangible assets consisting of goodwill, core deposit and other intangible assets, which totaled $101.2 million and $107.7 million at September 30, 2026 and December 31, 2025, respectively. During the nine months ended September 30, 2025, the Company incurred $2.6 million in merger-related expenses, respectively. The Company did not incur merger-related or other non-recurring expenses during the three months ended September 30, 2026, June 30, 2026, March 31, 2026. December 31, 2025 and September 30, 2025.
+On June 30, 2026, the Company redeemed the $31.0 million outstanding 4.50% fixed-to-floating rate subordinated notes assumed from Codorus Valley Bancorp, Inc. on July 1, 2024. During the nine months ended September 30, 2026, the Company amortized the remaining fair value mark of $1.6 million to interest expense as a result of the redemption, which reduced net interest margin.
+Tangible book value per common share, tangible common equity, and the impact of the accelerated amortization of fair value marks on net interest margin and the efficiency ratio and merger-related expenses on net income and associated ratios, as used by the Company in this earnings release, are determined by methods other than in accordance with U.S. Generally Accepted Accounting Principles ("GAAP"). While we believe this information is a useful supplement to GAAP based measures presented in this earnings release, readers are cautioned that this non-GAAP disclosure has limitations as an analytical tool, should not be viewed as a substitute for financial measures determined in accordance with GAAP, and should not be considered in isolation or as a substitute for analysis of our results and financial condition as reported under GAAP, nor are such measures necessarily comparable to non-GAAP performance measures that may be presented by other companies. This supplemental presentation should not be construed as an inference that our future results will be unaffected by similar adjustments to be determined in accordance with GAAP.
+The following tables present the computation of each non-GAAP based measure:
+(In thousands)
+Tangible Book Value per Common Share | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Shareholders' equity (most directly comparable GAAP-based measure) | $ | 605,200 | $ | 621,650 | $ | 603,184 | $ | 591,535 | $ | 571,936
+Less: Goodwill | 69,751 | 69,751 | 69,751 | 69,751 | 69,751
+Other intangible assets | 31,457 | 33,572 | 35,751 | 37,990 | 40,338
+Related tax effect | (6,606) | (7,050) | (7,508) | (7,978) | (8,471)
+Tangible common equity (non-GAAP) | $ | 510,598 | $ | 525,377 | $ | 505,190 | $ | 491,772 | $ | 470,318
+Common shares outstanding | 19,671 | 19,670 | 19,611 | 19,507 | 19,501
+Book value per share (most directly comparable GAAP-based measure) | $ | 30.77 | $ | 31.60 | $ | 30.76 | $ | 30.32 | $ | 29.33
+Intangible assets per share | 4.81 | 4.89 | 5.00 | 5.11 | 5.21
+Tangible book value per share (non-GAAP) | $ | 25.96 | $ | 26.71 | $ | 25.76 | $ | 25.21 | $ | 24.12
+19
+Return on Average Tangible Common Equity | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Net Income | $ | 22,815 | $ | 21,158 | $ | 21,809 | $ | 21,491 | $ | 21,865
+Average shareholders' equity | $ | 619,147 | $ | 608,099 | $ | 599,330 | $ | 578,859 | $ | 551,945
+Less: Average goodwill | 69,751 | 69,751 | 69,751 | 69,751 | 69,751
+Less: Average other intangible assets, gross | 32,793 | 34,920 | 37,132 | 39,467 | 41,809
+Average tangible equity | $ | 516,603 | $ | 503,428 | $ | 492,447 | $ | 469,641 | $ | 440,385
+Return on average tangible equity (non-GAAP) (1) | 17.52 | % | 16.86 | % | 17.96 | % | 18.15 | % | 19.70 | %
+(1) - Annualized
+20
+(In thousands) | Three Months Ended | Nine Months Ended
+Adjusted Ratios for Non-recurring Charges | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Net income (A) - most directly comparable GAAP-based measure | $ | 22,815 | $ | 21,158 | $ | 21,809 | $ | 21,491 | $ | 21,865 | $ | 65,782 | $ | 59,364
+Plus: Merger-related expenses (B) | — | — | — | — | — | — | 2,617
+Less: Related tax effect (C) | — | — | — | — | — | — | (589)
+Adjusted net income (D=A+B-C) - Non-GAAP | $ | 22,815 | $ | 21,158 | $ | 21,809 | $ | 21,491 | $ | 21,865 | $ | 65,782 | $ | 61,392
+Average assets (E) | $5,640,382 | $5,542,919 | $5,548,814 | $5,505,311 | $5,420,830 | $5,577,707 | $5,407,033
+Return on average assets (= A / E) - most directly comparable GAAP-based measure (1) | 1.60 | % | 1.53 | % | 1.59 | % | 1.55 | % | 1.60 | % | 1.58 | % | 1.47 | %
+Return on average assets, adjusted (= D / E) - Non-GAAP (1) | n/a | n/a | n/a | n/a | n/a | n/a | 1.52 | %
+Average equity (F) | $ | 619,147 | $ | 608,099 | $ | 599,330 | $ | 578,859 | $ | 551,945 | $ | 608,931 | $ | 537,210
+Return on average equity (= A / F) - most directly comparable GAAP-based measure (1) | 14.62 | % | 13.96 | % | 14.76 | % | 14.73 | % | 15.72 | % | 14.44 | % | 14.77 | %
+Return on average equity, adjusted (= D / F) - Non-GAAP (1) | n/a | n/a | n/a | n/a | n/a | n/a | 15.28 | %
+Weighted average shares - basic (G) - most directly comparable GAAP-based measure | 19,380 | 19,313 | 19,274 | 19,251 | 19,224 | 19,323 | 19,185
+Basic earnings (loss) per share (= A / G) - most directly comparable GAAP-based measure | $ | 1.18 | $ | 1.10 | $ | 1.13 | $ | 1.12 | $ | 1.14 | $ | 3.40 | $ | 3.09
+Basic earnings per share, adjusted (= D / G) - Non-GAAP | n/a | n/a | n/a | n/a | n/a | n/a | $ | 3.20
+Weighted average shares - diluted (H) - most directly comparable GAAP-based measure | 19,504 | 19,432 | 19,410 | 19,384 | 19,364 | 19,449 | 19,345
+Diluted earnings (loss) per share (= A / H) - most directly comparable GAAP-based measure | $ | 1.17 | $ | 1.09 | $ | 1.12 | $ | 1.11 | $ | 1.13 | $ | 3.38 | $ | 3.07
+Diluted earnings per share, adjusted (= D / H) - Non-GAAP | n/a | n/a | n/a | n/a | n/a | n/a | $ | 3.17
+continued
+21
+Three Months Ended | Nine Months Ended
+September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Noninterest expense (I) - most directly comparable GAAP-based measure | $ | 37,334 | $ | 37,666 | $ | 36,728 | $ | 37,355 | $ | 36,297 | $ | 111,728 | $ | 112,087
+Less: Merger-related expenses (B) | — | — | — | — | — | — | (2,617)
+Adjusted noninterest expense (J = I - B) - Non-GAAP | $ | 37,334 | $ | 37,666 | $ | 36,728 | $ | 37,355 | $ | 36,297 | $ | 111,728 | $ | 109,470
+Net interest income (K) | $ | 53,320 | $ | 48,831 | $ | 49,005 | $ | 50,531 | $ | 50,988 | $ | 151,156 | $ | 149,261
+Noninterest income (L) | 13,378 | 13,836 | 15,577 | 14,392 | 13,382 | 42,791 | 37,921
+Total operating income (M = K + L) - most directly comparable GAAP-based measure | $ | 66,698 | $ | 62,667 | $ | 64,582 | $ | 64,923 | $ | 64,370 | $ | 193,947 | $ | 187,182
+Plus: Accelerated amortization of fair value mark on redeemed subordinated notes (N) | — | 1,624 | — | — | — | 1,624 | —
+Adjusted total operating income (O = M + N) - Non-GAAP | $ | 66,698 | $ | 64,291 | $ | 64,582 | $ | 64,923 | $ | 64,370 | $ | 195,571 | $ | 187,182
+Efficiency ratio (= I / M) - most directly comparable GAAP-based measure | 56.0 | % | 60.1 | % | 56.9 | % | 57.5 | % | 56.4 | % | 57.6 | % | 59.9 | %
+Efficiency ratio, adjusted (= J / N) - Non-GAAP | n/a | 58.6 | % | n/a | n/a | n/a | 57.1 | % | 58.5 | %
+(1) Annualized
+22
+Nine Months Ended September 30, 2026
+Average Balance - most directly comparable GAAP-based measure | Taxable-Equivalent Interest - most directly comparable GAAP-based measure | Less: accelerated amortization on fair value mark from subordinated notes redemption | Adjusted Taxable-Equivalent Interest - Non-GAAP | Taxable-Equivalent Rate - most directly comparable GAAP-based measure | Adjusted Taxable-Equivalent Rate - Non-GAAP
+Total interest-earning assets | $ | 5,148,763 | $ | 228,516 | $ | — | $ | 228,516 | 5.93 | % | 5.93 | %
+Total interest-bearing liabilities | $ | 4,000,575 | 75,646 | (1,624) | 74,022 | 2.53 | % | 2.47 | %
+Taxable-equivalent net interest income / net interest spread | $ | 152,870 | $ | 1,624 | $ | 154,494 | 3.40 | % | 3.46 | %
+Taxable-equivalent net interest margin | 3.97 | % | 4.01 | %
+Three Months Ended June 30, 2026
+Average Balance - most directly comparable GAAP-based measure | Taxable-Equivalent Interest - most directly comparable GAAP-based measure | Less: accelerated amortization on fair value mark from subordinated notes redemption | Adjusted Taxable-Equivalent Interest - Non-GAAP | Taxable-Equivalent Rate - most directly comparable GAAP-based measure | Adjusted Taxable-Equivalent Rate - Non-GAAP
+Total interest-earning assets | $ | 5,117,006 | $ | 75,277 | $ | — | $ | 75,277 | 5.90 | % | 5.90 | %
+Total interest-bearing liabilities | $ | 3,963,461 | 25,871 | (1,624) | 24,247 | 2.62 | % | 2.45 | %
+Taxable-equivalent net interest income / net interest spread | $ | 49,406 | $ | 1,624 | $ | 51,030 | 3.28 | % | 3.45 | %
+Taxable-equivalent net interest margin | 3.87 | % | 4.00 | %
+23
+Appendix B- Investment Portfolio Concentrations
+The following table summarizes the credit ratings and collateral associated with the Company's investment security portfolio, excluding equity securities, at September 30, 2026:
+(In thousands)
+Sector | Portfolio Mix | Amortized Book | Fair Value | AAA | AA | A | BBB | BB | NR | Collateral / Guarantee Type
+Unsecured ABS | — | % | $ | 2,203 | $ | 2,173 | — | % | — | % | — | % | — | % | — | % | 100 | % | Unsecured Consumer Debt
+Student Loan ABS | — | 2,342 | 2,343 | — | — | — | — | — | 100 | Seasoned Student Loans
+Federal Family Education Loan ABS | 7 | 64,907 | 64,722 | 4 | 74 | — | 9 | 13 | — | Federal Family Education Loan (1)
+PACE Loan ABS | — | 1,450 | 1,274 | 100 | — | — | — | — | — | PACE Loans (2)
+Non-Agency CMBS | 4 | 38,629 | 37,415 | — | — | — | — | — | 100
+Non-Agency RMBS | 4 | 39,198 | 37,370 | 94 | 6 | — | — | — | — | Reverse Mortgages (3)
+Municipal - General Obligation | 10 | 98,818 | 86,644 | 17 | 78 | 5 | — | — | —
+Municipal - Revenue | 12 | 118,983 | 100,673 | — | 75 | 19 | — | — | 6
+SBA ReRemic (5) | — | 1,105 | 1,094 | — | 100 | — | — | — | — | SBA Guarantee (4)
+Small Business Administration | — | 2,433 | 2,488 | — | 100 | — | — | — | — | SBA Guarantee (4)
+Agency MBS | 26 | 252,259 | 234,756 | — | 100 | — | — | — | — | Residential Mortgages (4)
+Agency CMO | 35 | 346,837 | 333,056 | — | 100 | — | — | — | —
+U.S. Treasury securities | 2 | 15,010 | 14,166 | — | 100 | — | — | — | — | U.S. Government Guarantee (4)
+Corporate bonds | — | 957 | 961 | — | — | — | 100 | — | —
+100 | % | $ | 985,131 | $ | 919,135 | 6 | % | 84 | % | 3 | % | 1 | % | 1 | % | 5 | %
+(1) 97% guaranteed by U.S. government
+(2) PACE acronym represents Property Assessed Clean Energy loans
+(3) Non-agency reverse mortgages with current structural credit enhancements
+(4) Guaranteed by U.S. government or U.S. government agencies
+(5) SBA ReRemic acronym represents Re-Securitization of Real Estate Mortgage Investment Conduits
+Note: Ratings in table are the lowest of the six rating agencies (Standard & Poor's, Moody's, Fitch, Morningstar, DBRS and Kroll Bond Rating Agency). Standard & Poor's rates U.S. government obligations at AA+.
+24
+About the Company
+With $5.7 billion in assets, Orrstown Financial Services, Inc. and its wholly-owned subsidiary, Orrstown Bank, provide a wide range of consumer and business financial services in Berks, Cumberland, Dauphin, Franklin, Lancaster, Perry and York Counties, Pennsylvania and Anne Arundel, Baltimore, Harford, Howard, and Washington Counties, Maryland, as well as Baltimore City, Maryland. The Company’s lending area also includes counties in Pennsylvania, Maryland, Delaware, Virginia and West Virginia within a 75-mile radius of the Company's executive and administrative offices as well as the District of Columbia. Orrstown Bank is an Equal Housing Lender and its deposits are insured up to the legal maximum by the FDIC. Orrstown Financial Services, Inc.’s common stock is traded on Nasdaq (ORRF). For more information about Orrstown Financial Services, Inc. and Orrstown Bank, visit www.orrstown.com.
+Cautionary Note Regarding Forward-Looking Statements
+This press release contains “forward-looking statements” within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act. Forward-looking statements reflect the current views of the Company's management with respect to, among other things, future events and the Company's financial performance. These statements are often, but not always, made through the use of words or phrases such as “may,” “should,” “could,” “predict,” “potential,” “believe,” “will likely result,” “expect,” “continue,” “will,” “anticipate,” “seek,” “estimate,” “intend,” “plan,” “project,” “forecast,” “goal,” “target,” “would” and “outlook,” or the negative variations of those words or other comparable words of a future or forward-looking nature. These forward-looking statements are not historical facts, and are based on current expectations, estimates, predictions or projections about events or the Company's industry, management’s beliefs and certain assumptions made by management, many of which, by their nature, are inherently uncertain and beyond the Company's control. Accordingly, the Company cautions you that any such forward-looking statements are not guarantees of future performance and are subject to risks, assumptions and uncertainties that are difficult to predict. Although the Company believes that the expectations reflected in these forward-looking statements are reasonable as of the date made, actual results may prove to be materially different from the results expressed or implied by the forward-looking statements and there can be no assurances that the Company will achieve the desired level of new business development and new loans, growth in the balance sheet and fee-based revenue lines of business, cost savings initiatives and continued reductions in risk assets or mitigation of losses in the future. Factors which could cause the actual results to differ from those expressed or implied by the forward-looking statements include, but are not limited to, the following: interest rate changes or volatility; general economic conditions (including inflation and concerns about liquidity) on a national basis or in the local markets in which the Company operates; ineffectiveness of the Company’s strategic growth plan due to changes in current or future market conditions; the effects of competition and how it may impact our community banking model, including industry consolidation and development of competing financial products and services; changes in consumer behavior due to changing political, business and economic conditions, or legislative or regulatory initiatives; changes in, and evolving interpretations of, existing and future laws and regulations; changes in credit quality; inability to raise capital, if necessary, under favorable conditions; volatility in the securities markets; the demand for our products and services; deteriorating economic conditions; geopolitical tensions; operational risks including, but not limited to, cybersecurity incidents, fraud, natural disasters and future pandemics; expenses associated with litigation and legal proceedings; and other risks and uncertainties, including those detailed in our Annual Report on Form 10-K for the year ended December 31, 2025 under the sections titled “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and in subsequent filings made with the Securities and Exchange Commission.
+The foregoing list of factors is not exhaustive. If one or more events related to these or other risks or uncertainties materializes, or if the Company's underlying assumptions prove to be incorrect, actual results may differ materially from what the Company anticipates. Accordingly, you should not place undue reliance on any such forward-looking statements. Any forward-looking statement speaks only as of the date on which it is made, and the Company disclaims any obligation to publicly update or review any forward-looking statement, whether as a result of new information, future developments or otherwise. New risks and uncertainties arise from time to time, and it is not possible for the Company to predict those events or how they may affect it. In addition, the Company cannot assess the impact of each factor on its business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. All forward-looking statements, expressed or implied, included in this press release are expressly qualified in their entirety by this cautionary statement. This cautionary statement should also be considered in connection with any subsequent written or oral forward-looking statements that the Company or persons acting on the Company's behalf may issue.
+25
+The review period for subsequent events extends up to and includes the filing date of a public company’s financial statements, when filed with the Securities and Exchange Commission. Accordingly, the consolidated financial information presented in this announcement is subject to change. Annualized, pro forma, projected and estimated numbers in this document are used for illustrative purposes only and are not forecasts and may not reflect actual results.
+####
+26
