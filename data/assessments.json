@@ -1038,5 +1038,213 @@
     "filing_found": false,
     "recheck": false,
     "assessed_at": "2026-10-25T22:25:06+08:00"
+  },
+  {
+    "accession": "0001628280-26-066606",
+    "cik": "826154",
+    "company": "ORRSTOWN FINANCIAL SERVICES INC",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty, and the SEC holds no three-month revenue figure for this bank. Nothing to compare."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left operating income empty, and the SEC holds no three-month figure for it. Nothing to compare."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure yet for the quarter to 2026-09-30. The quote is in the release and holds 22,815 (USD thousands), so 22.815 million."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure yet for the quarter to 2026-09-30. The quote is in the release and holds 1.17."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No 10-Q check yet. Both quotes are in the release and hold their numbers (22,815 thousand; 1.17). The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 4,
+        "reason": "Net income and EPS are present. Revenue and operating income are empty; the release gives total operating income of 66,698 (USD thousands), a revenue-like total. Guidance: none given."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Net income, EPS and the management claims are usable as they stand. Revenue is missing, so the analyst must read total operating income in the release."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "22.815 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under NetIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "diluted_eps": {
+        "extracted": "1.17 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under EarningsPerShareDiluted. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Diluted EPS 1.17 is up 3.5% on a year ago (1.13) and 7.3% on the previous quarter (1.09). Net income is up 4.3% and 7.8%. ROA 1.60% vs 1.53% (release)."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Not testable from fundamentals. The release table shows net interest margin 4.12% against 3.87% last quarter (+25 bp) and 4.11% a year ago."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Not testable from fundamentals. The release table shows efficiency ratio 56.0% against 60.1% last quarter and 56.4% a year ago, so lower, meaning better."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Net income and EPS rose on both a year ago and the previous quarter, and the margin and efficiency ratio improved on the previous quarter."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 22.815,
+        "this_quarter_from": "release",
+        "year_ago": 21.865,
+        "change_year": 4.3,
+        "previous_quarter": 21.158,
+        "change_quarter": 7.8
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 1.17,
+        "this_quarter_from": "release",
+        "year_ago": 1.13,
+        "change_year": 3.5,
+        "previous_quarter": 1.09,
+        "change_quarter": 7.3
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO calls the quarter strong, with diluted EPS of $1.17 and return on average assets of 1.60%.",
+        "quote": "Orrstown delivered strong third quarter results, with diluted earnings per common share of $1.17 and a return on average assets of 1.60%.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Net interest margin rose 25 basis points to 4.12%.",
+        "quote": "Net interest margin, on a tax equivalent basis, increased by 25 basis points to 4.12% in the third quarter of 2026 compared to 3.87% in the second quarter of 2026",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The efficiency ratio improved to 56.0% from 60.1%.",
+        "quote": "Efficiency ratio was 56.0% for the three months ended September 30, 2026 compared to 60.1% for the three months ended June 30, 2026",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls results strong and notes favourable credit trends and confidence in execution."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-26T06:38:10+08:00"
   }
 ]
