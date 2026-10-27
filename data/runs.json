@@ -487,5 +487,86 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-27T23:29:41+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-27-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 3,
+      "total": 3,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 3,
+      "checked": 3,
+      "rechecks": 1,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 12
+    },
+    "companies": [
+      {
+        "cik": "826154",
+        "company": "ORRSTOWN FINANCIAL SERVICES INC",
+        "accession": "0001628280-26-066606",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1471265",
+        "company": "Northwest Bancshares, Inc.",
+        "accession": "0001471265-26-000044",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1169561",
+        "company": "COMMVAULT SYSTEMS INC",
+        "accession": "0001169561-26-000032",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 3 extractions: 0 figures confirmed, 0 mismatches, 12 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-10-27T23:27:36+08:00",
+      "watch_brief": "briefs/2026-10-27-watch.md",
+      "brief_says": 136,
+      "saved_for_run": 136,
+      "match": true
+    },
+    "offline": false
   }
 ]
