@@ -299,5 +299,120 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/826154/000162828026066606/ex9912026-q3earningsrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/826154/000162828026066606/0001628280-26-066606-index.htm",
     "saved_at": "2026-10-25T22:22:01+08:00"
+  },
+  {
+    "cik": "1471265",
+    "company": "Northwest Bancshares, Inc.",
+    "accession": "0001471265-26-000044",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 50.719,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 50,719 | 53,546"
+      },
+      "diluted_eps": {
+        "value": 0.34,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 0.34 | 0.36"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says total revenue and net interest income were records.",
+        "quote": "with record total revenue and net interest income"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Management says it kept expenses under control, with an efficiency ratio of 58.9%.",
+        "quote": "maintained our expense management discipline, with an efficiency ratio of 58.9% and adjusted efficiency ratio of 57.8%"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects a strong fourth quarter of 2026.",
+        "quote": "We look forward to a strong finish in the fourth quarter of 2026"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter strong, cites record revenue and expects a strong fourth quarter."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1471265-0001471265-26-000044.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1471265/000147126526000044/a2026-09x30nwbi8ker.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1471265/000147126526000044/0001471265-26-000044-index.htm",
+    "saved_at": "2026-10-27T23:27:36+08:00"
+  },
+  {
+    "cik": "1169561",
+    "company": "COMMVAULT SYSTEMS INC",
+    "accession": "0001169561-26-000032",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 312.389,
+        "unit": "USD millions",
+        "quote": "Total revenues | 312,389 | 276,188"
+      },
+      "operating_income": {
+        "value": 30.377,
+        "unit": "USD millions",
+        "quote": "Income from operations | 30,377 | 12,491"
+      },
+      "net_income": {
+        "value": 29.111,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 29,111 | $ | 14,730"
+      },
+      "diluted_eps": {
+        "value": 0.69,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.69 | $ | 0.33"
+      }
+    },
+    "guidance": {
+      "text": "For the third quarter of fiscal 2027, Commvault expects subscription revenue of $293 million to $297 million.",
+      "quote": "Subscription revenue is expected to be between $293 million and $297 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management reports subscription revenue grew 21% year over year.",
+        "quote": "Subscription revenue was $269 million, up 21% year over year"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Management reports income from operations of $30 million, a 9.7% operating margin.",
+        "quote": "Income from operations (EBIT) was $30 million, an operating margin of 9.7%"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says Q2 results reflect momentum and durable growth.",
+        "quote": "We believe our strong Q2 results reflect that momentum, driving durable growth and shareholder value."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the results strong and speaks of momentum and durable growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1169561-0001169561-26-000032.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1169561/000116956126000032/q2fy27pressrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1169561/000116956126000032/0001169561-26-000032-index.htm",
+    "saved_at": "2026-10-27T23:27:36+08:00"
   }
 ]
