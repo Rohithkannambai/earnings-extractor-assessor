@@ -1,123 +1,137 @@
 {
-  "fetched_at": "2026-10-27T08:48:09+08:00",
+  "fetched_at": "2026-10-27T23:18:13+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-10-25",
-    "end": "2026-10-26",
+    "end": "2026-10-27",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 15,
-  "answered": 15,
+  "requests": 17,
+  "answered": 17,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-26",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-27",
       "ok": true,
-      "detail": "HTTP 200, 43 KB in 503 ms"
+      "detail": "HTTP 200, 60 KB in 363 ms"
+    },
+    {
+      "name": "Earnings radar, page 2",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-27&from=100",
+      "ok": true,
+      "detail": "HTTP 200, 32 KB in 259 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 79 ms"
+      "detail": "HTTP 200, 148 KB in 28 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 313 ms"
+      "detail": "HTTP 200, 156 KB in 23 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 155 KB in 16 ms"
+      "detail": "HTTP 200, 155 KB in 21 ms"
     },
     {
-      "name": "MEDIFAST INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/910329/000162828026067151/index.json",
+      "name": "Northwest Bancshares, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1471265/000147126526000044/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 87 ms"
+      "detail": "HTTP 200, 1 KB in 63 ms"
     },
     {
-      "name": "MEDIFAST INC filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/910329/000162828026067151/0001628280-26-067151-index.htm",
+      "name": "Northwest Bancshares, Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1471265/000147126526000044/0001471265-26-000044-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 32 ms"
+      "detail": "HTTP 200, 9 KB in 43 ms"
     },
     {
-      "name": "MEDIFAST INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/910329/000162828026067151/medq32026earningsrelease.htm",
+      "name": "Northwest Bancshares, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1471265/000147126526000044/a2026-09x30nwbi8ker.htm",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 62 ms"
+      "detail": "HTTP 200, 1,487 KB in 109 ms"
     },
     {
-      "name": "Clearwater Paper Corp filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1441236/000162828026067280/index.json",
+      "name": "COMMVAULT SYSTEMS INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1169561/000116956126000032/index.json",
       "ok": true,
-      "detail": "HTTP 200, 3 KB in 46 ms"
+      "detail": "HTTP 200, 1 KB in 24 ms"
     },
     {
-      "name": "Clearwater Paper Corp press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1441236/000162828026067280/clw-20260930x8kexhibit991.htm",
+      "name": "COMMVAULT SYSTEMS INC filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1169561/000116956126000032/0001169561-26-000032-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 231 KB in 64 ms"
+      "detail": "HTTP 200, 10 KB in 47 ms"
+    },
+    {
+      "name": "COMMVAULT SYSTEMS INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1169561/000116956126000032/q2fy27pressrelease.htm",
+      "ok": true,
+      "detail": "HTTP 200, 466 KB in 58 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 37 ms"
+      "detail": "HTTP 200, 3,090 KB in 54 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 36 ms"
+      "detail": "HTTP 200, 4,373 KB in 28 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,736 KB in 17 ms"
+      "detail": "HTTP 200, 2,736 KB in 27 ms"
     },
     {
-      "name": "MEDIFAST INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000910329.json",
+      "name": "Northwest Bancshares, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001471265.json",
       "ok": true,
-      "detail": "HTTP 200, 2,673 KB in 295 ms"
+      "detail": "HTTP 200, 4,778 KB in 327 ms"
     },
     {
-      "name": "Clearwater Paper Corp company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001441236.json",
+      "name": "COMMVAULT SYSTEMS INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001169561.json",
       "ok": true,
-      "detail": "HTTP 200, 3,433 KB in 494 ms"
+      "detail": "HTTP 200, 2,862 KB in 240 ms"
     },
     {
       "name": "ORRSTOWN FINANCIAL SERVICES INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000826154.json",
       "ok": true,
-      "detail": "HTTP 200, 4,672 KB in 84 ms"
+      "detail": "HTTP 200, 4,672 KB in 346 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000826154.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000910329.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001169561.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001441236.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001471265.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_1441236_000162828026067280_clw-20260930x8kexhibit991.htm",
-    "www.sec.gov_Archives_edgar_data_1441236_000162828026067280_index.json",
-    "www.sec.gov_Archives_edgar_data_910329_000162828026067151_0001628280-26-067151-index.htm",
-    "www.sec.gov_Archives_edgar_data_910329_000162828026067151_index.json",
-    "www.sec.gov_Archives_edgar_data_910329_000162828026067151_medq32026earningsrelease.htm"
+    "efts.sec.gov_search-index_from100.json",
+    "www.sec.gov_Archives_edgar_data_1169561_000116956126000032_0001169561-26-000032-index.htm",
+    "www.sec.gov_Archives_edgar_data_1169561_000116956126000032_index.json",
+    "www.sec.gov_Archives_edgar_data_1169561_000116956126000032_q2fy27pressrelease.htm",
+    "www.sec.gov_Archives_edgar_data_1471265_000147126526000044_0001471265-26-000044-index.htm",
+    "www.sec.gov_Archives_edgar_data_1471265_000147126526000044_a2026-09x30nwbi8ker.htm",
+    "www.sec.gov_Archives_edgar_data_1471265_000147126526000044_index.json"
   ]
 }
