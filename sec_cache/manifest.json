@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-01T08:02:10+08:00",
+  "fetched_at": "2026-11-01T08:25:24+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,169 +16,169 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-31",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 704 ms"
+      "detail": "HTTP 200, 60 KB in 522 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-31&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 344 ms"
+      "detail": "HTTP 200, 60 KB in 299 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-31&from=200",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 528 ms"
+      "detail": "HTTP 200, 59 KB in 232 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-31&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 272 ms"
+      "detail": "HTTP 200, 60 KB in 223 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-31&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 393 ms"
+      "detail": "HTTP 200, 60 KB in 305 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-31&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 475 ms"
+      "detail": "HTTP 200, 60 KB in 322 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-31&from=600",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 336 ms"
+      "detail": "HTTP 200, 61 KB in 144 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-31&from=700",
       "ok": true,
-      "detail": "HTTP 200, 57 KB in 379 ms"
+      "detail": "HTTP 200, 57 KB in 184 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 178 ms"
+      "detail": "HTTP 200, 148 KB in 43 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 137 ms"
+      "detail": "HTTP 200, 1 KB in 55 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 92 ms"
+      "detail": "HTTP 200, 361 KB in 31 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 80 ms"
+      "detail": "HTTP 200, 156 KB in 17 ms"
     },
     {
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 76 ms"
+      "detail": "HTTP 200, 1 KB in 38 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 100 ms"
+      "detail": "HTTP 200, 657 KB in 38 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 74 ms"
+      "detail": "HTTP 200, 153 KB in 17 ms"
     },
     {
       "name": "DBV Technologies S.A. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1613780/000119312526436411/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 71 ms"
+      "detail": "HTTP 200, 1 KB in 52 ms"
     },
     {
       "name": "DBV Technologies S.A. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1613780/000119312526436411/d137106dex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 54 KB in 78 ms"
+      "detail": "HTTP 200, 54 KB in 24 ms"
     },
     {
       "name": "SPX Technologies, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/88205/000008820526000060/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 77 ms"
+      "detail": "HTTP 200, 1 KB in 29 ms"
     },
     {
       "name": "SPX Technologies, Inc. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/88205/000008820526000060/0000088205-26-000060-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 9 KB in 142 ms"
+      "detail": "HTTP 200, 9 KB in 65 ms"
     },
     {
       "name": "SPX Technologies, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/88205/000008820526000060/q32026pressrelease.htm",
       "ok": true,
-      "detail": "HTTP 200, 620 KB in 170 ms"
+      "detail": "HTTP 200, 620 KB in 82 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,173 KB in 145 ms"
+      "detail": "HTTP 200, 3,173 KB in 119 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 133 ms"
+      "detail": "HTTP 200, 4,447 KB in 25 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,737 KB in 119 ms"
+      "detail": "HTTP 200, 2,737 KB in 78 ms"
     },
     {
       "name": "DBV Technologies S.A. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001613780.json",
       "ok": true,
-      "detail": "HTTP 200, 1,085 KB in 295 ms"
+      "detail": "HTTP 200, 1,085 KB in 28 ms"
     },
     {
       "name": "SPX Technologies, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000088205.json",
       "ok": true,
-      "detail": "HTTP 200, 4,402 KB in 804 ms"
+      "detail": "HTTP 200, 4,402 KB in 33 ms"
     },
     {
       "name": "ORRSTOWN FINANCIAL SERVICES INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000826154.json",
       "ok": true,
-      "detail": "HTTP 200, 4,672 KB in 902 ms"
+      "detail": "HTTP 200, 4,672 KB in 486 ms"
     },
     {
       "name": "Northwest Bancshares, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001471265.json",
       "ok": true,
-      "detail": "HTTP 200, 4,778 KB in 760 ms"
+      "detail": "HTTP 200, 4,778 KB in 448 ms"
     },
     {
       "name": "COMMVAULT SYSTEMS INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001169561.json",
       "ok": true,
-      "detail": "HTTP 200, 2,903 KB in 732 ms"
+      "detail": "HTTP 200, 2,903 KB in 25 ms"
     }
   ],
   "files": [
