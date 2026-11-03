@@ -1782,5 +1782,154 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-04T06:38:21+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-04-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 7,
+      "total": 7,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 7,
+      "checked": 7,
+      "rechecks": 3,
+      "confirmed": 20,
+      "mismatch": 0,
+      "cannot_check": 8
+    },
+    "companies": [
+      {
+        "cik": "826154",
+        "company": "ORRSTOWN FINANCIAL SERVICES INC",
+        "accession": "0001628280-26-066606",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1471265",
+        "company": "Northwest Bancshares, Inc.",
+        "accession": "0001471265-26-000044",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 3
+        }
+      },
+      {
+        "cik": "1169561",
+        "company": "COMMVAULT SYSTEMS INC",
+        "accession": "0001169561-26-000032",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "accession": "0001652044-26-000080",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "accession": "0001018724-26-000038",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "2023554",
+        "company": "Sandisk Corp",
+        "accession": "0001628280-26-068243",
+        "period_label": "quarter ended 2 October 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "66004",
+        "company": "MIDDLESEX WATER CO",
+        "accession": "0001628280-26-068204",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 7 extractions: 20 figures confirmed, 0 mismatches, 8 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-04T06:09:25+08:00",
+      "watch_brief": "briefs/2026-11-04-watch.md",
+      "brief_says": 784,
+      "saved_for_run": 784,
+      "match": true
+    },
+    "offline": false
   }
 ]
