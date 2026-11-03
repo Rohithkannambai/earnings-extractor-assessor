@@ -414,5 +414,239 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1169561/000116956126000032/q2fy27pressrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1169561/000116956126000032/0001169561-26-000032-index.htm",
     "saved_at": "2026-10-27T23:27:36+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577 | $ | 289,007 | $ | 357,269"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,228 | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 25% year over year.",
+        "quote": "Consolidated Alphabet revenues increased 25% to $127.6 billion"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Google Cloud revenues grew 103%, driven by demand for AI infrastructure and solutions.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and the operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and cites momentum across the business."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:09:25+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of 2026, Amazon expects net sales of $240.0 billion to $247.0 billion.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "AWS sales grew 39% year over year to a $184 billion run rate.",
+        "quote": "AWS net sales increased 39.3%—its fastest growth in nearly five years—to a $184 billion annualized revenue run rate"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating income was $28.1 billion, at the highest operating margin the company has reported.",
+        "quote": "Operating income was $28.1 billion and operating margin was 13.9%—Amazon’s highest operating margin ever"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income fell to $20.7 billion, mainly because of 2025 gains on Anthropic investments.",
+        "quote": "Net income decreased to $20.7 billion in the third quarter, or $1.89 per diluted share, compared with $21.2 billion, or $1.95 per diluted share, in third quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the AWS investment is working and that retail margins are improving."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:09:25+08:00"
+  },
+  {
+    "cik": "2023554",
+    "company": "Sandisk Corp",
+    "accession": "0001628280-26-068243",
+    "release_date": "2026-10-29",
+    "period_end": "2026-10-02",
+    "period_label": "quarter ended 2 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 11031,
+        "unit": "USD millions",
+        "quote": "Revenue, net | $ | 11,031 | $ | 2,308"
+      },
+      "operating_income": {
+        "value": 8780,
+        "unit": "USD millions",
+        "quote": "Operating income | 8,780 | 176"
+      },
+      "net_income": {
+        "value": 8101,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 8,101 | $ | 112"
+      },
+      "diluted_eps": {
+        "value": 52.6,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 52.60 | $ | 0.75"
+      }
+    },
+    "guidance": {
+      "text": "For the second quarter of fiscal 2027, Sandisk expects revenue of $12.2 billion to $12.6 billion.",
+      "quote": "Expect second quarter 2027 revenue to be in the range of $12.2 billion to $12.6 billion"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO describes a strong quarter, with demand driving faster growth in data centre.",
+        "quote": "We have started fiscal year 2027 with another quarter of strong performance, with robust and growing demand for our products driving outpaced growth in our data center business"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Revenue was $11.0 billion, up 23% on the previous quarter.",
+        "quote": "Fiscal first quarter revenue was $11.0 billion, up 23% sequentially"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO cites strong performance and robust, growing demand."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2023554-0001628280-26-068243.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026068243/sndkq1-27ex991xpressrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026068243/0001628280-26-068243-index.htm",
+    "saved_at": "2026-11-04T06:09:25+08:00"
+  },
+  {
+    "cik": "66004",
+    "company": "MIDDLESEX WATER CO",
+    "accession": "0001628280-26-068204",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 60.205,
+        "unit": "USD millions",
+        "quote": "Operating Revenues | $60,205 | $54,091"
+      },
+      "operating_income": {
+        "value": 22.267,
+        "unit": "USD millions",
+        "quote": "Operating Income | 22,267 | 17,703"
+      },
+      "net_income": {
+        "value": 18.028,
+        "unit": "USD millions",
+        "quote": "Net Income | 18,028 | 13,958"
+      },
+      "diluted_eps": {
+        "value": 0.95,
+        "unit": "USD per share",
+        "quote": "Diluted | $0.95 | $0.77"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says results were strong, helped by wholesale demand and consumption.",
+        "quote": "Our strong third-quarter results reflect increased wholesale demand, higher customer consumption, and the continued execution of our regulatory strategy"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Operating revenues rose $6.1 million on the same quarter last year.",
+        "quote": "Operating revenues for the quarter ended September 30, 2026, were $60.2 million, an increase of $6.1 million, compared to the same quarter last year."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the results strong and speaks of solid earnings growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/66004-0001628280-26-068204.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/66004/000162828026068204/msex-20261029exx991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/66004/000162828026068204/0001628280-26-068204-index.htm",
+    "saved_at": "2026-11-04T06:09:25+08:00"
   }
 ]
