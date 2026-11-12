@@ -1,0 +1,158 @@
+Company: Hyliion Holdings Corp. (CIK 1759631)
+Accession: 0001628280-26-072808
+Results released: 2026-11-10
+Press release: https://www.sec.gov/Archives/edgar/data/1759631/000162828026072808/exhibit991093026.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1759631/000162828026072808/0001628280-26-072808-index.htm
+Saved: 2026-11-13T06:07:52+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 exhibit991093026.htm EX-99.1
+Exhibit 99.1
+HYLIION HOLDINGS REPORTS THIRD-QUARTER 2026 FINANCIAL RESULTS
+AUSTIN, Texas, November 10, 2026 – Hyliion Holdings Corp. (NYSE American: HYLN) (“Hyliion”), a developer of modular power plant technology, today reported financial results for the third quarter ended September 30, 2026, and provided key updates on the development of the KARNO™ Power Module platform.
+Key Business Highlights
+•Further increased full-year 2026 revenue guidance to approximately $18 million from $15 million, following third-quarter revenue of $7.5 million
+•Delivered another early adopter KARNO Power Module to the U.S. Navy and began moving equipment to the first commercial customer deployment site
+•Anticipating approximately $8 million in additional military contract awards before year-end, which would bring total new military awards for 2026 to approximately $50 million
+•Entered the fourth quarter with $45.5 million in remaining authorized funding under existing military contracts, providing visibility into future revenue
+•On track to achieve KARNO Core 200-kW power output target by year-end
+•Advancing additive manufacturing improvements that could increase printer speeds by up to three times, while consolidating additive manufacturing operations to Texas
+•Ended the quarter with $121.4 million in cash and investments and maintained expected year-end cash and investments forecast of $115 million to $120 million
+Executive Commentary
+“We delivered another strong quarter, with revenue well above our expectations and continued progress on system performance and customer deployments,” said Thomas Healy, Founder and CEO of Hyliion. “We delivered another system to the Navy and began moving equipment to our first commercial customer site, where we expect to complete the deployment in the weeks ahead. Customer demand continues to grow across commercial and military markets, and we expect a total of approximately $50 million in new military contract awards this year. We are increasing manufacturing throughput and building the capacity and team to support higher production volumes in 2027.”
+KARNO Development and Early Customer Deployments
+During the third quarter, Hyliion delivered another early adopter KARNO Power Module to the U.S. Navy, where it is being used for extended operation to further validate durability while running on diesel fuel. The Company also began moving equipment to its first commercial customer site and expects to complete the deployment in the coming weeks.
+Additional early adopter units are currently in assembly, including a second commercial customer unit and systems supporting the U.S. Navy’s USX-1 Defiant autonomous vessel. Hyliion now expects to complete the 800-kW system for the Navy vessel in early 2027, consistent with the Navy’s schedule for integration ahead of sea trials. The Company expects to complete the remaining early adopter unit deliveries by its fourth quarter earnings release in February 2027. The revised delivery timing reflects, in part, a component redesign to address thermal fatigue identified during extended system operation.
+Exhibit 99.1
+KARNO development continues to focus on improving system reliability, manufacturing quality and power output. Extended system operation is providing valuable data and enabling the Company to further refine system components, software controls and manufacturing processes. The Company is also seeing improvements in manufacturing quality and consistency as it incorporates lessons learned from successive system builds. Together, these efforts are supporting continued progress toward broader customer deployments.
+Hyliion also remains on track for its target of producing 200 kW of 800-volt DC power from the KARNO Core by year-end. Additional enhancements to the density of the internal mesh of the regenerator, a critical component that retains heat within the system, are now being incorporated into new printed components, which the Company expects will enable achievement of the 200-kW rating.
+Military and Government Progress
+Hyliion continues to expand its military development programs and expects additional contract awards before the end of 2026. Following the $41.7 million U.S. Navy contract announced in July, the Company is in the final stages of negotiations on two additional awards. These include an anticipated $1 million Navy contract to evaluate KARNO technology for a new application and an approximately $7 million contract with another branch of the U.S. military.
+Together with existing awards, these anticipated contracts would bring total new military contract awards for 2026 to approximately $50 million, reaching the high end of the Company’s original objective of $40 million to $50 million. During the third quarter, Hyliion also received confirmation of approximately $3 million in additional funding under its existing Navy contract supporting development of the 800-kW KARNO Power Module for the USX-1 Defiant.
+As of September 30, 2026, Hyliion had $45.5 million in remaining authorized funding under existing military contracts, excluding the approximately $8 million in additional awards anticipated before year-end. The Company expects the majority of this contracted work to be performed over the next two years, providing a significant source of future revenue.
+Hyliion is also pursuing additional military funding through the defense appropriations process and sees opportunities to expand into future production system deliveries as KARNO technology is validated across military applications.
+KARNO Commercial Updates and Customer Demand
+Customer interest in KARNO Power Modules continues to increase across military, data center, commercial and industrial markets. Hyliion continues to see growing interest from data center customers due to KARNO system’s ability to address local concerns surrounding power generation and environmental impact. The KARNO Power Module’s native 800-volt DC architecture also aligns with emerging power requirements for AI infrastructure.
+Hyliion has also engaged in discussions with prospective customers regarding the manufacturing investments and production capacity needed to support larger future deployments. The Company continues to believe that approximately $1.5 million of manufacturing equipment investment can ultimately support one megawatt of annual production capacity, representing approximately $2.5 million to $3.0 million of annual revenue at current expected pricing. Beyond data centers, Hyliion sees significant opportunities in military, commercial, industrial and other prime power applications where customers are seeking alternatives to traditional grid power.
+Exhibit 99.1
+Additive Manufacturing and Production Scaling
+Hyliion continues to advance additive manufacturing improvements that could increase printer speeds by up to three times through greater utilization of laser power, software enhancements and hardware modifications. The Company is also collaborating with Colibrium Additive, a GE Aerospace company, on next-generation printing systems. These advancements are expected to support Hyliion’s manufacturing expansion plans, including the anticipated resumption of printer purchases in 2027 to expand production capacity. Hyliion’s current printer capacity is expected to deliver up to 15 MW of yearly production throughput once speed enhancements are achieved.
+Hyliion is consolidating manufacturing operations to Texas, including relocating six additive printers and KARNO Core assembly from Ohio, which will remain focused on R&D and multi-megawatt KARNO systems. The Company has also filled key leadership positions in Program Management, Quality and Manufacturing Engineering to strengthen operations and support increased production volumes in 2027.
+Financial Highlights and Guidance
+Hyliion recorded third quarter 2026 revenue of $7.5 million from research and development services, compared with $0.8 million in the third quarter of 2025. Revenue exceeded the Company’s prior expectations, primarily reflecting accelerated progress on the 800-kW KARNO Power Module being developed for the Office of Naval Research and additional funding received under that program. Cost of revenues was $6.9 million, resulting in gross profit of $0.6 million.
+Operating expenses for the third quarter were $13.0 million, down 15% from $15.3 million in the third quarter of 2025. R&D expenses declined 14% to $8.7 million, primarily reflecting a continued shift toward revenue-generating work under military contracts. SG&A expenses were $4.3 million, down approximately 17% from the prior-year quarter. Hyliion reported a third-quarter net loss of $11.1 million, compared with $13.3 million in the third quarter of 2025, an improvement of 17%.
+For the first nine months of 2026, revenue was $15.2 million, compared with $2.8 million in the corresponding period of 2025. Gross profit was $1.1 million, compared with $0.1 million in the prior-year period. Operating expenses declined 17% to $42.1 million, while the net loss improved 17% to $36.7 million from $44.0 million.
+Net cash spending during the third quarter was $11.0 million, compared with $20.6 million in the third quarter of 2025, reflecting mostly a decline in year-over-year capital spending. Year-to-date capital spending was $2.4 million compared with $22 million in 2025. Hyliion ended the quarter with $121.4 million in cash and short- and long-term investments.
+Based on stronger-than-anticipated revenue from military research and development services, Hyliion is increasing its full-year 2026 revenue guidance to approximately $18 million, compared with the previous quarter’s outlook of $15 million and $10 million at the start of 2026. The Company expects approximately $3 million in fourth-quarter revenue as work on the 800-kW Navy system nears completion and activity ramps up under the $41.7 million Navy contract awarded in July, with the majority of work under that contract expected in 2027 and 2028.
+Hyliion continues to expect to end 2026 with $115 million to $120 million in cash and investments. Higher expected revenue, lower expenses, and improved working capital are
+Exhibit 99.1
+anticipated to replace the proceeds previously expected from an equipment financing transaction, which the Company has elected not to pursue in 2026 given current market terms.
+About Hyliion
+Hyliion develops and builds modular power plant technology designed to deliver reliable, flexible, and affordable electricity. Its KARNO technology operates on a range of fuels, helping customers adapt to an evolving energy landscape. Headquartered in Austin, Texas, with research and development in Cincinnati, Ohio, Hyliion is initially focused on data center, military, commercial, and industrial applications for its KARNO Power Module, which can provide prime power directly at customer sites. Beyond commercial power, Hyliion will deploy its technology in military applications, including unmanned vessels, command posts, and forward operating bases. The Company’s mission is to enable reliable, flexible, and scalable electricity production through innovative and practical solutions that meet customers’ power needs while supporting a cleaner energy future. For further information, visit www.hyliion.com.
+Forward Looking Statements
+The information in this press release includes “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements, other than statements of present or historical fact included in this press release, regarding Hyliion and its future financial and operational performance, as well as its strategy, future operations, estimated financial position, estimated revenues, and losses, projected costs, prospects, plans and objectives of management are forward looking statements. When used in this press release, including any oral statements made in connection therewith, the words “could,” “should,” “will,” “may,” “believe,” “anticipate,” “intend,” “estimate,” “expect,” “project,” the negative of such terms and other similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain such identifying words. These forward-looking statements are based on management’s current expectations and assumptions about future events and are based on currently available information as to the outcome and timing of future events. Except as otherwise required by applicable law, Hyliion expressly disclaims any duty to update any forward-looking statements, all of which are expressly qualified by the statements herein, to reflect events or circumstances after the date of this press release. Hyliion cautions you that these forward-looking statements are subject to numerous risks and uncertainties, most of which are difficult to predict and many of which are beyond the control of Hyliion. These risks include, but are not limited to, our status as an early stage company with a history of losses, and our expectation of incurring significant expenses and continuing losses for the foreseeable future; our ability to develop key commercial relationships with suppliers and customers; our ability to retain the services of Thomas Healy, our Chief Executive Officer; the expected performance of the KARNO generator and system, including potential delays in its development, production and commercialization; our ability to scale manufacturing operations and obtain the capital necessary to support increased production; the execution of the strategic shift from our powertrain business to our KARNO business; our ability to comply with governmental regulations related to defense spending and procurement; the suitability of our products for defense applications; and the other risks and uncertainties described under the heading “Risk Factors” in our SEC filings including in our Annual Report (See item 1A. Risk Factors) on Form 10-K filed with the Securities and Exchange Commission (the “SEC”) on February 25, 2026 for the year ended December 31, 2025 and in our subsequently filed Forms 10-Q. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. Should one or more of the risks or uncertainties described in this press release occur, or should underlying
+Exhibit 99.1
+assumptions prove incorrect, actual results and plans could differ materially from those expressed in any forward-looking statements. Additional information concerning these and other factors that may impact Hyliion’s operations and projections can be found in its filings with the SEC. Hyliion’s SEC Filings are available publicly on the SEC’s website at www.sec.gov, and readers are urged to carefully review and consider the various disclosures made in such filings.
+Contacts
+Hyliion Holdings Corp.
+press@hyliion.com
+Investor Relations
+ir@hyliion.com
+Exhibit 99.1
+HYLIION HOLDINGS CORP.
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(Dollar amounts in thousands, except share and per share data)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenues
+Research and development services | $ | 7,452 | $ | 759 | $ | 15,228 | $ | 2,763
+Total revenues | 7,452 | 759 | 15,228 | 2,763
+Cost of revenues
+Research and development services | 6,900 | 806 | 14,100 | 2,667
+Total cost of revenues | 6,900 | 806 | 14,100 | 2,667
+Gross profit (loss) | 552 | (47) | 1,128 | 96
+Operating expenses
+Research and development | 8,699 | 10,136 | 25,864 | 32,503
+Selling, general and administrative | 4,291 | 5,184 | 16,899 | 17,228
+Exit and termination (benefits) costs | — | (70) | (672) | 1,007
+Total operating expenses | 12,990 | 15,250 | 42,091 | 50,738
+Loss from operations | (12,438) | (15,297) | (40,963) | (50,642)
+Interest income | 1,374 | 1,960 | 4,234 | 6,637
+Net loss | $ | (11,064) | $ | (13,337) | $ | (36,729) | $ | (44,005)
+Net loss per share, basic and diluted | $ | (0.06) | $ | (0.08) | $ | (0.21) | $ | (0.25)
+Weighted-average shares outstanding, basic and diluted | 178,719,035 | 175,652,193 | 178,280,291 | 175,106,583
+Exhibit 99.1
+HYLIION HOLDINGS CORP.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Dollar amounts in thousands, except share data)
+September 30, 2026 | December 31, 2025
+(Unaudited)
+Assets
+Current assets
+Cash and cash equivalents | $ | 16,706 | $ | 22,938
+Accounts receivable, net | 6,618 | 489
+Inventory | 742 | —
+Prepaid expenses and other current assets | 5,289 | 4,597
+Short-term investments | 37,914 | 69,427
+Assets held for sale | — | 1,181
+Total current assets | 67,269 | 98,632
+Property and equipment, net | 33,031 | 40,461
+Operating lease right-of-use assets | 8,210 | 3,468
+Other assets | 1,017 | 1,004
+Long-term investments | 66,740 | 59,994
+Total assets | $ | 176,267 | $ | 203,559
+Liabilities and stockholders’ equity
+Current liabilities
+Accounts payable | $ | 1,407 | $ | 3,142
+Current portion of operating lease liabilities | 1,482 | 2,726
+Accrued expenses and other current liabilities | 5,746 | 3,995
+Total current liabilities | 8,635 | 9,863
+Operating lease liabilities, net of current portion | 7,166 | 1,646
+Other liabilities | 341 | 41
+Total liabilities | 16,142 | 11,550
+Stockholders’ equity
+Common stock, $0.0001 par value; 250,000,000 shares authorized; 178,883,166 and 187,878,790 shares issued at September 30, 2026 and December 31, 2025, respectively; 178,883,166 and 177,268,720 shares outstanding as of September 30, 2026 and December 31, 2025, respectively | 18 | 19
+Additional paid-in capital | 403,836 | 413,122
+Treasury stock, at cost | — | (14,132)
+Accumulated deficit | (243,729) | (207,000)
+Total stockholders’ equity | 160,125 | 192,009
+Total liabilities and stockholders’ equity | $ | 176,267 | $ | 203,559
+Exhibit 99.1
+HYLIION HOLDINGS CORP.
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Dollar amounts in thousands)
+Nine Months Ended September 30,
+2026 | 2025
+Cash flows from operating activities
+Net loss | $ | (36,729) | $ | (44,005)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation and amortization | 6,028 | 4,066
+Amortization and accretion of investments, net | (655) | (1,258)
+Noncash lease expense | 1,424 | 1,472
+Gain on disposal of assets, including assets held for sale | (472) | (697)
+Share-based compensation | 4,844 | 4,059
+Carrying value adjustment to assets held for sale | — | 1,590
+Other | 1,233 | —
+Changes in operating assets and liabilities:
+Accounts receivable | (6,129) | 1,200
+Inventory | (742) | —
+Prepaid expenses and other assets | 961 | 2,474
+Accounts payable | 109 | 457
+Accrued expenses and other liabilities | 1,740 | (2,254)
+Operating lease liabilities | (1,890) | (1,795)
+Net cash used in operating activities | (30,278) | (34,691)
+Cash flows from investing activities
+Purchase of property and equipment | (2,372) | (22,003)
+Proceeds from sale of property and equipment | 1,853 | 1,192
+Receipt of security deposit | — | 41
+Purchase of investments | (49,584) | (36,326)
+Proceeds from sale and maturity of investments | 74,504 | 101,026
+Net cash provided by investing activities | 24,401 | 43,930
+Cash flows from financing activities
+Payments of deferred equity offering costs | (356) | —
+Proceeds from exercise of common stock options | 1 | —
+Taxes paid related to net share settlement of equity awards | — | (588)
+Net cash used in financing activities | (355) | (588)
+Net (decrease) increase in cash and cash equivalents and restricted cash | (6,232) | 8,651
+Cash and cash equivalents and restricted cash, beginning of period | 23,603 | 9,892
+Cash and cash equivalents and restricted cash, end of period | $ | 17,371 | $ | 18,543

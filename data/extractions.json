@@ -774,5 +774,131 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1370946/000137094626000223/q32026exh-991pressrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1370946/000137094626000223/0001370946-26-000223-index.htm",
     "saved_at": "2026-11-11T06:13:32+08:00"
+  },
+  {
+    "cik": "1759631",
+    "company": "Hyliion Holdings Corp.",
+    "accession": "0001628280-26-072808",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 7.452,
+        "unit": "USD millions",
+        "quote": "Total revenues | 7,452"
+      },
+      "operating_income": {
+        "value": -12.438,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (12,438)"
+      },
+      "net_income": {
+        "value": -11.064,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (11,064)"
+      },
+      "diluted_eps": {
+        "value": -0.06,
+        "unit": "USD per share",
+        "quote": "Net loss per share, basic and diluted | $ | (0.06)"
+      }
+    },
+    "guidance": {
+      "text": "Hyliion raised its full-year 2026 revenue guidance to about $18 million, and expects about $3 million of revenue in the fourth quarter.",
+      "quote": "Hyliion is increasing its full-year 2026 revenue guidance to approximately $18 million, compared with the previous quarter’s outlook of $15 million and $10 million at the start of 2026. The Company expects approximately $3 million in fourth-quarter revenue"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the quarter was strong, with revenue well above the company's expectations.",
+        "quote": "We delivered another strong quarter, with revenue well above our expectations and continued progress on system performance and customer deployments"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO expects about $50 million in new military contract awards this year, as customer demand grows.",
+        "quote": "Customer demand continues to grow across commercial and military markets, and we expect a total of approximately $50 million in new military contract awards this year."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company is raising manufacturing throughput to support higher production volumes in 2027.",
+        "quote": "We are increasing manufacturing throughput and building the capacity and team to support higher production volumes in 2027."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter strong, says revenue was well above expectations and that customer demand continues to grow."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1759631-0001628280-26-072808.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1759631/000162828026072808/exhibit991093026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1759631/000162828026072808/0001628280-26-072808-index.htm",
+    "saved_at": "2026-11-13T06:07:52+08:00"
+  },
+  {
+    "cik": "1838359",
+    "company": "Rigetti Computing, Inc.",
+    "accession": "0001104659-26-125152",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1.411,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 1,411"
+      },
+      "operating_income": {
+        "value": -33.186,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (33,186)"
+      },
+      "net_income": {
+        "value": -3.137,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (3,137)"
+      },
+      "diluted_eps": {
+        "value": -0.08,
+        "unit": "USD per share",
+        "quote": "Net loss per share attributable to common stockholders – diluted | $ | (0.08)"
+      }
+    },
+    "guidance": {
+      "text": "Rigetti expects full-year 2026 revenue of about $20 million, assuming the C-DAC customer accepts its system and the revenue is recognised in the fourth quarter.",
+      "quote": "Full-year outlook: 2026 revenue expected to be approximately $20 million, up significantly from 2025, assuming C-DAC customer acceptance and associated revenue recognition in the fourth quarter."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the company made meaningful progress in the quarter on system performance, technology and strategy.",
+        "quote": "Rigetti delivered meaningful progress during the third quarter across system performance, technology development and strategic execution"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the company signed a definitive $100 million agreement with the U.S. Department of Commerce.",
+        "quote": "We also signed a definitive $100 million agreement with the U.S. Department of Commerce"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The next system goal is a 300-plus-qubit system with about 99.7% median two-qubit fidelity by mid-2028.",
+        "quote": "our next major system objective is to demonstrate a 300-plus-qubit system with approximately 99.7% median two-qubit gate fidelity and gate speeds below 60 nanoseconds by mid-2028"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of meaningful progress, a goal met and a new $100 million agreement, and names no setback."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1838359-0001104659-26-125152.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1838359/000110465926125152/rgti-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1838359/000110465926125152/0001104659-26-125152-index.htm",
+    "saved_at": "2026-11-13T06:07:52+08:00"
   }
 ]
