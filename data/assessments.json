@@ -11208,5 +11208,421 @@
     "filing_found": true,
     "recheck": false,
     "assessed_at": "2026-11-11T06:38:21+08:00"
+  },
+  {
+    "accession": "0001628280-26-072808",
+    "cik": "1759631",
+    "company": "Hyliion Holdings Corp.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds 7,452 thousand (7.452 million)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds (12,438) thousand (-12.438 million)."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds (11,064) thousand (-11.064 million)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds (0.06) per share, basic and diluted."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers (7,452; (12,438); (11,064); (0.06)). The 10-Q check is still to come (SEC blocked today)."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there, with the raised full-year revenue guidance (about $18 million, Q4 about $3 million) quoted exactly, three claims and the tone."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Figures, guidance and claims can be used as they stand, but none is matched to the 10-Q yet, and the release gives no prior-quarter figures for context."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "7.452 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": "-12.438 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "net_income": {
+        "extracted": "-11.064 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "-0.06 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release table: revenue 7,452 vs 759 thousand a year ago (about 9.8 times), and loss from operations narrowed to 12,438 from 15,297. FY guidance rose to $18m from $15m. Tested on the release's tables; the fundamentals hold no prior quarters."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "The $50m of military awards is a forecast the numbers cannot test. Revenue rose to 7,452 from 759 thousand a year ago (release table), which fits growing demand, but contract awards are not in the fundamentals."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Outlook, consistent with the trend: revenue rose to 7,452 from 759 thousand a year ago and nine-month revenue to 15,228 from 2,763 (release tables). Q4 revenue is guided lower, at about $3m. The 2027 volumes cannot be tested."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Revenue rose to 7,452 from 759 thousand a year ago, and the net loss narrowed 17% to 11,064 from 13,337 (release tables), so a positive tone fits, though the operating margin is still -166.9%."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 7.452,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": -12.438,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -11.064,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -0.06,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": -166.9082125603865,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -148.47020933977456,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the quarter was strong, with revenue well above the company's expectations.",
+        "quote": "We delivered another strong quarter, with revenue well above our expectations and continued progress on system performance and customer deployments",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO expects about $50 million in new military contract awards this year, as customer demand grows.",
+        "quote": "Customer demand continues to grow across commercial and military markets, and we expect a total of approximately $50 million in new military contract awards this year.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company is raising manufacturing throughput to support higher production volumes in 2027.",
+        "quote": "We are increasing manufacturing throughput and building the capacity and team to support higher production volumes in 2027.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter strong, says revenue was well above expectations and that customer demand continues to grow."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": false,
+    "assessed_at": "2026-11-13T06:38:00+08:00"
+  },
+  {
+    "accession": "0001104659-26-125152",
+    "cik": "1838359",
+    "company": "Rigetti Computing, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds 1,411 thousand (1.411 million)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds (33,186) thousand (-33.186 million)."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds (3,137) thousand (-3.137 million)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds diluted (0.08); basic is (0.01)."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers (1,411; (33,186); (3,137); diluted (0.08)). The 10-Q check is still to come (SEC blocked today)."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there, with the full-year revenue guidance (about $20 million, subject to C-DAC acceptance) quoted exactly, three claims and the tone."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "Figures are usable, but the positive tone omits the 27.5% revenue fall and wider operating loss, and the small net loss rests on a 25,291 thousand warrant gain, so the analyst must check by hand."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "1.411 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "operating_income": {
+        "extracted": "-33.186 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "net_income": {
+        "extracted": "-3.137 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "diluted_eps": {
+        "extracted": "-0.08 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "Technology progress cannot be tested by the numbers. Release table: revenue fell to 1,411 from 1,947 thousand a year ago (-27.5%) and the operating loss widened to 33,186 from 20,549, which the claim leaves out."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "An agreement is not in the fundamentals. The release says the award is for up to $100 million and that the Department received a minority equity stake; no revenue from it shows in Q3 (revenue 1,411 thousand)."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "Outlook about a 2028 technology goal, which the numbers cannot test. R&D rose to 25,495 from 15,020 thousand a year ago (release table), which fits the investment, but the operating loss widened to 33,186 from 20,549."
+      }
+    },
+    "tone": {
+      "verdict": "not supported",
+      "reason": "Revenue fell 27.5% to 1,411 from 1,947 thousand and the operating loss widened to 33,186 from 20,549. Net loss of 3,137 holds a 25,291 warrant gain; non-GAAP net loss widened to 20,468 from 10,652 (release)."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 1.411,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": -33.186,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -3.137,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -0.08,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": -2351.948972360028,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -222.32459248759744,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the company made meaningful progress in the quarter on system performance, technology and strategy.",
+        "quote": "Rigetti delivered meaningful progress during the third quarter across system performance, technology development and strategic execution",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the company signed a definitive $100 million agreement with the U.S. Department of Commerce.",
+        "quote": "We also signed a definitive $100 million agreement with the U.S. Department of Commerce",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The next system goal is a 300-plus-qubit system with about 99.7% median two-qubit fidelity by mid-2028.",
+        "quote": "our next major system objective is to demonstrate a 300-plus-qubit system with approximately 99.7% median two-qubit gate fidelity and gate speeds below 60 nanoseconds by mid-2028",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of meaningful progress, a goal met and a new $100 million agreement, and names no setback."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": false,
+    "assessed_at": "2026-11-13T06:38:00+08:00"
   }
 ]
