@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T09:46:47+08:00",
+  "fetched_at": "2026-11-13T10:07:39+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,122 +16,122 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 180 ms"
+      "detail": "HTTP 200, 60 KB in 52 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 104 ms"
+      "detail": "HTTP 200, 59 KB in 18 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12&from=200",
       "ok": true,
-      "detail": "HTTP 200, 56 KB in 94 ms"
+      "detail": "HTTP 200, 56 KB in 20 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 110 ms"
+      "detail": "HTTP 200, 149 KB in 34 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 71 ms"
+      "detail": "HTTP 200, 156 KB in 24 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 115 ms"
+      "detail": "HTTP 200, 154 KB in 20 ms"
     },
     {
-      "name": "PodcastOne, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1940177/000121390026118495/index.json",
+      "name": "Lineage Cell Therapeutics, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/876343/000119312526458377/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 574 ms"
+      "detail": "HTTP 200, 1 KB in 310 ms"
     },
     {
-      "name": "PodcastOne, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1940177/000121390026118495/ea031199701ex99-1.htm",
+      "name": "Lineage Cell Therapeutics, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/876343/000119312526458377/lctx-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 107 KB in 136 ms"
+      "detail": "HTTP 200, 614 KB in 112 ms"
     },
     {
-      "name": "KIDZ AI Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2022308/000147793226006885/index.json",
+      "name": "Legacy Education Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836754/000149315226051430/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 136 ms"
+      "detail": "HTTP 200, 1 KB in 56 ms"
     },
     {
-      "name": "KIDZ AI Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2022308/000147793226006885/kidz_ex991.htm",
+      "name": "Legacy Education Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836754/000149315226051430/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 17 KB in 199 ms"
+      "detail": "HTTP 200, 104 KB in 67 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 90 ms"
+      "detail": "HTTP 200, 3,174 KB in 125 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 210 ms"
+      "detail": "HTTP 200, 4,447 KB in 23 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 72 ms"
+      "detail": "HTTP 200, 2,745 KB in 24 ms"
     },
     {
-      "name": "PodcastOne, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001940177.json",
+      "name": "Lineage Cell Therapeutics, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000876343.json",
       "ok": true,
-      "detail": "HTTP 200, 500 KB in 216 ms"
+      "detail": "HTTP 200, 2,608 KB in 23 ms"
     },
     {
-      "name": "KIDZ AI Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002022308.json",
+      "name": "Legacy Education Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001836754.json",
       "ok": true,
-      "detail": "HTTP 200, 305 KB in 300 ms"
+      "detail": "HTTP 200, 515 KB in 18 ms"
     },
     {
       "name": "Hyliion Holdings Corp. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001759631.json",
       "ok": true,
-      "detail": "HTTP 200, 1,093 KB in 162 ms"
+      "detail": "HTTP 200, 1,093 KB in 26 ms"
     },
     {
       "name": "Rigetti Computing, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001838359.json",
       "ok": true,
-      "detail": "HTTP 200, 1,012 KB in 160 ms"
+      "detail": "HTTP 200, 1,012 KB in 83 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000876343.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001759631.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001836754.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001838359.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001940177.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002022308.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
-    "www.sec.gov_Archives_edgar_data_1940177_000121390026118495_ea031199701ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1940177_000121390026118495_index.json",
-    "www.sec.gov_Archives_edgar_data_2022308_000147793226006885_index.json",
-    "www.sec.gov_Archives_edgar_data_2022308_000147793226006885_kidz_ex991.htm"
+    "www.sec.gov_Archives_edgar_data_1836754_000149315226051430_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1836754_000149315226051430_index.json",
+    "www.sec.gov_Archives_edgar_data_876343_000119312526458377_index.json",
+    "www.sec.gov_Archives_edgar_data_876343_000119312526458377_lctx-ex99_1.htm"
   ]
 }
