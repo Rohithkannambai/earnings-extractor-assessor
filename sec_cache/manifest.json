@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-15T09:18:35+08:00",
+  "fetched_at": "2026-11-16T08:56:04+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-11",
-    "end": "2026-11-14",
+    "end": "2026-11-15",
     "first_run": false,
     "note": null
   },
@@ -14,121 +14,121 @@
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 244 ms"
+      "detail": "HTTP 200, 60 KB in 410 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 312 ms"
+      "detail": "HTTP 200, 60 KB in 254 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 270 ms"
+      "detail": "HTTP 200, 60 KB in 398 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 362 ms"
+      "detail": "HTTP 200, 55 KB in 218 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 146 ms"
+      "detail": "HTTP 200, 148 KB in 48 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 48 ms"
+      "detail": "HTTP 200, 156 KB in 46 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 34 ms"
+      "detail": "HTTP 200, 154 KB in 63 ms"
     },
     {
-      "name": "Generate Biomedicines, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2100782/000119312526456921/index.json",
+      "name": "Investcorp Credit Management BDC, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1578348/000119312526460653/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 76 ms"
+      "detail": "HTTP 200, 1 KB in 116 ms"
     },
     {
-      "name": "Generate Biomedicines, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2100782/000119312526456921/ck0002100782-ex99_1.htm",
+      "name": "Investcorp Credit Management BDC, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1578348/000119312526460653/d174574dex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 356 KB in 76 ms"
+      "detail": "HTTP 200, 134 KB in 376 ms"
     },
     {
-      "name": "MOBIX LABS, INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1855467/000149315226051572/index.json",
+      "name": "Grown Rogue International Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1463000/000127956926001068/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 85 ms"
+      "detail": "HTTP 200, 1 KB in 264 ms"
     },
     {
-      "name": "MOBIX LABS, INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1855467/000149315226051572/ex99-1.htm",
+      "name": "Grown Rogue International Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1463000/000127956926001068/ex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 38 KB in 58 ms"
+      "detail": "HTTP 200, 275 KB in 100 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 56 ms"
+      "detail": "HTTP 200, 3,174 KB in 27 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 52 ms"
+      "detail": "HTTP 200, 4,447 KB in 50 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 65 ms"
+      "detail": "HTTP 200, 2,745 KB in 46 ms"
     },
     {
-      "name": "Generate Biomedicines, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002100782.json",
+      "name": "Investcorp Credit Management BDC, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001578348.json",
       "ok": true,
-      "detail": "HTTP 200, 168 KB in 177 ms"
+      "detail": "HTTP 200, 704 KB in 183 ms"
     },
     {
-      "name": "MOBIX LABS, INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001855467.json",
+      "name": "Grown Rogue International Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001463000.json",
       "ok": true,
-      "detail": "HTTP 200, 1,022 KB in 209 ms"
+      "detail": "HTTP 200, 487 KB in 490 ms"
     },
     {
       "name": "Hyliion Holdings Corp. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001759631.json",
       "ok": true,
-      "detail": "HTTP 200, 1,093 KB in 197 ms"
+      "detail": "HTTP 200, 1,093 KB in 179 ms"
     },
     {
       "name": "Rigetti Computing, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001838359.json",
       "ok": true,
-      "detail": "HTTP 200, 1,012 KB in 234 ms"
+      "detail": "HTTP 200, 1,012 KB in 46 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001463000.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001578348.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001759631.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001838359.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001855467.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002100782.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -136,9 +136,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1855467_000149315226051572_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1855467_000149315226051572_index.json",
-    "www.sec.gov_Archives_edgar_data_2100782_000119312526456921_ck0002100782-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_2100782_000119312526456921_index.json"
+    "www.sec.gov_Archives_edgar_data_1463000_000127956926001068_ex991.htm",
+    "www.sec.gov_Archives_edgar_data_1463000_000127956926001068_index.json",
+    "www.sec.gov_Archives_edgar_data_1578348_000119312526460653_d174574dex991.htm",
+    "www.sec.gov_Archives_edgar_data_1578348_000119312526460653_index.json"
   ]
 }
