@@ -3880,5 +3880,103 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-18T06:37:42+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-18-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 4,
+      "total": 4,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 4,
+      "checked": 4,
+      "rechecks": 2,
+      "confirmed": 13,
+      "mismatch": 0,
+      "cannot_check": 3
+    },
+    "companies": [
+      {
+        "cik": "1759631",
+        "company": "Hyliion Holdings Corp.",
+        "accession": "0001628280-26-072808",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1838359",
+        "company": "Rigetti Computing, Inc.",
+        "accession": "0001104659-26-125152",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1544227",
+        "company": "Tempest Therapeutics, Inc.",
+        "accession": "0001213900-26-119916",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 2,
+        "mismatch": 0,
+        "cannot_check": 2,
+        "claims_match": 1,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1861657",
+        "company": "Canton Strategic Holdings, Inc.",
+        "accession": "0001493152-26-052058",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 4 extractions: 13 figures confirmed, 0 mismatches, 3 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-18T06:07:55+08:00",
+      "watch_brief": "briefs/2026-11-18-watch.md",
+      "brief_says": 479,
+      "saved_for_run": 479,
+      "match": true
+    },
+    "offline": false
   }
 ]
