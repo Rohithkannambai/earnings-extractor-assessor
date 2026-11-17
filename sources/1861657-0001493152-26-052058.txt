@@ -1,0 +1,251 @@
+Company: Canton Strategic Holdings, Inc. (CIK 1861657)
+Accession: 0001493152-26-052058
+Results released: 2026-11-16
+Press release: https://www.sec.gov/Archives/edgar/data/1861657/000149315226052058/ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1861657/000149315226052058/0001493152-26-052058-index.htm
+Saved: 2026-11-18T06:07:55+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex99-1.htm EX-99.1
+Exhibit 99.1
+Canton Strategic Holdings, Inc. Releases Third Quarter 2026 Financial and Operational Results
+Total revenue of $3 million, an increase of 104% since Q2, in the Company’s first full quarter of Super Validator and locking-as-a-service operations
+NEW YORK, NOVEMBER 16, 2026 – Canton Strategic Holdings, Inc. (Nasdaq: CNTN) (“Canton Strategic” or the “Company”), the first publicly traded company to leverage Canton Coin (“CC”) to support the Canton Network’s ability to digitize traditional financial markets, today released financial and operating results for the third quarter ended September 30, 2026.
+During the quarter, the Company recorded total revenue of $3 million, compared with approximately $1.5 million in the second quarter of 2026, an increase of 104%. Revenue consisted of $1.5 million of network validation revenue from its Super Validator (“SV”) operations and $1.5 million of other revenue, primarily from its locking-as-a-service (“LaaS”) offering. Net loss was $(35,078,297), compared with $(19,254,826) in the second quarter of 2026. Adjusted EBITDA was $610,414, the Company’s first positive quarterly Adjusted EBITDA, compared with $(820,449) in the second quarter of 2026. Total operating expenses were $2,710,641, an increase of 0.5% from the second quarter, and total revenue was 112.6% of total operating expenses, compared with 55.4% in the prior quarter. Revenue growth of 104% outpaced the 3.1% increase in Adjusted Operating Expenses to $2.7 million and the Adjusted Operating Expenses Coverage Ratio rose to 112.6% from 56.9% in the prior quarter.
+“We are proud to have achieved our first positive Adjusted EBITDA this quarter, a notable milestone as we mark the first year of operations since our launch in November 2025,” said Mark Wendland, Chairman and Chief Executive Officer of Canton Strategic Holdings. “With a full year under our belt as a publicly traded company operating our CC strategy, we remain focused on growth. Our Super Validator operations and locking-as-a-service offering allow us to support the Canton Network and its participants while also earning revenue that we can deploy for continued investment in the ecosystem and enhanced value for shareholders. With our operating cost base largely fixed and clear visibility to additional approved Super Validator weight, we believe the business is positioned for significant operating leverage and margin expansion.”
+Quarterly Highlights (as of September 30, 2026)
+Operational
+● | Increased Super Validator weight: Active SV weight of 6.5 on September 30, 2026, up from 0.5 on June 30, 2026, tracking the scheduled increase. Total approved weight remains 15 (4 under CIP-0102 and 11 under CIP-0114). The remaining 8.5 is expected to unlock through the first quarter of 2028, subject to the Company meeting deliverables and CC holdings requirement under CIP-0114 and receiving approval from the Canton Foundation’s Accountability Committee.
+● | Scaled locking-as-a-service: Grew its LaaS service by approximately 12% from June 30, 2026, to September 30, 2026, and recognized $1,547,994 of other revenue, including $1,472,863 of LaaS revenue and $75,131 of net gains on CC option contracts, in the Company’s first full quarter of operation for this business.
+● | Continued network participation: Published the Q3 2026 Canton Network Ecosystem Report and hosted the associated webinar on October 21, 2026, achieving the Company’s quarterly deliverable requirements under CIP-0102.
+● | Streamlined operations: Completed the sale of Gravitas Life Sciences, Inc., the Company’s legacy clinical-stage biotechnology subsidiary, on July 17, 2026, in exchange for an unsecured promissory note in the original principal amount of $3,500,000 bearing 15% payment-in-kind interest, plus contingent development milestone payments.
+● | Enhanced governance: Elected Sean Galvin, Pamela L. Carter, and Rishi Nangalia as directors at the Company’s 2026 annual meeting on July 13, 2026. Mr. Galvin, Ms. Carter, and Mr. Nangalia collectively bring deep experience across financial markets, public company oversight, and technology to the Company’s Board.
+Financial
+● | Total revenue of $3,051,232, compared with $1,495,859 in Q2 2026, an increase of 104%.
+● | Net loss of $(35,078,297), compared with $(19,254,826) in Q2 2026, or $(0.16) per basic and diluted share. Net loss from continuing operations of $(38,603,339), or $(0.18) per basic and diluted share from continuing operations
+● | Income from operations of $340,591 compared with a loss from operations of $(1,202,154) in Q2 2026.
+● | Adjusted EBITDA of $610,414, the first positive quarterly Adjusted EBITDA, compared with $(820,449) in Q2 2026.
+● | Adjusted Operating Expenses of $2,710,641, compared with $2,628,156 in Q2 2026, an increase of 3.1%.
+● | Total revenue as a percentage of total operating expenses of 112.6%, compared with 55.4% in Q2 2026.
+● | Adjusted Operating Expenses Coverage Ratio of 112.6%, compared with 56.9% in Q2 2026.
+● | Unrealized loss on digital asset holdings of $(54,648,199), reflecting the change in the CC reference price from $0.140906 on June 30, 2026 to $0.125761 on September 30, 2026.
+● | CC holdings of 3,833,830,293 units with a fair value of $482,149,407, compared with 3,714,204,876 units and $523,353,752 on June 30, 2026. Cost basis of CC holdings of $597,644,091, compared with $584,064,579 on June 30, 2026.
+● | Cash and cash equivalents of $26,917,436, compared with $37,241,568 on June 30, 2026.
+● | Total assets of $513,933,233 and total stockholders’ equity of $420,680,781, compared with $564,570,386 and $454,902,612 on June 30, 2026.
+Key Performance Indicators
+Metric | Q3 2026 | Q2 2026 | % Change
+Active SV weight (period end) | 6.5 | 0.5 | +1,200.0%
+Total approved SV weight | 15 | 15 | 0.0 | %
+Total revenue | $ | 3,051,232 | $ | 1,495,859 | +104.0 | %
+Network validation revenue | $ | 1,503,238 | $ | 191,226 | +686.1 | %
+Other revenue (primarily LaaS) | $ | 1,547,994 | $ | 1,304,633 | +18.7 | %
+Net loss | $ | (35,078,297 | ) | $ | (19,524,826 | ) | +79.7 | %
+Net loss from continuing operations | $ | (38,603,339 | ) | $ | (17,954,081 | ) | +115.0 | %
+Adjusted EBITDA | $ | 610,414 | $ | (820,449 | ) | NM
+Total operating expenses | $ | 2,710,641 | $ | 2,698,013 | +0.5%
+Adjusted Operating Expenses | $ | 2,710,641 | $ | 2,628,156 | +3.1 | %
+Total revenue / total operating expenses | 112.6 | % | 55.4 | % | +57.1 pts
+Adjusted Operating Expenses Coverage Ratio | 112.6 | % | 56.9 | % | +55.7 pts
+CC holdings (units) | 3,833,830,293 | 3,714,204,876 | +3.2 | %
+CC holdings (fair value) | $ | 482,149,407 | $ | 523,353,752 | -7.9 | %
+Cash and cash equivalents | $ | 26,917,436 | $ | 37,241,568 | -27.7 | %
+NM = not meaningful. Percentage changes are sequential, Q3 2026 compared with Q2 2026. The changes in total revenue / total operating expenses and in the Adjusted Operating Expenses Coverage Ratio are shown in percentage points.
+Business Update
+Super Validator Operations
+The Company operates a Super Validator on the Canton Network, earning CC based on its approved weight, which functions like a share count: a higher weight means a proportionally larger claim on the CC minted to Super Validators in each network round. Active minting began on May 9, 2026. On September 30, 2026, the Company’s active weight was 6.5, in line with the unlock schedule disclosed in its second quarter results. The remaining weight is expected to unlock through the first quarter of 2028, as shown below, subject to the Company meeting deliverables under CIP-0102 and continuing to satisfy the CC holdings requirement under CIP-0114, and Canton Network review and approval processes.
+Super Validator Weight Schedule (quarter end)
+Three Months Ended
+2026 | 2027E | 2028E
+30-Sep | 31-DecE | 31-Mar | 30-Jun | 30-Sep | 31-Dec | 31-Mar
+CIP 102 (1)
+Active weight (2) | 0.5
+Additional weight | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5
+Total CIP 102 weight | 1.0 | 1.5 | 2.0 | 2.5 | 3.0 | 3.5 | 4.0
+CIP 114 (3)
+Additional weight | 5.5 | 1.375 | 1.375 | 1.375 | 1.375 | - | -
+Total CIP 114 weight | 5.5 | 6.875 | 8.25 | 9.625 | 11 | 11 | 11
+Total SV weight | 6.5 | 8.375 | 10.25 | 12.125 | 14.0 | 14.5 | 15.0
+(1) Under CIP 102, the Company may earn 0.5 SV weight for each quarterly milestone period, consisting of (i) 0.25 SV weight for publishing a quarterly Canton ecosystem research report addressing, among other matters, on-chain analytics, community developments, governance and tokenomics, planned technology updates and dashboard statistics, and (ii) 0.25 SV weight for conducting an open-to-the-public webinar of at least 45 minutes addressing substantially similar topics. The remaining 3.0 SV weight reflected above therefore represents six quarterly milestone periods.
+(2) For the three and nine months ended September 30, 2026, the Company earned 13,230,413 CC and 14,484,092 CC in rewards associated with the active SV weight under CIP 102 and CIP 114, which were recognized as Network validation revenue of $1,503,238 and $1,694,464, respectively.
+(3) Under CIP 114, the Company’s allocated SV weight is subject to quarterly review and a continuing requirement that the Company maintain CC holdings at or above the applicable CC Quantum established under the program. 50% of the applicable allocated weight became eligible for release following the first quarterly review which occurred during the three months ended September 30, 2026. Assuming that the requirement continues to be satisfied, one-fourth of the remaining 50% becomes eligible for release at each of the next four quarterly reviews.
+Unlock timing depends on continued deliverable achievement, continued satisfaction of the CIP-0114 CC holdings requirement and Canton Foundation Accountability Committee approval, and relates only to the Company’s share of CC minting rights. Under CIP-0102, the Company may earn 0.5 SV weight for each quarterly milestone period (0.25 for a quarterly Canton ecosystem research report and 0.25 for an open-to-the-public webinar of at least 45 minutes). Under CIP-0114, 50% of the allocated weight became eligible for release following the first quarterly review, and one-fourth of the remaining 50% becomes eligible at each of the next four reviews.
+Network validation revenue was $1,503,238 in the third quarter, an increase of 686.1% from $191,226 in the second quarter, which included a one-time catch-up mint of rewards accumulated in escrow since January 21, 2026. The Company earned 13,230,413 CC in rewards on its active weight during the quarter, compared with 1,253,679 CC in the second quarter, an increase of 955.3%.
+On October 14, 2026, the Company published its Q3 2026 Ecosystem Report, available here. On October 21, 2026, the Company hosted an associated webinar, which examined how U.S. regulators are advancing digital asset initiatives following the CLARITY Act’s failure to advance, including the respective roles of the SEC and CFTC, the SEC’s proposed overhaul of transfer agent rules, and its Innovation Exemption for eligible tokenized NMS stocks, as well as what these developments mean for Canton Network participants. A replay of the webinar is available here.
+Locking-as-a-Service
+Canton Network governance requires that Super Validators and Featured Applications lock a minimum amount of CC to maintain their status as network participants. Through the Company’s LaaS offering, launched on April 23, 2026, the Company is compensated for locking its own CC on a client’s behalf while retaining legal and beneficial ownership. Compensation takes the form of a daily interest rate on locked CC, a share of the customer’s network rewards, or an equity grant earned over the contract term. Only a wallet identifier, not custody or title, is shared with the Canton Foundation for compliance verification.
+The third quarter was the first full quarter of LaaS operations. Other revenue, which consists primarily of LaaS, was $1,547,994, compared with $1,304,633 in the second quarter, an increase of 18.7%.
+Canton Network Update
+The third quarter saw significant momentum across the Canton Network, evidenced by the July completion of DTCC’s tokenization pilot and the approval of six new Super Validators representing a global array of institutional firms. Additionally, the International Securities Lending Association (ISLA) and International Swaps and Derivatives Association (ISDA) joined the Canton Foundation this quarter, gaining the ability to shape the governance of the network.
+“As institutions prepared for the next phase of DTCC’s tokenization efforts, we saw an increased focus by many of the world’s largest financial institutions on building on the Canton Network, whether through governance activities as we saw through ISLA and ISDA joining the Foundation, or Super Validator operations as was the case with a16z crypto, LSEG, Shinhan Asset Management, among others,” continued Wendland. “As we look to the end of the calendar year, we remain focused on supporting these institutions and others as they capitalize on the increased collateral mobility and capital efficiencies gained through blockchain rails.”
+Subsequent to quarter end, the DTCC launched its Tokenization Service on October 28, 2026, marking a turning point in the adoption of blockchain rails by financial institutions. Additionally, on October 23, 2026, CIP-0129, “Universal Burn and Synchronizer Pricing” was approved, which is expected to bring production traffic on dedicated synchronizers into the Canton Coin burn-and-reward economy, in place of the historical license-fee model, while leaving CC issuance and the reward allocation split unchanged. Volume pricing and collateral-backed commitment discounts are to be set by a subsequent CIP. Additional burn without a change to the issuance schedule could improve the burn-to-mint ratio; the effect will depend on actual traffic, discounts and implementation.
+Financial statements
+Non -GAAP Measures of Financial Performance
+In addition to financial measures presented under generally accepted accounting principles in the United States of America (“GAAP”), the Company evaluates performance using non-GAAP financial measures including adjusted earnings before interest, taxes, depreciation, and amortization (“Adjusted EBITDA”), Adjusted Operating Expenses and Adjusted Operating Expenses Coverage Ratio.
+Adjusted EBITDA
+The Company defines Adjusted EBITDA as net income (loss), excluding net income (loss) from discontinued operations, income tax provision (benefit), stock-based compensation expense and unrealized gains or losses on digital asset holdings. Management believes this financial measure provides a performance measurement that reflects our core business operations. Adjusted EBITDA is provided in addition to, and should not be considered a substitute for, GAAP financial measures.
+Adjusted EBITDA has limitations as a financial measure, should be considered supplemental in nature, and should not be considered in isolation or as a substitute for net loss, net loss from continuing operations, cash flows from operating activities or other financial measures prepared in accordance with U.S. GAAP. Adjusted EBITDA may not be comparable to similarly titled measures used by other companies.
+Management considers Adjusted EBITDA together with, and not as a substitute for, the Company’s GAAP financial results and other measures of financial performance and liquidity. Investors should review the reconciliation of Adjusted EBITDA to its most directly comparable GAAP financial measure presented below.
+Adjusted Operating Expenses
+Adjusted Operating Expenses is defined as GAAP total operating expenses minus stock-based compensation expense, which the Company believes is not indicative of its ongoing expenses. The amount and timing of the excluded items are unpredictable, are not driven by core results of operations, and render comparisons with prior periods less meaningful.
+Adjusted Operating Expenses Coverage Ratio
+Adjusted Operating Expenses Coverage Ratio is calculated as total revenue divided by Adjusted Operating Expenses. The Company also presents total revenue as a percentage of total operating expenses, which is calculated using GAAP total operating expenses. Management believes the Adjusted Operating Expenses Coverage Ratio is useful to investors because it indicates the extent to which revenue covers the Company’s operating expenses, excluding stock-based compensation.
+The following table reconciles Adjusted EBITDA to net loss, its most directly comparable GAAP measure for the periods indicated. It also reconciles Adjusted Operating Expenses to operating expenses, its most directly comparable GAAP measure for the periods indicated. The tables also present the Adjusted Operating Expenses Coverage Ratio together with total revenue as a percentage of total operating expenses.
+CANTON STRATEGIC HOLDINGS, INC.
+CONSOLIDATED BALANCE SHEETS (Unaudited)
+September 30, 2026 | December 31, 2025
+ASSETS
+Current assets
+Cash and cash equivalents | $ | 26,917,436 | $ | 12,007,148
+Prepaid expenses and other current assets | 1,259,393 | 197,383
+Note receivable (related party) | 1,125,000 | -
+Current assets held for sale | - | 5,181,535
+Total current assets | 29,301,829 | 17,386,066
+Non-current assets
+Digital assets | 482,149,407 | 501,760,369
+Note receivable (related party) | 2,481,997 | 0
+Total non-current assets | 484,631,404 | 501,760,369
+Total assets | $ | 513,933,233 | $ | 519,146,435
+Current liabilities
+Accounts payable | $ | 52,662 | $ | 521,201
+Accrued interest | - | -
+Accrued expenses | 1,485,463 | 506,460
+Current liabilities held for sale | - | 2,258,703
+Total current liabilities | 1,538,125 | 3,286,364
+Other liabilities
+Deferred tax liability | 91,714,327 | 117,934,191
+Total liabilities | 93,252,452 | 121,220,555
+Commitments and contingencies (see Note 8)
+Stockholders’ equity
+Preferred stock, $0.0001 par value, 10,000,000 shares authorized, no shares issued and outstanding as of June 30, 2026 and December 31, 2025 | - | -
+Common stock, $0.0001 par value, 1,000,000,000 shares authorized as of June 30, 2026 and December 31 2025, 81,107,263 shares and 37,112,466 shares issued and 81,107,017 shares and 37,112,220 shares outstanding as of September 30, 2026 and December 31 2025, respectively | 8,110 | 3,711
+Additional paid-in capital | 595,236,300 | 470,809,478
+Accumulated deficit | (174,493,664 | ) | (72,817,344 | )
+Treasury stock, at cost, 246 shares held in treasury as of September 30, 2026 and December 31 2025 | - | -
+(69,965 | ) | (69,965 | )
+Total stockholders’ equity | 420,680,781 | 397,925,880
+Total liabilities and stockholders’ equity | $ | 513,933,233 | $ | 519,146,435
+The accompanying notes are an integral part of these consolidated financial statements.
+CANTON STRATEGIC HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS (unaudited)
+For the Three Months Ended September 30, | For the Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenue
+Network validation revenue | $ | 1,503,238 | $ | - | $ | 1,694,464 | $ | -
+Other revenue | 1,547,994 | - | 2,852,627 | -
+Total revenue | 3,051,232 | - | 4,547,091 | -
+Operating expenses
+Research and development | - | 101,586 | - | 316,673
+General and administrative | 2,710,641 | 1,815,775 | 40,629,835 | 5,073,330
+Total operating expenses | 2,710,641 | 1,917,361 | 40,629,835 | 5,390,003
+Loss from operations | 340,591 | (1,917,361 | ) | (36,082,744 | ) | (5,390,003 | )
+Other income (expense)
+Interest expense | - | (9,648 | ) | - | (24,280 | )
+Interest income | 376,820 | 1,388 | 1,006,846 | 16,992
+Unrealized loss from digital assets holdings | (54,648,199 | ) | - | (93,397,453 | ) | -
+Total other income (expense), net | (54,271,379 | ) | (8,260 | ) | (92,390,607 | ) | (7,288 | )
+Total loss before income taxes | (53,930,788 | ) | (1,925,621 | ) | (128,473,351 | ) | (5,397,291 | )
+Provision (benefit) for income taxes | (15,327,449 | ) | - | (26,219,864 | ) | -
+Net loss from continuing operations | (38,603,339 | ) | (1,925,621 | ) | (102,253,487 | ) | (5,397,291 | )
+Net loss from discontinued operations | 3,525,042 | (176,217 | ) | 577,167 | (1,101,404 | )
+Net loss | $ | (35,078,297 | ) | $ | (2,101,838 | ) | $ | (101,676,320 | ) | $ | (6,498,695 | )
+Net income (loss) per share:
+Continuing operations - basic and diluted | $ | (0.18 | ) | $ | (0.31 | ) | $ | (0.48 | ) | $ | (1.38 | )
+Discontinued operations - basic and diluted | $ | 0.02 | $ | (0.03 | ) | $ | 0.00 | $ | (0.28 | )
+Net loss per share - basic and diluted | $ | (0.16 | ) | $ | (0.34 | ) | $ | (0.47 | ) | $ | (1.66 | )
+Weighted average number of common shares outstanding:
+Basic and diluted | 218,436,090 | 6,241,909 | 214,374,949 | 3,910,757
+CANTON STRATEGIC HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS (unaudited)
+For the Nine Months Ended September 30,
+2026 | 2025
+Cash flows from operating activities:
+Net loss | $ | (101,676,320 | ) | $ | (6,498,695 | )
+Net loss from discontinued operations | 577,167 | (1,101,404 | )
+Net loss from continuing operations | (102,253,487 | ) | (5,397,291 | )
+Adjustments to reconcile net loss to net cash used in operating activities:
+Non-cash revenue from network validation and services | (4,512,232 | ) | -
+Unrealized loss from digital assets holdings | 93,397,453 | -
+Deferred tax expense/(benefit) | (26,219,864 | ) | -
+Payment-in-kind interest on note receivable | (106,997 | ) | -
+Write-off of deferred offering costs | - | 92,168
+Stock based compensation | 32,329,613 | 856,035
+Stock issuance pursuant to termination agreement | - | 8,253
+Increase in operating assets:
+Prepaid expenses and other current assets | (375,055 | ) | (43,775 | )
+Increase (decrease) in operating liabilities:
+Accounts payable | (585,005 | ) | 246,517
+Accrued expenses | 406,913 | (252,480 | )
+Net cash used in operating activities - continuing operations | (7,918,661 | ) | (4,490,573 | )
+Net cash used in operating activities - discontinued operations | (4,456,077 | ) | (1,196,127 | )
+Net cash used in operating activities | (12,374,738 | ) | (5,686,700 | )
+Cash flows from investing activities:
+Purchase of digital assets | (69,842,182 | ) | -
+Collateral paid on digial asset option contracts | - | -
+Net cash used in investing activities | (69,842,182 | ) | -
+Cash flows from financing activities:
+Proceeds from issuance of common stock upon
+registered direct public offerings | 54,894,300 | 7,090,014
+Proceeds from issuance of common stock upon
+private investment in public equity offerings | - | 3,725,003
+Proceeds from issuance of common stock upon
+at-the-market offerings | 40,661,194 | 266,625
+Proceeds from exercise of common stock warrants | 186,579 | -
+Payment of deferred offering costs and other issuance costs | (3,640,465 | ) | (1,224,971 | )
+Proceeds from insurance premium financing liability | - | 285,178
+Repayment of insurance premium financing liability | - | (250,802 | )
+Repayments of note payable | - | (153,368 | )
+Net cash provided by financing activities | 92,101,608 | 9,737,679
+Net increase (decrease) in cash | 9,884,688 | 4,050,979
+Cash, beginning of period - including discontinued operations | 17,032,748 | 3,559,361
+Cash, end of period - including discontinued operations | 26,917,436 | 7,610,340
+Cash, end of period - discontinued operations | -
+Cash, end of period - continuing operations | $ | 26,917,436 | $ | 7,610,340
+Supplemental disclosure of non-cash activities:
+Note receivable received as consideration for the sale of Gravitas | 3,500,000 | -
+Placement agent warrants issued as issuance costs of private investment in public equity offerings | - | 169,019
+Amortization of deferred offering cost from ATM offering | - | 24,832
+Reduction of premium related to insurance premium financing | - | 101,102
+Issuance of note payable for settlement of previously incurred professional fees | - | 314,485
+Issuance of options to settle liability | - | 200,212
+CANTON STRATEGIC HOLDINGS, INC.
+RECONCILIATION OF GAAP TO NON-GAAP MEASURES
+For the Three Months Ended September 30, | For the Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Net loss | $ | (35,078,297 | ) | $ | (2,101,838 | ) | $ | (101,676,320 | ) | $ | (6,498,695 | )
+Net income (loss) from discontinued operations | (3,525,042 | ) | 176,217 | (577,167 | ) | 1,101,404
+Interest on note receivable (related party) (1) | (106,997 | ) | - | (106,997 | ) | -
+Stock based compensation (2) | - | 433,361 | 32,329,613 | 864,279
+Unrealized loss from digital assets holdings | 54,648,199 | - | 93,397,453 | -
+Provision (benefit) for income taxes | (15,327,449 | ) | - | (26,219,864 | ) | -
+Adjusted EBITDA | $ | 610,414 | $ | (1,492,260 | ) | $ | (2,853,282 | ) | $ | (4,533,012 | )
+(1) For the three and nine months ended September 30, 2026, interest income includes $106,997 on the note receivable from Gravitas Life Sciences, Inc., the Company’s legacy clinical-stage biotechnology subsidiary. The Company completed the sale of Gravitas Life Sciences, Inc. on July 17, 2026, in exchange for an unsecured promissory note in the original principal amount of $3,500,000 bearing 15% payment-in-kind interest. Given the Company’s digital asset treasury strategy and the importance of maintaining liquidity to support its Super Validator operations, locking-as-a-service business and other Canton Network initiatives, management believes that interest income generated from the management of its cash and cash equivalents is part of its ongoing treasury activities and that including such income in Adjusted EBITDA provides useful supplemental information in evaluating the financial performance of its continuing business.
+(2) For the nine months ended September 30, 2026, Stock based compensation included $32,228,509 of expense related to Strategic Advisor warrants and Advisor RSUs which were issued in connection with the November 2025 PIPE transaction and were recognized by the company in Q1 upon approval of shareholders at the special meeting of January 30, 2026.
+For the Three Months Ended September 30, | For the Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Operating Expenses | $ | 2,710,641 | $ | 1,917,361 | $ | 40,629,835 | $ | 5,390,003
+Less: stock based compensation (1) | - | (433,361 | ) | (32,329,613 | ) | (864,279 | )
+Adjusted Operating Expenses | $ | 2,710,641 | $ | 1,484,000 | $ | 8,300,222 | $ | 4,525,724
+(1) For the nine months ended September 30, 2026, Stock based compensation included $32,228,509 of expense related to Strategic Advisor warrants and Advisor RSUs which were issued in connection with the November 2025 PIPE transaction and were recognized by the company in Q1 upon approval of shareholders at the special meeting of January 30, 2026.
+For the Three Months Ended September 30, | For the Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenue | 3,051,232 | - | 4,547,091 | -
+Adjusted Operating Expenses | 2,710,641 | 1,484,000 | 8,300,222 | 4,525,724
+Adjusted Operating Expenses coverage ratio | 112.6 | % | 0.0 | % | 54.8 | % | 0.0 | %
+About Canton Strategic Holdings, Inc.
+Canton Strategic Holdings, Inc. (NASDAQ: CNTN), is the first publicly traded company to leverage Canton Coin and support the Canton Network to advance institutional blockchain adoption and the digitization of financial markets. In addition to its operating business that drives value through activities on the Canton Network, the Company is a strategic investor in the Canton ecosystem. For more information, visit www.cantonstrategic.com.
+Cautionary Note Regarding Forward-Looking Statements
+This press release contains statements about future expectations, plans and prospects, as well as any other statements regarding matters that are not historical facts, which may constitute “forward-looking statements” within the meaning of the U.S. federal securities laws. Such statements include, but are not limited to, goals and expectations regarding the Company’s strategy and potential partnerships, future financial and operating performance, projections or statements of plans and objectives, and other statements accompanied by the words “intends,” “may,” “will,” “plans,” “expects,” “anticipates,” “projects,” “predicts,” “estimates,” “aims,” “believes,” “hopes,” “potential” or similar words, but the absence of these words does not mean that a statement is not forward-looking.
+These forward-looking statements are based on current expectations, estimates, assumptions, and projections, and involve known and unknown risks, uncertainties, and other factors, many of which are beyond the Company’s control, that may cause actual results, performance, or achievements to differ materially from those expressed or implied by such statements. Important factors that may affect actual results include, among others, the Company’s ability to execute its growth strategy; its ability to raise and deploy capital effectively; ability to raise capital through the Company’s at-the-market offering; developments in technology and the competitive landscape; the market performance of Canton Coin; government regulation of cryptocurrencies; the Company’s ability to achieve the deliverables, maintain the CC holdings and obtain the Canton Foundation approvals required for future Super Validator weight unlocks; the timing, implementation and effects of Canton Network governance proposals, including CIP-0129; increases in the Company’s operating expenses; the developing nature of the Canton Network and the evolving legal and regulatory treatment of digital assets; the Company’s limited history of generating revenue and other risks; and uncertainties described under “Risk Factors” in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025 and in other filings with the SEC. These filings are available at www.sec.gov. The Company undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise, except as required by law.
+Canton is a registered trademark of Digital Asset (Switzerland) GmbH. Digital Asset is not affiliated with, and has not sponsored or endorsed, the operations of Canton Strategic Holdings, Inc.
+Contacts
+Media:
+Gasthalter & Co.
+(212) 257-4170
+canton@gasthalter.com
+Investors:
+John Ragozzino Jr., CFA
+ir@cantonstrategic.com
+(203) 682-8284
+X: @CantonStrategic
+LinkedIn: https://www.linkedin.com/company/cantonstrategicholdings/
+Website: www.cantonstrategic.com

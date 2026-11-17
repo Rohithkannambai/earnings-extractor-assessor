@@ -900,5 +900,117 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1838359/000110465926125152/rgti-ex99d1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1838359/000110465926125152/0001104659-26-125152-index.htm",
     "saved_at": "2026-11-13T06:07:52+08:00"
+  },
+  {
+    "cik": "1544227",
+    "company": "Tempest Therapeutics, Inc.",
+    "accession": "0001213900-26-119916",
+    "release_date": "2026-11-13",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -2.823,
+        "unit": "USD millions",
+        "quote": "Operating loss | (2,823 | )"
+      },
+      "net_income": {
+        "value": -3.629,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (3,629 | )"
+      },
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the third quarter brought meaningful progress in advancing two in vivo CAR-T platforms.",
+        "quote": "The third quarter marked a period of meaningful progress in the advancement of two next-generation in vivo CAR-T platforms with the potential to transform treatment across multiple diseases"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the company secured access to additional capital to support its development priorities.",
+        "quote": "while securing access to additional capital to support our development priorities"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The company says research and development expenses fell to $0.2 million from $0.6 million a year earlier.",
+        "quote": "Research and development expenses for the quarter were $0.2 million compared to $0.6 million for the three months ended September 30, 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of meaningful progress, important strides and achievements that reinforce the company's commitment, and names no difficulty."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1544227-0001213900-26-119916.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1544227/000121390026119916/ea031215701ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1544227/000121390026119916/0001213900-26-119916-index.htm",
+    "saved_at": "2026-11-18T06:07:55+08:00"
+  },
+  {
+    "cik": "1861657",
+    "company": "Canton Strategic Holdings, Inc.",
+    "accession": "0001493152-26-052058",
+    "release_date": "2026-11-16",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 3.051232,
+        "unit": "USD millions",
+        "quote": "Total revenue | 3,051,232"
+      },
+      "operating_income": {
+        "value": 0.340591,
+        "unit": "USD millions",
+        "quote": "Income from operations of $340,591 compared with a loss from operations of $(1,202,154) in Q2 2026."
+      },
+      "net_income": {
+        "value": -35.078297,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (35,078,297 | )"
+      },
+      "diluted_eps": {
+        "value": -0.16,
+        "unit": "USD per share",
+        "quote": "Net loss per share - basic and diluted | $ | (0.16 | )"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the company achieved its first positive Adjusted EBITDA this quarter.",
+        "quote": "We are proud to have achieved our first positive Adjusted EBITDA this quarter, a notable milestone as we mark the first year of operations since our launch in November 2025"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says a largely fixed cost base and more approved validator weight position the business for operating leverage and margin expansion.",
+        "quote": "With our operating cost base largely fixed and clear visibility to additional approved Super Validator weight, we believe the business is positioned for significant operating leverage and margin expansion."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "The company says total revenue was $3 million, up 104% from about $1.5 million in the second quarter.",
+        "quote": "During the quarter, the Company recorded total revenue of $3 million, compared with approximately $1.5 million in the second quarter of 2026, an increase of 104%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO is proud of a first positive Adjusted EBITDA and expects significant operating leverage and margin expansion."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1861657-0001493152-26-052058.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1861657/000149315226052058/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1861657/000149315226052058/0001493152-26-052058-index.htm",
+    "saved_at": "2026-11-18T06:07:55+08:00"
   }
 ]

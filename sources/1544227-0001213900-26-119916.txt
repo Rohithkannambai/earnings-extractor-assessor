@@ -1,0 +1,105 @@
+Company: Tempest Therapeutics, Inc. (CIK 1544227)
+Accession: 0001213900-26-119916
+Results released: 2026-11-13
+Press release: https://www.sec.gov/Archives/edgar/data/1544227/000121390026119916/ea031215701ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1544227/000121390026119916/0001213900-26-119916-index.htm
+Saved: 2026-11-18T06:07:55+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ea031215701ex99-1.htm PRESS RELEASE DATED NOVEMBER 13, 2026
+Exhibit 99.1
+Tempest Reports Third Quarter 2026 Financial Results and
+Provides Business Update
+Exclusively licensed Senlang’s CD7-Targeted lentiviral in vivo CAR-T
+platform following initial Phase 1 results with lead BCMA/GPRC5D candidate TPST-4903
+Secured access to additional capital through an equity line of credit with Lincoln Park
+Capital Fund of up to $50.0 million and a private placement with gross proceeds of
+approximately $2.5 million
+Strengthened Board of Directors with the appointments of Nancy Freda-Smith and John W. Frederick
+Brisbane, Calif., November 13, 2026 – Tempest Therapeutics, Inc. (Nasdaq: TPST) (“Tempest”), a clinical-stage biotechnology company developing a pipeline of advanced in vivo chimeric antigen receptor T-cell (“CAR-T”) product candidates to treat cancer and autoimmune disease, today reported financial results for the quarter ended September 30, 2026, and provided a business update.
+“The third quarter marked a period of meaningful progress in the advancement of two next-generation in vivo CAR-T platforms with the potential to transform treatment across multiple diseases,” said Matt Angel, Ph.D., president and chief executive officer of Tempest. “We made important strides in expanding our pipeline and strengthening our position in the rapidly evolving in vivo CAR-T landscape through our strategic collaboration with Senlang by obtaining exclusive license rights to our clinical-stage BCMA/GPRC5D in vivo CAR-T candidate TPST-4903, while securing access to additional capital to support our development priorities. We also welcomed two accomplished independent directors to our Board, bringing valuable corporate governance and capital markets expertise as we navigate our next phase of growth. Together, these achievements reinforce our commitment to advancing our pipeline, executing on our strategic priorities and unlocking the broad therapeutic potential of in vivo CAR-T therapies for patients.”
+Recent Highlights
+● | TPST-4903
+● | Exercised option under agreement with Hebei Senlang Biotechnology Co., Ltd. to obtain an exclusive license to develop and commercialize Senlang’s CD7-targeted lentiviral vector platform and associated in vivo CAR-T candidates worldwide, excluding China.
+● | The lead program, TPST-4903, is a BCMA/GPRC5D dual-targeting in vivo CAR-T candidate being evaluated in a Phase 1 dose-escalation study in patients with relapsed or refractory multiple myeloma (rrMM). The initial data demonstrating encouraging preliminary clinical responses are expected to be presented at an upcoming scientific conference.
+● | TPST-4003
+● | Unveiled next-generation in vivo CAR-T pipeline, including lead product candidate TPST-4003, a dual-targeting CD19/BCMA in vivo CAR-T candidate that combines the Company’s proprietary CD7-targeted mRNA/LNP delivery with its clinically validated dual-target CAR architecture for broad B-cell lineage depletion and reset.
+● | Executed a strategic partnership in July 2026 with Hebei Senlang Biotechnology to collaborate on the development of certain of Tempest’s proprietary in vivo CAR-T product candidates, including the Company’s next-generation CD7-targeted TPST-4003. An investigator-initiated trial in China evaluating TPST-4003 in approximately 10 patients with myasthenia gravis or multiple sclerosis is expected to begin in the fourth quarter of 2026.
+● | Corporate:
+● | Completed a private placement in September 2026 of pre-funded warrants and Series C and D warrants for gross proceeds of approximately $2.5 million (approximately $1.8 million net of placement agent fees and offering expenses), excluding up to approximately $5.0 million of gross proceeds that may be received upon the cash exercise of the Series C and D warrants.
+● | Entered into a purchase agreement with Lincoln Park Capital Fund, LLC on August 13, 2026 that gives Tempest the right, but not the obligation, to sell up to $25.0 million of its common stock, increasing to $50.0 million if the initial amount is sold, over a 24-month period that began September 1, 2026.Through September 30, 2026, Tempest sold 350,000 shares to Lincoln Park for gross proceeds of approximately $0.3 million.
+● | Strengthened Board of Directors with the appointments of independent directors, Nancy Freda-Smith and John W. Frederick boosting corporate governance and capital markets expertise.
+Financial Results
+Third Quarter 2026
+● | Tempest ended the quarter with $0.9 million in cash and cash equivalents, compared to $7.7 million on December 31, 2025. The decrease was primarily due to cash used in operations, including one-time transaction-associated costs incurred prior to or upon closing of the Asset Acquisition in February 2026, offset by the net proceeds from the Company’s private placement of common stock and warrants in March 2026 of $1.7 million, the warrant inducement in May 2026 of $1.7 million, sales of common stock under the Lincoln Park equity line of credit of $0.3 million and the Company’s private placement in September 2026 of $1.8 million. The Company’s existing cash and cash equivalents are expected to fund its projected operating expense requirements for less than 12 months from the date the financial statements were available to be issued, and there is substantial doubt about the Company’s ability to continue as a going concern.
+● | Net loss and net loss per share for the quarter were $3.6 million and $0.21, respectively, compared to $3.5 million and $0.79, respectively, for the three months ended September 30, 2025.
+● | Research and development expenses for the quarter were $0.2 million compared to $0.6 million for the three months ended September 30, 2025. The $0.4 million decrease was primarily due to a decrease in costs incurred as a result of the portfolio re-prioritization after the Asset Acquisition in February 2026, offset by research and manufacturing costs related to the Company’s CAR-T product candidates.
+● | General and administrative expenses for the quarter were $2.6 million compared to $3.0 million for the same period in 2025. The $0.4 million decrease was primarily due to a decrease in one-time separation and other costs incurred in the third quarter of 2025, offset by other administrative expenses.
+● | Financing costs related to the Lincoln Park equity line of credit for the quarter were $0.8 million, consisting of $0.66 million for the fair value of the commitment shares issued to Lincoln Park and $0.15 million of issuance costs, net of a nominal gain on shares sold to Lincoln Park. There were no financing costs in the three months ended September 30, 2025.
+2
+Nine Months Ended September 30, 2026
+● | Cash used in operating activities for the nine months ended September 30, 2026 was $12.4 million.
+● | Net loss and net loss per share for the nine months ended September 30, 2026 were $36.6 million and $2.54, respectively, compared to $22.2 million and $5.71, respectively, for the same period in 2025.
+● | Research and development expenses for the nine months ended September 30, 2026 were $2.1 million, compared to $12.1 million for the same period in 2025. The $9.9 million decrease was primarily due to a decrease in costs incurred as a result of re-prioritizing efforts towards exploring strategic alternatives initiated in April 2025 and resulting in the Asset Acquisition completed in February 2026.
+● | General and administrative expenses for the nine months ended September 30, 2026 were $11.5 million, compared to $10.4 million for the same period in 2025. The $1.0 million increase was primarily due to one-time costs resulting from the Asset Acquisition completed in February 2026.
+● | Acquired in-process research and development expenses for the nine months ended September 30, 2026 were $22.2 million compared to nil for the nine months ended September 30, 2025. Costs incurred prior to or upon closing the Asset Acquisition in the prior three months ended March 31, 2026 were expensed as acquired in-process research and development.
+● | Financing costs related to the Lincoln Park equity line of credit for the nine months ended September 30, 2026 were $0.8 million, all of which were recognized in the third quarter of 2026. There were no financing costs in the nine months ended September 30, 2025.
+About Tempest Therapeutics
+Tempest is a clinical-stage biotechnology company developing a pipeline of advanced in vivo CAR-T therapies designed to treat cancer and autoimmune disease by resetting dysfunctional immunity. Tempest’s portfolio includes TPST-4903, a BCMA/GPRC5D dual-targeting in vivo CAR-T candidate being evaluated in a Phase 1 study for relapsed or refractory multiple myeloma (rrMM). The Company’s lead lipid nanoparticle (LNP)-based in vivo CAR-T candidate, TPST-4003 combines a clinically supported dual-targeting CD19/BCMA CAR structure with an advanced CD7-targeting delivery platform to support broad immune reset across multiple indications. The company’s additional preclinical programs leverage advanced payloads to create a modular in vivo CAR-T portfolio. Tempest envisions a world in which immune reset therapies bring safe, effective, and broadly accessible therapeutic options to patients in need. For additional information, visit Tempest’s website at https://www.tempesttx.com.
+3
+Forward-Looking Statements
+This press release contains forward-looking statements, including within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, and Section 27A of the Securities Act of 1933, as amended, concerning Tempest Therapeutics, Inc. These statements may discuss goals, intentions, and expectations as to future plans, trends, events, results of operations or financial condition, or otherwise, based on current beliefs of the management of Tempest Therapeutics, as well as assumptions made by, and information currently available to, management of Tempest Therapeutics. Forward-looking statements generally include statements that are predictive in nature and depend upon or refer to future events or conditions, and include words such as “may,” “will,” “should,” “would,” “could”, “expect,” “anticipate,” “plan,” “likely,” “believe,” “estimate,” “project,” “intend,” “goal”, “suggest”, “target” and other similar expressions. All statements that are not historical facts are forward-looking statements, including but not limited to, statements regarding: Tempest’s collaboration with Senlang and the advancement, development, design and potential benefits of TPST-4003; the planned investigator-initiated trial of TPST-4003, including the expected patient population, indications, number of patients, timing of first patient enrollment and dosing, expected assessments and anticipated timing and nature of initial and interim clinical data; Tempest’s exclusive license to develop and commercialize Senlang’s CD7-targeted lentiviral vector platform and associated in vivo CAR-T candidates, and the anticipated benefits of that license; the advancement, development and potential benefits of TPST-4903, including the ongoing Phase 1 dose-escalation study; the expected presentation of initial data from that study at an upcoming scientific conference, and the nature and timing of that data; the potential applicability of Tempest’s platform and product candidates across autoimmune and oncology indications; Tempest’s business development and partnering plans, including in China; Tempest’s ability to access capital under its purchase agreement with Lincoln Park and the amount of proceeds it receives; and Tempest’s need for, and ability to obtain, additional capital to fund its planned programs and operations and continue as a going concern. All forward-looking statements in this press release are based on Tempest Therapeutics’ current expectations, estimates and projections about its industry as well as management’s current beliefs and expectations of future events only as of today and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to Tempest Therapeutics’ need for additional capital to fund its planned programs and operations and to continue to operate as a going concern; unexpected safety or efficacy data observed during preclinical or clinical trials; the possibility that results from prior clinical trials and preclinical studies may not necessarily be predictive of future results; past results may not be indicative of future results; clinical trial site activation or enrollment rates that are lower than expected; loss of key personnel; changes in expected or existing competition; changes in the regulatory environment; risks relating to volatility and uncertainty in the capital markets for biotechnology companies; dilution to stockholders from sales of common stock under the Lincoln Park purchase agreement and the exercise of outstanding warrants; Tempest’s ability to regain and maintain compliance with Nasdaq listing requirements; and unexpected litigation or other disputes. These and other factors that may cause actual results to differ from those expressed or implied are discussed in greater detail in the “Risk Factors” section of Tempest Therapeutics’ Annual Report on Form 10-K for the year ended December 31, 2025, filed with the Securities and Exchange Commission (“SEC”) on March 30, 2026, in Tempest’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2026, expected to be filed with the SEC on November 13, 2026, and in other documents filed by Tempest Therapeutics from time to time with the SEC. Except as required by applicable law, Tempest Therapeutics undertakes no obligation to revise or update any forward-looking statement, or to make any other forward-looking statements, whether as a result of new information, future events or otherwise. These forward-looking statements should not be relied upon as representing Tempest Therapeutics’ views as of any date subsequent to the date of this press release and should not be relied upon as prediction of future events. In light of the foregoing, investors are urged not to rely on any forward-looking statement in reaching any conclusion or making any investment decision about any securities of Tempest Therapeutics.
+4
+TEMPEST THERAPEUTICS, INC.
+Consolidated Balance Sheets
+(in thousands)
+September 30, 2026 | December 31, 2025
+Assets
+Current assets
+Cash and cash equivalents | $ | 897 | $ | 7,707
+Prepaid expenses and other current assets | 712 | 562
+Total current assets | 1,609 | 8,269
+Property and equipment, net | 429 | 605
+Operating lease right-of-use assets | 6,642 | 7,540
+Other noncurrent assets | 81 | 517
+Total assets | $ | 8,761 | $ | 16,931
+Liabilities and Stockholders’ Equity
+Current liabilities
+Accounts payable | $ | 2,031 | $ | 1,038
+Accrued expenses | 980 | 937
+Current operating lease liabilities | 1,336 | 1,192
+Accrued compensation | 322 | 147
+Total current liabilities | 4,669 | 3,314
+Operating lease liabilities | 5,922 | 6,949
+Total liabilities | 10,591 | 10,263
+Stockholders’ equity
+Common stock(1) | 17 | 5
+Additional paid-in capital(1) | 277,098 | 240,031
+Accumulated deficit | (278,945 | ) | (233,368 | )
+Total stockholders’ equity (deficit) | (1,830 | ) | 6,668
+Total liabilities and stockholders’ equity (deficit) | $ | 8,761 | $ | 16,931
+5
+TEMPEST THERAPEUTICS, INC.
+Consolidated Statements of Operations
+(in thousands, except per share amounts)
+Three months ended | Three months ended | Nine months ended | Nine months ended
+September 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Expenses:
+Research and development | $ | 207 | $ | 570 | $ | 2,140 | $ | 12,067
+General and administrative | 2,616 | 3,027 | 11,473 | 10,431
+Acquired in-process research and development | - | - | 22,180 | -
+Operating loss | (2,823 | ) | (3,597 | ) | (35,793 | ) | (22,498 | )
+Other income (expense), net:
+Interest expense | - | - | - | (207 | )
+Interest and other income, net | - | 86 | 30 | 464
+Financing costs related to equity line of credit | (806 | ) | - | (806 | ) | -
+Net loss | $ | (3,629 | ) | $ | (3,511 | ) | $ | (36,569 | ) | $ | (22,241 | )
+Net loss per share | $ | (0.21 | ) | $ | (0.79 | ) | $ | (2.54 | ) | $ | (5.71 | )
+Investor Contacts:
+Alexandra Santos
+Wheelhouse Life Science Advisors
+asantos@wheelhouselsa.com
+Aljanae Reynolds
+Wheelhouse Life Science Advisors
+areynolds@wheelhouselsa.com
+6
