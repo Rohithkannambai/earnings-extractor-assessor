@@ -1012,5 +1012,120 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1861657/000149315226052058/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1861657/000149315226052058/0001493152-26-052058-index.htm",
     "saved_at": "2026-11-18T06:07:55+08:00"
+  },
+  {
+    "cik": "911147",
+    "company": "CENTURY CASINOS INC /CO/",
+    "accession": "0000911147-26-000057",
+    "release_date": "2026-11-17",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 158.4,
+        "unit": "USD millions",
+        "quote": "Approximately $158.4 million in net operating revenue (compared to $153.7 million in the third quarter 2025)"
+      },
+      "operating_income": {
+        "value": 20.7,
+        "unit": "USD millions",
+        "quote": "Approximately $20.7 million in earnings from operations (compared to $17.1 million in the third quarter 2025)"
+      },
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The co-CEOs describe the third quarter as another quarter of strong operational performance, helped by property investments and operational improvements.",
+        "quote": "The third quarter represented another quarter of strong operational performance for our well-diversified portfolio, with the Company benefiting from the investments we have made in our properties and operational improvements."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The co-CEOs say the sale of the Canadian racing operations will cut annual cash rent and free cash to reinvest and reduce debt.",
+        "quote": "we announced the sale of our Racing and Entertainment Centre operations in Canada, which will reduce our annual cash rent expense under the Master Lease and provide further liquidity to reinvest into our business with excess cash used to reduce our indebtedness"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The company expects to report at least one more material weakness in internal control once it finishes analysing the restatement.",
+        "quote": "The Company expects to report at least one additional material weakness once it completes its analysis of the cause of the restatement."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The co-CEOs call the quarter strong, but the release announces a restatement, preliminary figures and an expected material weakness."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/911147-0000911147-26-000057.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/911147/000091114726000057/cnty-20261117xex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/911147/000091114726000057/0000911147-26-000057-index.htm",
+    "saved_at": "2026-11-19T06:07:50+08:00"
+  },
+  {
+    "cik": "354950",
+    "company": "HOME DEPOT, INC.",
+    "accession": "0000354950-26-000184",
+    "release_date": "2026-11-17",
+    "period_end": "2026-11-01",
+    "period_label": "quarter ended 1 November 2026",
+    "figures": {
+      "revenue": {
+        "value": 43398,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 43,398"
+      },
+      "operating_income": {
+        "value": 5479,
+        "unit": "USD millions",
+        "quote": "Operating income | 5,479"
+      },
+      "net_income": {
+        "value": 3713,
+        "unit": "USD millions",
+        "quote": "Net earnings | $ | 3,713"
+      },
+      "diluted_eps": {
+        "value": 3.72,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 3.72"
+      }
+    },
+    "guidance": {
+      "text": "Home Depot updated its fiscal 2026 guidance and expects total sales growth of approximately 4.5%.",
+      "quote": "Total sales growth of approximately 4.5%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The incoming CEO says third-quarter results exceeded the company's expectations.",
+        "quote": "Results in the third quarter exceeded our expectations."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The incoming CEO says execution and continued investment let the company grow market share in a dynamic environment.",
+        "quote": "Our associates’ strong engagement and exceptional execution, combined with our continued investments across the business, enabled us to grow market share in a dynamic environment"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The updated guidance expects fiscal 2026 diluted EPS to grow about 1.5% from $14.23 in fiscal 2025.",
+        "quote": "Diluted earnings-per-share to grow approximately 1.5% from $14.23 in fiscal 2025"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The incoming CEO says results exceeded expectations and the company grew market share."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/354950-0000354950-26-000184.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/hd_exhibit991x11012026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/0000354950-26-000184-index.htm",
+    "saved_at": "2026-11-19T06:07:50+08:00"
   }
 ]
