@@ -1253,5 +1253,106 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226052996/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226052996/0001493152-26-052996-index.htm",
     "saved_at": "2026-11-20T06:08:18+08:00"
+  },
+  {
+    "cik": "313364",
+    "company": "MESA ROYALTY TRUST/TX",
+    "accession": "0001104659-26-130124",
+    "release_date": "2026-11-19",
+    "period_end": "2026-11-19",
+    "period_label": "November 2026 monthly distribution (the release names no quarter)",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "costs",
+        "claim": "The trustee says there will be no distribution for November 2026 because costs exceeded the revenue from the royalty properties.",
+        "quote": "there will be no distribution paid for the month of November 2026, as costs, charges and expenses attributable to the Trust’s royalty properties exceeded the revenue received from the sale of oil, natural gas and other hydrocarbons"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The trustee says distributions are expected to be materially reduced until the Trust's cash reserves reach $2.0 million.",
+        "quote": "distributions to unitholders are expected to be materially reduced, until the Trust increases its cash reserves to a total of $2.0 million in order to provide added liquidity"
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The trustee announces no distribution and expects distributions to be materially reduced until reserves reach $2.0 million."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/313364-0001104659-26-130124.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/313364/000110465926130124/tm2630218d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/313364/000110465926130124/0001104659-26-130124-index.htm",
+    "saved_at": "2026-11-21T06:08:17+08:00"
+  },
+  {
+    "cik": "1032220",
+    "company": "MAXIMUS, INC.",
+    "accession": "0001032220-26-000048",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1300.808,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 1,300,808"
+      },
+      "operating_income": {
+        "value": 157.416,
+        "unit": "USD millions",
+        "quote": "Operating income | 157,416"
+      },
+      "net_income": {
+        "value": 97.005,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 97,005"
+      },
+      "diluted_eps": {
+        "value": 1.83,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 1.83"
+      }
+    },
+    "guidance": {
+      "text": "Maximus expects fiscal year 2027 revenue of $5.45 billion to $5.65 billion, including about ten months of Agile Defense.",
+      "quote": "We expect revenue to range between $5.45 billion and $5.65 billion. The outlook includes approximately ten months of contribution from Agile Defense"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says fiscal 2026 adjusted diluted EPS of $8.24 grew 12.0% and came in above the top of the latest guidance range.",
+        "quote": "These efforts contributed to adjusted diluted earnings per share of $8.24, representing 12.0% growth over the prior year and performance above the top end of our most recently updated guidance range."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says automation and AI-enabled solutions improved efficiency and strengthened profitability during the year.",
+        "quote": "we continued deploying automation and AI-enabled solutions across our operations, improving efficiency, strengthening profitability, and delivering meaningful outcomes for customers"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the Agile Defense acquisition significantly expands the company's position in defence and national security markets.",
+        "quote": "we completed the acquisition of Agile Defense, which significantly expands our position in defense and national security markets and enhances our portfolio of technology-enabled capabilities"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO stresses disciplined execution, earnings above the top of guidance and an acquisition that expands the business, and names no headwind."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1032220-0001032220-26-000048.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000048/mms-2026x09x30x8kxex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000048/0001032220-26-000048-index.htm",
+    "saved_at": "2026-11-21T06:08:17+08:00"
   }
 ]
