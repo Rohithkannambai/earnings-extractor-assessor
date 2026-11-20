@@ -1,106 +1,112 @@
 {
-  "fetched_at": "2026-11-19T10:47:15+08:00",
+  "fetched_at": "2026-11-20T10:14:08+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-17",
-    "end": "2026-11-18",
+    "start": "2026-11-18",
+    "end": "2026-11-19",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 15,
+  "requests": 16,
   "answered": 15,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-17&enddt=2026-11-18",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-19",
       "ok": true,
-      "detail": "HTTP 200, 43 KB in 97 ms"
+      "detail": "HTTP 200, 41 KB in 179 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 39 ms"
+      "detail": "HTTP 200, 148 KB in 49 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 20 ms"
+      "detail": "HTTP 200, 156 KB in 42 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 22 ms"
+      "detail": "HTTP 200, 153 KB in 37 ms"
     },
     {
-      "name": "KULICKE & SOFFA INDUSTRIES INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/56978/000005697826000038/index.json",
+      "name": "MESA ROYALTY TRUST/TX filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/313364/000110465926130124/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 75 ms"
+      "detail": "HTTP 200, 1 KB in 103 ms"
     },
     {
-      "name": "KULICKE & SOFFA INDUSTRIES INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/56978/000005697826000038/ex991liveq42026.htm",
+      "name": "MESA ROYALTY TRUST/TX press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/313364/000110465926130124/tm2630218d1_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 268 KB in 112 ms"
+      "detail": "HTTP 200, 7 KB in 136 ms"
     },
     {
-      "name": "GameSquare Holdings, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226052996/index.json",
+      "name": "MAXIMUS, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000048/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 56 ms"
+      "detail": "HTTP 200, 1 KB in 162 ms"
     },
     {
-      "name": "GameSquare Holdings, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226052996/ex99-1.htm",
+      "name": "MAXIMUS, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000048/mms-2026x09x30x8kxex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 141 KB in 115 ms"
+      "detail": "HTTP 200, 403 KB in 149 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 32 ms"
+      "detail": "HTTP 200, 3,174 KB in 79 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 25 ms"
+      "detail": "HTTP 200, 4,447 KB in 58 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 39 ms"
+      "detail": "HTTP 200, 2,745 KB in 49 ms"
     },
     {
-      "name": "KULICKE & SOFFA INDUSTRIES INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000056978.json",
-      "ok": true,
-      "detail": "HTTP 200, 3,570 KB in 33 ms"
+      "name": "MESA ROYALTY TRUST/TX company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000313364.json",
+      "ok": false,
+      "detail": "HTTP 404 from data.sec.gov: the address was not found"
     },
     {
-      "name": "GameSquare Holdings, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001714562.json",
+      "name": "MAXIMUS, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001032220.json",
       "ok": true,
-      "detail": "HTTP 200, 1,084 KB in 348 ms"
+      "detail": "HTTP 200, 2,977 KB in 674 ms"
     },
     {
       "name": "CENTURY CASINOS INC /CO/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000911147.json",
       "ok": true,
-      "detail": "HTTP 200, 3,079 KB in 528 ms"
+      "detail": "HTTP 200, 3,079 KB in 54 ms"
     },
     {
       "name": "HOME DEPOT, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000354950.json",
       "ok": true,
-      "detail": "HTTP 200, 3,142 KB in 54 ms"
+      "detail": "HTTP 200, 3,142 KB in 729 ms"
+    },
+    {
+      "name": "KULICKE & SOFFA INDUSTRIES INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000056978.json",
+      "ok": true,
+      "detail": "HTTP 200, 3,648 KB in 59 ms"
     }
   ],
   "files": [
@@ -108,16 +114,16 @@
     "data.sec.gov_api_xbrl_companyfacts_CIK0000354950.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000911147.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001032220.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001714562.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_1714562_000149315226052996_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1714562_000149315226052996_index.json",
-    "www.sec.gov_Archives_edgar_data_56978_000005697826000038_ex991liveq42026.htm",
-    "www.sec.gov_Archives_edgar_data_56978_000005697826000038_index.json"
+    "www.sec.gov_Archives_edgar_data_1032220_000103222026000048_index.json",
+    "www.sec.gov_Archives_edgar_data_1032220_000103222026000048_mms-2026x09x30x8kxex991.htm",
+    "www.sec.gov_Archives_edgar_data_313364_000110465926130124_index.json",
+    "www.sec.gov_Archives_edgar_data_313364_000110465926130124_tm2630218d1_ex99-1.htm"
   ]
 }
