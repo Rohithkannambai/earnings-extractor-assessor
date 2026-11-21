@@ -1,82 +1,112 @@
 {
-  "fetched_at": "2026-11-20T10:35:18+08:00",
+  "fetched_at": "2026-11-21T10:06:44+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-18",
-    "end": "2026-11-19",
+    "start": "2026-11-19",
+    "end": "2026-11-20",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 16,
-  "answered": 15,
+  "requests": 18,
+  "answered": 17,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-19",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-19&enddt=2026-11-20",
       "ok": true,
-      "detail": "HTTP 200, 41 KB in 45 ms"
+      "detail": "HTTP 200, 31 KB in 587 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 35 ms"
+      "detail": "HTTP 200, 149 KB in 151 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 18 ms"
+      "detail": "HTTP 200, 156 KB in 144 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 19 ms"
+      "detail": "HTTP 200, 153 KB in 328 ms"
     },
     {
-      "name": "MESA ROYALTY TRUST/TX filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/313364/000110465926130124/index.json",
+      "name": "Magnera Corp filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 55 ms"
+      "detail": "HTTP 200, 1 KB in 115 ms"
     },
     {
-      "name": "MESA ROYALTY TRUST/TX press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/313364/000110465926130124/tm2630218d1_ex99-1.htm",
+      "name": "Magnera Corp press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/ef20086010_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 7 KB in 51 ms"
+      "detail": "HTTP 200, 372 KB in 61 ms"
     },
     {
-      "name": "MAXIMUS, INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000048/index.json",
+      "name": "MOOG INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 46 ms"
+      "detail": "HTTP 200, 2 KB in 53 ms"
     },
     {
-      "name": "MAXIMUS, INC. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000048/mms-2026x09x30x8kxex991.htm",
+      "name": "MOOG INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/ex991-112026.htm",
       "ok": true,
-      "detail": "HTTP 200, 403 KB in 54 ms"
+      "detail": "HTTP 200, 445 KB in 173 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 32 ms"
+      "detail": "HTTP 200, 3,174 KB in 271 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 24 ms"
+      "detail": "HTTP 200, 4,447 KB in 287 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 25 ms"
+      "detail": "HTTP 200, 2,745 KB in 298 ms"
+    },
+    {
+      "name": "Magnera Corp company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
+      "ok": true,
+      "detail": "HTTP 200, 2,904 KB in 731 ms"
+    },
+    {
+      "name": "MOOG INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000067887.json",
+      "ok": true,
+      "detail": "HTTP 200, 4,053 KB in 421 ms"
+    },
+    {
+      "name": "CENTURY CASINOS INC /CO/ company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000911147.json",
+      "ok": true,
+      "detail": "HTTP 200, 3,079 KB in 268 ms"
+    },
+    {
+      "name": "HOME DEPOT, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000354950.json",
+      "ok": true,
+      "detail": "HTTP 200, 3,182 KB in 254 ms"
+    },
+    {
+      "name": "KULICKE & SOFFA INDUSTRIES INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000056978.json",
+      "ok": true,
+      "detail": "HTTP 200, 3,648 KB in 412 ms"
     },
     {
       "name": "MESA ROYALTY TRUST/TX company facts",
@@ -88,29 +118,13 @@
       "name": "MAXIMUS, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001032220.json",
       "ok": true,
-      "detail": "HTTP 200, 2,977 KB in 25 ms"
-    },
-    {
-      "name": "CENTURY CASINOS INC /CO/ company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000911147.json",
-      "ok": true,
-      "detail": "HTTP 200, 3,079 KB in 544 ms"
-    },
-    {
-      "name": "HOME DEPOT, INC. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000354950.json",
-      "ok": true,
-      "detail": "HTTP 200, 3,142 KB in 24 ms"
-    },
-    {
-      "name": "KULICKE & SOFFA INDUSTRIES INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000056978.json",
-      "ok": true,
-      "detail": "HTTP 200, 3,648 KB in 33 ms"
+      "detail": "HTTP 200, 2,977 KB in 268 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000041719.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000056978.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000067887.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000354950.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000911147.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
@@ -121,9 +135,9 @@
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_1032220_000103222026000048_index.json",
-    "www.sec.gov_Archives_edgar_data_1032220_000103222026000048_mms-2026x09x30x8kxex991.htm",
-    "www.sec.gov_Archives_edgar_data_313364_000110465926130124_index.json",
-    "www.sec.gov_Archives_edgar_data_313364_000110465926130124_tm2630218d1_ex99-1.htm"
+    "www.sec.gov_Archives_edgar_data_41719_000114036126044950_ef20086010_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_41719_000114036126044950_index.json",
+    "www.sec.gov_Archives_edgar_data_67887_000162828026075170_ex991-112026.htm",
+    "www.sec.gov_Archives_edgar_data_67887_000162828026075170_index.json"
   ]
 }
