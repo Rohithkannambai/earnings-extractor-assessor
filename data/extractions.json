@@ -1354,5 +1354,135 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000048/mms-2026x09x30x8kxex991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000048/0001032220-26-000048-index.htm",
     "saved_at": "2026-11-21T06:08:17+08:00"
+  },
+  {
+    "cik": "41719",
+    "company": "Magnera Corp",
+    "accession": "0001140361-26-044950",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 851,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 851 | $ | 839"
+      },
+      "operating_income": {
+        "value": -90,
+        "unit": "USD millions",
+        "quote": "Operating income (loss) | (90 | ) | 10"
+      },
+      "net_income": {
+        "value": -141,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | (141 | ) | $ | (40 | )"
+      },
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "For fiscal 2027, Magnera expects Adjusted EBITDA of $390 million to $410 million.",
+      "quote": "Fiscal Year 2027 Guidance • | Adjusted EBITDA of $390 - $410 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says Adjusted EBITDA improved by 8% in the fourth quarter compared with last year.",
+        "quote": "We finished Fiscal 2026 with an impressive 8% Adjusted EBITDA improvement in the fourth quarter compared to last year"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says Project CORE and synergies are optimising the cost structure and generating strong cash flow.",
+        "quote": "Through the successful implementation of Project CORE, ongoing realization of synergies, and a relentless focus on operational excellence, we are optimizing our cost structure, enhancing profitability, and generating exceptional cash flow."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the results came while navigating inflation and dynamic demand across end markets.",
+        "quote": "Our teams delivered these results while navigating inflationary pressures and dynamic demand conditions across our end markets"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO remains mindful of the macroeconomic environment but expects sustainable earnings growth and strong cash generation.",
+        "quote": "While we remain mindful of the broader macroeconomic environment, we are confident that the strength of our team, our market positions, and our disciplined execution will continue to support sustainable earnings growth and strong cash generation."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the results impressive and strong and is confident about earnings growth, while noting inflation, dynamic demand and the macroeconomic environment."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/41719-0001140361-26-044950.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/ef20086010_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/0001140361-26-044950-index.htm",
+    "saved_at": "2026-11-22T06:07:40+08:00"
+  },
+  {
+    "cik": "67887",
+    "company": "MOOG INC.",
+    "accession": "0001628280-26-075170",
+    "release_date": "2026-11-20",
+    "period_end": "2026-10-03",
+    "period_label": "quarter ended 3 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 1254.101,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 1,254,101 | $ | 1,049,138"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 107.206,
+        "unit": "USD millions",
+        "quote": "Net earnings | $ | 107,206 | $ | 64,406"
+      },
+      "diluted_eps": {
+        "value": 3.35,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 3.35 | $ | 2.01"
+      }
+    },
+    "guidance": {
+      "text": "For fiscal 2027, Moog guides net sales of $4,950 million, against $4,523 million in fiscal 2026.",
+      "quote": "Net sales | $ | 4,950 | $ | 4,523"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CFO says the fourth quarter had record sales in each segment, a robust operating margin and strong cash generation.",
+        "quote": "Our fourth quarter was marked by record sales in each of our segments, a robust operating margin and strong cash generation"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CFO expects record sales, stronger operating performance and meaningful operating cash flows in fiscal 2027.",
+        "quote": "In fiscal year 2027, we'll continue to build upon our financial strength with record sales, stronger operating performance and meaningful operating cash flows."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says fiscal 2026 delivered record results and met the goals set at the 2023 Investor Day.",
+        "quote": "We delivered record results and achieved the goals we established at our 2023 Investor Day"
+      },
+      {
+        "id": "M4",
+        "topic": "profit",
+        "claim": "The CEO is confident in sustained, profitable growth.",
+        "quote": "confident in our ability to deliver sustained, profitable growth and long-term value creation"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO and CFO describe a milestone, record year and a strong finish, and expect record sales and stronger performance in fiscal 2027."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/67887-0001628280-26-075170.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/ex991-112026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/0001628280-26-075170-index.htm",
+    "saved_at": "2026-11-22T06:07:40+08:00"
   }
 ]
