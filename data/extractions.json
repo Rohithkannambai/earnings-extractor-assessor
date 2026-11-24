@@ -1484,5 +1484,68 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/ex991-112026.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/0001628280-26-075170-index.htm",
     "saved_at": "2026-11-22T06:07:40+08:00"
+  },
+  {
+    "cik": "1535527",
+    "company": "CrowdStrike Holdings, Inc.",
+    "accession": "0001535527-26-000035",
+    "release_date": "2026-11-23",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 1583.419,
+        "unit": "USD millions",
+        "quote": "Total revenue | 1,583,419"
+      },
+      "operating_income": {
+        "value": -0.756,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (756)"
+      },
+      "net_income": {
+        "value": 24.856,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to CrowdStrike | $ | 24,856"
+      },
+      "diluted_eps": {
+        "value": 0.02,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.02"
+      }
+    },
+    "guidance": {
+      "text": "CrowdStrike expects total revenue of $1,638.1 million to $1,644.1 million for the fourth quarter of fiscal 2027.",
+      "quote": "Total revenue | $1,638.1 - $1,644.1 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says Q3 was the best quarter in the company's history and that growth accelerated across the business.",
+        "quote": "Q3 was the best quarter in CrowdStrike’s history,” said George Kurtz, CrowdStrike’s Founder and Chief Executive Officer. “Growth accelerated across the business as customers consolidated on the Falcon platform through Falcon Flex."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CFO says business momentum gives the company the confidence to raise its full-year outlook significantly.",
+        "quote": "Our strong business momentum gives us the confidence to significantly raise our full-year outlook."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The CFO expects the Zscaler acquisition to add to free cash flow per share immediately on closing, before any synergies.",
+        "quote": "I am also incredibly excited about our intent to acquire Zscaler, which we expect will be significantly and immediately accretive to free cash flow per share upon close before factoring any synergies."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls Q3 the best quarter in the company's history, and the CFO speaks of record performance and a raised full-year outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1535527-0001535527-26-000035.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/0001535527-26-000035-index.htm",
+    "saved_at": "2026-11-25T06:08:13+08:00"
   }
 ]
